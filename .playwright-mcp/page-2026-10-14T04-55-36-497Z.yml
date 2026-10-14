@@ -1,0 +1,131 @@
+- generic [active] [ref=f18e1]:
+  - banner [ref=f18e2]:
+    - link "Orange Market — początek strony" [ref=f18e3] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=f18e5]: Orange Market
+    - navigation "Porównywane ekrany" [ref=f18e6]:
+      - link "Homepage" [ref=f18e7] [cursor=pointer]:
+        - /url: "#homepage"
+      - link "Listing page" [ref=f18e8] [cursor=pointer]:
+        - /url: "#listing"
+      - link "Product page" [ref=f18e9] [cursor=pointer]:
+        - /url: "#product"
+  - main [ref=f18e10]:
+    - region [ref=f18e11]:
+      - generic [ref=f18e12]:
+        - paragraph [ref=f18e13]: Orange Market · raport zmian
+        - heading [level=1] [ref=f18e14]:
+          - text: Zobacz różnicę.
+          - emphasis [ref=f18e15]: Na ekranie, nie obok.
+        - paragraph [ref=f18e16]: Przesuń linię, aby porównać stan aktualny z kierunkiem po audycie. Ponumerowane punkty są przypięte do interfejsu — najedź lub kliknij, aby zobaczyć krótkie uzasadnienie zmiany.
+      - generic "Jak korzystać z porównania" [ref=f18e17]:
+        - generic [ref=f18e18]:
+          - generic [ref=f18e19]: "01"
+          - paragraph [ref=f18e20]:
+            - strong [ref=f18e21]: Przesuń
+            - text: suwak w lewo lub w prawo.
+        - generic [ref=f18e22]:
+          - generic [ref=f18e23]: "02"
+          - paragraph [ref=f18e24]:
+            - strong [ref=f18e25]: Najedź
+            - text: na punkt, aby przeczytać zmianę.
+        - generic [ref=f18e26]:
+          - generic [ref=f18e27]: "03"
+          - paragraph [ref=f18e28]:
+            - strong [ref=f18e29]: Przejdź
+            - text: przez trzy kluczowe ekrany.
+      - link "Zacznij porównanie" [ref=f18e30] [cursor=pointer]:
+        - /url: "#homepage"
+        - text: Zacznij porównanie
+        - generic [aria-hidden] [ref=f18e31]: ↓
+    - generic [ref=f18e32]:
+      - generic [ref=f18e33]:
+        - generic [ref=f18e34]:
+          - paragraph [ref=f18e35]: 01 · Homepage
+          - heading "Od katalogu do sprzedaży" [level=2] [ref=f18e36]
+        - paragraph [ref=f18e37]: Wyraźniejsza hierarchia, stała wyszukiwarka i szybsza droga do oferty.
+      - generic [ref=f18e38]:
+        - generic [ref=f18e39]:
+          - img "Aktualna strona główna Orange Market"
+          - img "Docelowa strona główna Orange Market z prototypu Figma"
+          - generic: Ma być · Figma
+          - generic: Jest · DEV
+          - 'button "Punkt 1: Wyszukiwanie zawsze dostępne" [ref=f18e40]':
+            - generic [ref=f18e41]: "1"
+          - 'button "Punkt 2: Spójne kategorie" [ref=f18e42]':
+            - generic [ref=f18e43]: "2"
+          - 'button "Punkt 3: Hero prowadzi do oferty" [ref=f18e44]':
+            - generic [ref=f18e45]: "3"
+          - 'button "Punkt 4: Skróty do promocji" [ref=f18e46]':
+            - generic [ref=f18e47]: "4"
+          - generic [aria-hidden]:
+            - generic: ↔
+          - slider "Porównaj aktualną i docelową stronę główną" [ref=f18e48]: "50"
+        - paragraph [ref=f18e49]:
+          - generic [ref=f18e50]: Jest · orm.ss-dev.pl
+          - generic [ref=f18e51]: Ma być · Figma Make
+    - generic [ref=f18e52]:
+      - generic [ref=f18e53]:
+        - generic [ref=f18e54]:
+          - paragraph [ref=f18e55]: 02 · Listing page
+          - heading "Więcej produktów, mniej przeszkód" [level=2] [ref=f18e56]
+        - paragraph [ref=f18e57]: Czytelne filtry, lepsza gęstość i informacje potrzebne do porównania już na liście.
+      - generic [ref=f18e58]:
+        - generic [ref=f18e59]:
+          - img "Aktualny listing produktów Orange Market"
+          - img "Docelowy listing produktów Orange Market z prototypu Figma"
+          - generic: Ma być · Figma
+          - generic: Jest · DEV
+          - 'button "Punkt 1: Szukanie poza filtrami" [ref=f18e60]':
+            - generic [ref=f18e61]: "1"
+          - 'button "Punkt 2: Gęstszy listing" [ref=f18e62]':
+            - generic [ref=f18e63]: "2"
+          - 'button "Punkt 3: Kategorie bez podwójnego scrolla" [ref=f18e64]':
+            - generic [ref=f18e65]: "3"
+          - 'button "Punkt 4: Filtry jako chipy" [ref=f18e66]':
+            - generic [ref=f18e67]: "4"
+          - generic [aria-hidden]:
+            - generic: ↔
+          - slider "Porównaj aktualny i docelowy listing produktów" [ref=f18e68]: "50"
+        - paragraph [ref=f18e69]:
+          - generic [ref=f18e70]: Jest · orm.ss-dev.pl
+          - generic [ref=f18e71]: Ma być · Figma Make
+    - generic [ref=f18e72]:
+      - generic [ref=f18e73]:
+        - generic [ref=f18e74]:
+          - paragraph [ref=f18e75]: 03 · Product page
+          - heading "Decyzja zakupowa bez szumu" [level=2] [ref=f18e76]
+        - paragraph [ref=f18e77]: Najważniejsze dane, sprzedawca i akcje zakupowe mieszczą się w jednym logicznym widoku.
+      - generic [ref=f18e78]:
+        - generic [ref=f18e79]:
+          - img "Aktualna karta produktu Orange Market"
+          - img "Docelowa karta produktu Orange Market z prototypu Figma"
+          - generic: Ma być · Figma
+          - generic: Jest · DEV
+          - 'button "Punkt 1: Informacja zamiast pustki" [ref=f18e80]':
+            - generic [ref=f18e81]: "1"
+          - 'button "Punkt 2: Specyfikacja w tym samym rytmie" [ref=f18e82]':
+            - generic [ref=f18e83]: "2"
+          - 'button "Punkt 3: Jasna hierarchia zakupu" [ref=f18e84]':
+            - generic [ref=f18e85]: "3"
+          - 'button "Punkt 4: Sprzedawca i zaufanie" [ref=f18e86]':
+            - generic [ref=f18e87]: "4"
+          - generic [aria-hidden]:
+            - generic: ↔
+          - slider "Porównaj aktualną i docelową kartę produktu" [ref=f18e88]: "50"
+        - paragraph [ref=f18e89]:
+          - generic [ref=f18e90]: Jest · orm.ss-dev.pl
+          - generic [ref=f18e91]: Ma być · Figma Make
+    - generic [ref=f18e92]:
+      - generic [ref=f18e93]:
+        - paragraph [ref=f18e94]: Materiał źródłowy
+        - paragraph [ref=f18e95]: Zestawienie przygotowane na podstawie raportu UX, dokumentu zmian, prototypu Figma Make, aktualnego DEV oraz MR !770.
+      - generic [ref=f18e96]:
+        - link "Raport Figma ↗" [ref=f18e97] [cursor=pointer]:
+          - /url: https://www.figma.com/deck/4g0NQHu2rzGYjbY9mWP7CP/UXR--Focus-point-Orange-Market?node-id=1-42
+        - link "Nowy design ↗" [ref=f18e98] [cursor=pointer]:
+          - /url: https://www.figma.com/make/fzBphnQpCIOYeuvqGPpVxW/Prototyp-UX-UI--Orange-Market_Portal?code-node-id=0-6&p=f&t=x3WWb9C4gPBWGsKM-0&fullscreen=1
+        - link "Aktualny DEV ↗" [ref=f18e99] [cursor=pointer]:
+          - /url: https://orm.ss-dev.pl/
+        - link "MR !770 ↗" [ref=f18e100] [cursor=pointer]:
+          - /url: https://gitlab.blurify.com/orange-marketplace/orm-frontend/-/merge_requests/770

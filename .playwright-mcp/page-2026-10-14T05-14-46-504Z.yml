@@ -1,0 +1,104 @@
+- generic [active] [ref=f22e1]:
+  - banner [ref=f22e2]:
+    - link "Orange Market — początek strony" [ref=f22e3] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=f22e5]: Orange Market
+    - navigation "Porównywane ekrany" [ref=f22e6]:
+      - link "Homepage" [ref=f22e7] [cursor=pointer]:
+        - /url: "#homepage"
+      - link "Listing page" [ref=f22e8] [cursor=pointer]:
+        - /url: "#listing"
+      - link "Product page" [ref=f22e9] [cursor=pointer]:
+        - /url: "#product"
+  - main [ref=f22e10]:
+    - generic [ref=f22e11]:
+      - generic [ref=f22e12]:
+        - generic [ref=f22e13]:
+          - paragraph [ref=f22e14]: 01 · Homepage
+          - heading "Od katalogu do sprzedaży" [level=2] [ref=f22e15]
+        - paragraph [ref=f22e16]: Raport wskazuje przede wszystkim kryzys zaufania, nadmiar bodźców i niejasną drogę do właściwej oferty.
+      - generic [ref=f22e17]:
+        - generic [ref=f22e18]:
+          - img "Aktualna strona główna Orange Market"
+          - img "Docelowa strona główna Orange Market z prototypu Figma"
+          - generic: Ma być · Figma
+          - generic: Jest · DEV
+          - 'button "Punkt 1: Wiarygodny Orange Market" [ref=f22e19]':
+            - generic [ref=f22e20]: "1"
+          - 'button "Punkt 2: Kategorie zgodne z modelem użytkownika" [ref=f22e21]':
+            - generic [ref=f22e22]: "2"
+          - 'button "Punkt 3: Hero prowadzi do właściwej oferty" [ref=f22e23]':
+            - generic [ref=f22e24]: "3"
+          - 'button "Punkt 4: Produkty już w pierwszym ekranie" [ref=f22e25]':
+            - generic [ref=f22e26]: "4"
+          - generic [aria-hidden]:
+            - generic: ↔
+          - slider "Porównaj aktualną i docelową stronę główną" [ref=f22e27]: "50"
+        - paragraph [ref=f22e28]:
+          - generic [ref=f22e29]: Jest · orm.ss-dev.pl
+          - generic [ref=f22e30]: Ma być · Figma Make
+    - generic [ref=f22e31]:
+      - generic [ref=f22e32]:
+        - generic [ref=f22e33]:
+          - paragraph [ref=f22e34]: 02 · Listing page
+          - heading "Więcej produktów, mniej przeszkód" [level=2] [ref=f22e35]
+        - paragraph [ref=f22e36]: Raport zaleca spójną taksonomię, trafniejsze sortowanie i karty pozwalające porównać produkty bez otwierania każdego z nich.
+      - generic [ref=f22e37]:
+        - generic [ref=f22e38]:
+          - img "Aktualny listing produktów Orange Market"
+          - img "Docelowy listing produktów Orange Market z prototypu Figma"
+          - generic: Ma być · Figma
+          - generic: Jest · DEV
+          - 'button "Punkt 1: Orientacja po wyszukiwaniu" [ref=f22e39]':
+            - generic [ref=f22e40]: "1"
+          - 'button "Punkt 2: Karta gotowa do porównania" [ref=f22e41]':
+            - generic [ref=f22e42]: "2"
+          - 'button "Punkt 3: Jedna logika kategorii" [ref=f22e43]':
+            - generic [ref=f22e44]: "3"
+          - 'button "Punkt 4: Trafność przed najniższą ceną" [ref=f22e45]':
+            - generic [ref=f22e46]: "4"
+          - generic [aria-hidden]:
+            - generic: ↔
+          - slider "Porównaj aktualny i docelowy listing produktów" [ref=f22e47]: "50"
+        - paragraph [ref=f22e48]:
+          - generic [ref=f22e49]: Jest · orm.ss-dev.pl
+          - generic [ref=f22e50]: Ma być · Figma Make
+    - generic [ref=f22e51]:
+      - generic [ref=f22e52]:
+        - generic [ref=f22e53]:
+          - paragraph [ref=f22e54]: 03 · Product page
+          - heading "Decyzja zakupowa bez szumu" [level=2] [ref=f22e55]
+        - paragraph [ref=f22e56]: Raport wskazuje braki w dostawie, parametrach, wariantach i hierarchii akcji — wszystkie te dane powinny wspierać decyzję w jednym widoku.
+      - generic [ref=f22e57]:
+        - generic [ref=f22e58]:
+          - img "Aktualna karta produktu Orange Market"
+          - img "Docelowa karta produktu Orange Market z prototypu Figma"
+          - generic: Ma być · Figma
+          - generic: Jest · DEV
+          - 'button "Punkt 1: Galeria łatwa do skanowania" [ref=f22e59]':
+            - generic [ref=f22e60]: "1"
+          - 'button "Punkt 2: Pełna informacja produktowa" [ref=f22e61]':
+            - generic [ref=f22e62]: "2"
+          - 'button "Punkt 3: Jednoznaczna decyzja zakupowa" [ref=f22e63]':
+            - generic [ref=f22e64]: "3"
+          - 'button "Punkt 4: Opinie, warianty i sprzedawca" [ref=f22e65]':
+            - generic [ref=f22e66]: "4"
+          - generic [aria-hidden]:
+            - generic: ↔
+          - slider "Porównaj aktualną i docelową kartę produktu" [ref=f22e67]: "50"
+        - paragraph [ref=f22e68]:
+          - generic [ref=f22e69]: Jest · orm.ss-dev.pl
+          - generic [ref=f22e70]: Ma być · Figma Make
+    - generic [ref=f22e71]:
+      - generic [ref=f22e72]:
+        - paragraph [ref=f22e73]: Materiał źródłowy
+        - paragraph [ref=f22e74]: Zestawienie przygotowane na podstawie raportu UX, dokumentu zmian, prototypu Figma Make, aktualnego DEV oraz MR !770.
+      - generic [ref=f22e75]:
+        - link "Raport Figma ↗" [ref=f22e76] [cursor=pointer]:
+          - /url: https://www.figma.com/deck/4g0NQHu2rzGYjbY9mWP7CP/UXR--Focus-point-Orange-Market?node-id=1-42
+        - link "Nowy design ↗" [ref=f22e77] [cursor=pointer]:
+          - /url: https://www.figma.com/make/fzBphnQpCIOYeuvqGPpVxW/Prototyp-UX-UI--Orange-Market_Portal?code-node-id=0-6&p=f&t=x3WWb9C4gPBWGsKM-0&fullscreen=1
+        - link "Aktualny DEV ↗" [ref=f22e78] [cursor=pointer]:
+          - /url: https://orm.ss-dev.pl/
+        - link "MR !770 ↗" [ref=f22e79] [cursor=pointer]:
+          - /url: https://gitlab.blurify.com/orange-marketplace/orm-frontend/-/merge_requests/770

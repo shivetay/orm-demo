@@ -1,0 +1,608 @@
+- generic [ref=f8e1]:
+  - link "Przejdź do treści głównej" [ref=f8e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=f8e3]:
+    - banner [ref=f8e5]:
+      - navigation [ref=f8e6]:
+        - generic [ref=f8e9]:
+          - generic [ref=f8e10]:
+            - link "Back to Home" [ref=f8e11] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f8e18]:
+              - link "Produkty" [ref=f8e19] [cursor=pointer]:
+                - /url: /products
+              - button "Oferta Orange" [ref=f8e22] [cursor=pointer]
+              - button "Smartfony w Orange" [ref=f8e25] [cursor=pointer]
+              - generic [ref=f8e28]:
+                - link "Promo button 2" [ref=f8e30] [cursor=pointer]:
+                  - /url: aasdd
+                - link "Promo button 3" [ref=f8e33] [cursor=pointer]:
+                  - /url: lalaal
+          - generic [ref=f8e36]:
+            - button "Szukaj" [ref=f8e38] [cursor=pointer]
+            - button "Koszyk" [ref=f8e42] [cursor=pointer]
+            - link "Zaloguj się" [ref=f8e47] [cursor=pointer]:
+              - /url: /login?redirect=%2F
+    - complementary "Widget prawy" [ref=f8e51]:
+      - link "Widget prawy" [ref=f8e52] [cursor=pointer]:
+        - /url: https://orm.ss-dev.pl/male-agd/thermomix-agd
+    - main [ref=f8e55]:
+      - generic [ref=f8e56]:
+        - generic [ref=f8e57]:
+          - region "Informacja" [ref=f8e58]:
+            - generic [ref=f8e60]:
+              - text: Sprawdź ofertę
+              - link "https://www.orange.pl/internet/internet-domowy" [ref=f8e61] [cursor=pointer]:
+                - /url: https://www.orange.pl/internet/internet-domowy
+              - text: albo
+              - link "tu" [ref=f8e62] [cursor=pointer]:
+                - /url: https://www.orange.pl/internet/internet-domowy
+          - generic [ref=f8e64]:
+            - generic [ref=f8e65]:
+              - heading "Najczęściej wybierane" [level=4] [ref=f8e66]
+              - group [ref=f8e67]:
+                - link "SmartHome / IoT" [ref=f8e68] [cursor=pointer]:
+                  - /url: /smarthome-iot
+                - link "Duże AGD" [ref=f8e73] [cursor=pointer]:
+                  - /url: /agd
+                - link "TV, Audio i RTV" [ref=f8e77] [cursor=pointer]:
+                  - /url: /tv-rtv-i-audio
+                - link "Gaming" [ref=f8e82] [cursor=pointer]:
+                  - /url: /online-gaming
+                - link "Smartfony" [ref=f8e86] [cursor=pointer]:
+                  - /url: https://www.orange.pl/esklep/smartfony?zaznacz-raty=true&terminalsFilterUid=70718
+            - generic [ref=f8e90]:
+              - generic [ref=f8e91]:
+                - generic [ref=f8e92]:
+                  - img "Kupuj na Orange Marketplace" [ref=f8e94]
+                  - generic [ref=f8e95]:
+                    - heading "Kupuj na Orange Marketplace" [level=2] [ref=f8e96]
+                    - paragraph [ref=f8e97]: Darmowy pakiet smart na szybkie dostawy do paczkomatów na 2 lata! Tu znajdziesz najlepsze oferty - test Tak O!
+                    - link [ref=f8e98] [cursor=pointer]:
+                      - /url: https://orm.ss-dev.pl/faq/gdzie-uzyskam-pomoc-z-podlaczeniem-swiatlowodu
+                      - button "Sprawdź" [ref=f8e99]
+                - button "Wstrzymaj pokazywanie" [ref=f8e101] [cursor=pointer]
+              - generic [ref=f8e105]:
+                - 'button "Przejdź do slajdu 1: Kupuj na Orange&nbsp;Marketplace" [ref=f8e106] [cursor=pointer]'
+                - 'button "Przejdź do slajdu 2: Wybierz dostawę dla każdej paczki sprzedawcy." [ref=f8e107] [cursor=pointer]'
+                - 'button "Przejdź do slajdu 3: Jak założyć konto i czy jest obowiązkowe?" [ref=f8e108] [cursor=pointer]'
+                - 'button "Przejdź do slajdu 4: 2 w cenie 1 Tak O!" [ref=f8e109] [cursor=pointer]'
+                - 'button "Przejdź do slajdu 5: Naglowek" [ref=f8e110] [cursor=pointer]'
+              - button "Poprzedni" [ref=f8e111] [cursor=pointer]
+              - button "Następny" [ref=f8e114] [cursor=pointer]
+        - generic [ref=f8e118]:
+          - complementary [ref=f8e119]:
+            - link "Boczny panel reklamowy" [ref=f8e120] [cursor=pointer]:
+              - /url: https://onet.pl
+              - img "Boczny panel reklamowy" [ref=f8e121]
+          - generic [ref=f8e122]:
+            - generic [ref=f8e123]:
+              - heading "Oferty na czasie" [level=3] [ref=f8e125]
+              - generic [ref=f8e126]:
+                - generic [ref=f8e127]:
+                  - heading "Wybierz dostawę dla każdej paczki/sprzedawcy." [level=4] [ref=f8e129]
+                  - generic:
+                    - img "Wybierz dostawę dla każdej paczki/sprzedawcy."
+                  - link [ref=f8e130] [cursor=pointer]:
+                    - /url: https://orm.ss-dev.pl/faq
+                    - button "Sprawdź" [ref=f8e131]
+                - generic [ref=f8e135]:
+                  - heading "Pakiet Smart for 2" [level=4] [ref=f8e137]
+                  - generic:
+                    - img "Pakiet Smart for 2"
+                  - link [ref=f8e138] [cursor=pointer]:
+                    - /url: https://orm.ss-dev.pl/faq
+                    - button "Sprawdź" [ref=f8e139]
+                - generic [ref=f8e143]:
+                  - heading "Super oferty na flagowe modele! 2za1" [level=4] [ref=f8e145]
+                  - generic:
+                    - img "Super oferty na flagowe modele! 2za1"
+                  - link [ref=f8e146] [cursor=pointer]:
+                    - /url: https://orm.ss-dev.pl/faq
+                    - button "Sprawdź" [ref=f8e147]
+                - generic [ref=f8e151]:
+                  - heading "Weź i idź! Tak O!" [level=4] [ref=f8e153]
+                  - generic:
+                    - img "Weź i idź! Tak O!"
+                  - link [ref=f8e154] [cursor=pointer]:
+                    - /url: https://orm.ss-dev.pl/faq
+                    - button "Sprawdź" [ref=f8e155]
+            - generic [ref=f8e159]:
+              - generic [ref=f8e160]:
+                - generic [ref=f8e161]:
+                  - generic [ref=f8e162]:
+                    - heading "Nowości (Oferta sponsorowana)" [level=2] [ref=f8e163]:
+                      - text: Nowości
+                      - generic [ref=f8e164]: (Oferta sponsorowana)
+                    - paragraph
+                  - link [ref=f8e166] [cursor=pointer]:
+                    - /url: /new-arrivals-slider
+                    - button "Zobacz wszystkie" [ref=f8e167]
+                - generic [ref=f8e170]:
+                  - generic [ref=f8e171]:
+                    - link "Kupisz na RATY Ładowanie... Seria Samsung Galaxy Z" [ref=f8e172] [cursor=pointer]:
+                      - /url: https://www.orange.pl/esklep/smartfony?zaznacz-raty=true&terminalsFilterUid=70718
+                      - generic [ref=f8e173]: Kupisz na RATY
+                      - generic [ref=f8e175]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Seria Samsung Galaxy Z" [ref=f8e176]
+                    - link [ref=f8e177] [cursor=pointer]:
+                      - /url: https://www.orange.pl/esklep/smartfony?zaznacz-raty=true&terminalsFilterUid=70718
+                      - heading "Seria Samsung Galaxy Z" [level=3] [ref=f8e178]
+                    - generic [ref=f8e179]: od 5699,00 zł
+                    - link [ref=f8e182] [cursor=pointer]:
+                      - /url: https://www.orange.pl/esklep/smartfony?zaznacz-raty=true&terminalsFilterUid=70718
+                      - button "Szczegóły produktu" [ref=f8e183]
+                  - generic [ref=f8e184]:
+                    - link "Kupisz na RATY Ładowanie... Thermomix" [ref=f8e185] [cursor=pointer]:
+                      - /url: /products/thermomix-agd
+                      - generic [ref=f8e186]: Kupisz na RATY
+                      - generic [ref=f8e188]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Thermomix" [ref=f8e189]
+                    - link [ref=f8e190] [cursor=pointer]:
+                      - /url: /products/thermomix-agd
+                      - heading "Thermomix" [level=3] [ref=f8e191]
+                    - generic [ref=f8e192]:
+                      - generic [ref=f8e193]: 6998,00 zł
+                      - generic [ref=f8e194]: 7800,00 zł
+                    - link [ref=f8e196] [cursor=pointer]:
+                      - /url: /products/thermomix-agd
+                      - button "Szczegóły produktu" [ref=f8e197]
+                    - generic [ref=f8e198]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 5900,00 zł
+                  - generic [ref=f8e199]:
+                    - link "Kupisz na RATY Ładowanie... Smartwatch Health Pro X1" [ref=f8e200] [cursor=pointer]:
+                      - /url: /products/smartwatch-health-pro-x1
+                      - generic [ref=f8e201]: Kupisz na RATY
+                      - generic [ref=f8e203]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Smartwatch Health Pro X1" [ref=f8e204]
+                    - link [ref=f8e205] [cursor=pointer]:
+                      - /url: /products/smartwatch-health-pro-x1
+                      - heading "Smartwatch Health Pro X1" [level=3] [ref=f8e206]
+                    - generic [ref=f8e207]:
+                      - generic [ref=f8e208]: 499,00 zł
+                      - generic [ref=f8e209]: 600,00 zł
+                    - link [ref=f8e211] [cursor=pointer]:
+                      - /url: /products/smartwatch-health-pro-x1
+                      - button "Szczegóły produktu" [ref=f8e212]
+                    - generic [ref=f8e213]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 499,00 zł
+                  - generic [ref=f8e214]:
+                    - link "Kupisz na RATY Ładowanie... Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [ref=f8e215] [cursor=pointer]:
+                      - /url: /products/chip-do-pc-intel-core-i5-13600k
+                      - generic [ref=f8e216]: Kupisz na RATY
+                      - generic [ref=f8e218]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [ref=f8e219]
+                    - link [ref=f8e220] [cursor=pointer]:
+                      - /url: /products/chip-do-pc-intel-core-i5-13600k
+                      - heading "Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [level=3] [ref=f8e221]
+                    - generic [ref=f8e222]: 1349,00 zł
+                    - link [ref=f8e225] [cursor=pointer]:
+                      - /url: /products/chip-do-pc-intel-core-i5-13600k
+                      - button "Szczegóły produktu" [ref=f8e226]
+                  - generic [ref=f8e227]:
+                    - link [ref=f8e228] [cursor=pointer]:
+                      - /url: /products/samsung-galaxy-s23-128gb
+                      - generic [ref=f8e229]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Samsung Galaxy S23 128GB" [ref=f8e230]
+                    - link [ref=f8e231] [cursor=pointer]:
+                      - /url: /products/samsung-galaxy-s23-128gb
+                      - heading "Samsung Galaxy S23 128GB" [level=3] [ref=f8e232]
+                    - generic [ref=f8e233]:
+                      - generic [ref=f8e234]: 100,00 zł
+                      - generic [ref=f8e235]: 5000,00 zł
+                    - link [ref=f8e237] [cursor=pointer]:
+                      - /url: /products/samsung-galaxy-s23-128gb
+                      - button "Szczegóły produktu" [ref=f8e238]
+                    - generic [ref=f8e239]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 100,00 zł
+                  - generic [ref=f8e240]:
+                    - link [ref=f8e241] [cursor=pointer]:
+                      - /url: /products/gta-vc
+                      - generic [ref=f8e242]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "GTA VC" [ref=f8e243]
+                    - link [ref=f8e244] [cursor=pointer]:
+                      - /url: /products/gta-vc
+                      - heading "GTA VC" [level=3] [ref=f8e245]
+                    - generic [ref=f8e246]:
+                      - generic [ref=f8e247]: 123,00 zł
+                      - generic [ref=f8e248]: 333,00 zł
+                    - link [ref=f8e250] [cursor=pointer]:
+                      - /url: /products/gta-vc
+                      - button "Szczegóły produktu" [ref=f8e251]
+                    - generic [ref=f8e252]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 123,00 zł
+                  - generic [ref=f8e253]:
+                    - link "Kupisz na RATY Ładowanie... Piekarnik Hisense BI64211PX" [ref=f8e254] [cursor=pointer]:
+                      - /url: /products/piekarnik-hisense-bi64211px
+                      - generic [ref=f8e255]: Kupisz na RATY
+                      - generic [ref=f8e257]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Piekarnik Hisense BI64211PX" [ref=f8e258]
+                    - link [ref=f8e259] [cursor=pointer]:
+                      - /url: /products/piekarnik-hisense-bi64211px
+                      - heading "Piekarnik Hisense BI64211PX" [level=3] [ref=f8e260]
+                    - generic [ref=f8e261]: 1399,00 zł
+                    - link [ref=f8e264] [cursor=pointer]:
+                      - /url: /products/piekarnik-hisense-bi64211px
+                      - button "Szczegóły produktu" [ref=f8e265]
+              - complementary [ref=f8e267]:
+                - link "promo-banner-carousel" [ref=f8e268] [cursor=pointer]:
+                  - /url: https://orm.ss-dev.pl/agd
+                  - img "promo-banner-carousel" [ref=f8e269]
+              - generic [ref=f8e270]:
+                - generic [ref=f8e271]:
+                  - generic [ref=f8e272]:
+                    - heading "Polecane produkty" [level=2] [ref=f8e273]
+                    - paragraph
+                  - link [ref=f8e275] [cursor=pointer]:
+                    - /url: /recommended-products-slider
+                    - button "Zobacz wszystkie" [ref=f8e276]
+                - generic [ref=f8e279]:
+                  - generic [ref=f8e280]:
+                    - link "Kupisz na RATY Ładowanie... Thermomix" [ref=f8e281] [cursor=pointer]:
+                      - /url: /products/thermomix-agd
+                      - generic [ref=f8e282]: Kupisz na RATY
+                      - generic [ref=f8e284]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Thermomix" [ref=f8e285]
+                    - link [ref=f8e286] [cursor=pointer]:
+                      - /url: /products/thermomix-agd
+                      - heading "Thermomix" [level=3] [ref=f8e287]
+                    - generic [ref=f8e288]:
+                      - generic [ref=f8e289]: 6998,00 zł
+                      - generic [ref=f8e290]: 7800,00 zł
+                    - link [ref=f8e292] [cursor=pointer]:
+                      - /url: /products/thermomix-agd
+                      - button "Szczegóły produktu" [ref=f8e293]
+                    - generic [ref=f8e294]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 5900,00 zł
+                  - generic [ref=f8e295]:
+                    - link "Kupisz na RATY Ładowanie... Smartwatch Health Pro X1" [ref=f8e296] [cursor=pointer]:
+                      - /url: /products/smartwatch-health-pro-x1
+                      - generic [ref=f8e297]: Kupisz na RATY
+                      - generic [ref=f8e299]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Smartwatch Health Pro X1" [ref=f8e300]
+                    - link [ref=f8e301] [cursor=pointer]:
+                      - /url: /products/smartwatch-health-pro-x1
+                      - heading "Smartwatch Health Pro X1" [level=3] [ref=f8e302]
+                    - generic [ref=f8e303]:
+                      - generic [ref=f8e304]: 499,00 zł
+                      - generic [ref=f8e305]: 600,00 zł
+                    - link [ref=f8e307] [cursor=pointer]:
+                      - /url: /products/smartwatch-health-pro-x1
+                      - button "Szczegóły produktu" [ref=f8e308]
+                    - generic [ref=f8e309]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 499,00 zł
+                  - generic [ref=f8e310]:
+                    - link "Kupisz na RATY Ładowanie... Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [ref=f8e311] [cursor=pointer]:
+                      - /url: /products/chip-do-pc-intel-core-i5-13600k
+                      - generic [ref=f8e312]: Kupisz na RATY
+                      - generic [ref=f8e314]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [ref=f8e315]
+                    - link [ref=f8e316] [cursor=pointer]:
+                      - /url: /products/chip-do-pc-intel-core-i5-13600k
+                      - heading "Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [level=3] [ref=f8e317]
+                    - generic [ref=f8e318]: 1349,00 zł
+                    - link [ref=f8e321] [cursor=pointer]:
+                      - /url: /products/chip-do-pc-intel-core-i5-13600k
+                      - button "Szczegóły produktu" [ref=f8e322]
+                  - generic [ref=f8e323]:
+                    - link [ref=f8e324] [cursor=pointer]:
+                      - /url: /products/samsung-galaxy-s23-128gb
+                      - generic [ref=f8e325]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Samsung Galaxy S23 128GB" [ref=f8e326]
+                    - link [ref=f8e327] [cursor=pointer]:
+                      - /url: /products/samsung-galaxy-s23-128gb
+                      - heading "Samsung Galaxy S23 128GB" [level=3] [ref=f8e328]
+                    - generic [ref=f8e329]:
+                      - generic [ref=f8e330]: 100,00 zł
+                      - generic [ref=f8e331]: 5000,00 zł
+                    - link [ref=f8e333] [cursor=pointer]:
+                      - /url: /products/samsung-galaxy-s23-128gb
+                      - button "Szczegóły produktu" [ref=f8e334]
+                    - generic [ref=f8e335]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 100,00 zł
+                  - generic [ref=f8e336]:
+                    - link [ref=f8e337] [cursor=pointer]:
+                      - /url: /products/gta-vc
+                      - generic [ref=f8e338]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "GTA VC" [ref=f8e339]
+                    - link [ref=f8e340] [cursor=pointer]:
+                      - /url: /products/gta-vc
+                      - heading "GTA VC" [level=3] [ref=f8e341]
+                    - generic [ref=f8e342]:
+                      - generic [ref=f8e343]: 123,00 zł
+                      - generic [ref=f8e344]: 333,00 zł
+                    - link [ref=f8e346] [cursor=pointer]:
+                      - /url: /products/gta-vc
+                      - button "Szczegóły produktu" [ref=f8e347]
+                    - generic [ref=f8e348]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 123,00 zł
+                  - generic [ref=f8e349]:
+                    - link "Kupisz na RATY Ładowanie... Piekarnik Hisense BI64211PX" [ref=f8e350] [cursor=pointer]:
+                      - /url: /products/piekarnik-hisense-bi64211px
+                      - generic [ref=f8e351]: Kupisz na RATY
+                      - generic [ref=f8e353]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Piekarnik Hisense BI64211PX" [ref=f8e354]
+                    - link [ref=f8e355] [cursor=pointer]:
+                      - /url: /products/piekarnik-hisense-bi64211px
+                      - heading "Piekarnik Hisense BI64211PX" [level=3] [ref=f8e356]
+                    - generic [ref=f8e357]: 1399,00 zł
+                    - link [ref=f8e360] [cursor=pointer]:
+                      - /url: /products/piekarnik-hisense-bi64211px
+                      - button "Szczegóły produktu" [ref=f8e361]
+              - generic [ref=f8e362]:
+                - generic [ref=f8e363]:
+                  - generic [ref=f8e364]:
+                    - heading "Aktualne promocje" [level=2] [ref=f8e365]
+                    - paragraph
+                  - link [ref=f8e367] [cursor=pointer]:
+                    - /url: /promotions-slider
+                    - button "Zobacz wszystkie" [ref=f8e368]
+                - generic [ref=f8e371]:
+                  - generic [ref=f8e372]:
+                    - link "Kupisz na RATY Ładowanie... Thermomix" [ref=f8e373] [cursor=pointer]:
+                      - /url: /products/thermomix-agd
+                      - generic [ref=f8e374]: Kupisz na RATY
+                      - generic [ref=f8e376]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Thermomix" [ref=f8e377]
+                    - link [ref=f8e378] [cursor=pointer]:
+                      - /url: /products/thermomix-agd
+                      - heading "Thermomix" [level=3] [ref=f8e379]
+                    - generic [ref=f8e380]:
+                      - generic [ref=f8e381]: 6998,00 zł
+                      - generic [ref=f8e382]: 7800,00 zł
+                    - link [ref=f8e384] [cursor=pointer]:
+                      - /url: /products/thermomix-agd
+                      - button "Szczegóły produktu" [ref=f8e385]
+                    - generic [ref=f8e386]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 5900,00 zł
+                  - generic [ref=f8e387]:
+                    - link "Kupisz na RATY Ładowanie... Smartwatch Health Pro X1" [ref=f8e388] [cursor=pointer]:
+                      - /url: /products/smartwatch-health-pro-x1
+                      - generic [ref=f8e389]: Kupisz na RATY
+                      - generic [ref=f8e391]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Smartwatch Health Pro X1" [ref=f8e392]
+                    - link [ref=f8e393] [cursor=pointer]:
+                      - /url: /products/smartwatch-health-pro-x1
+                      - heading "Smartwatch Health Pro X1" [level=3] [ref=f8e394]
+                    - generic [ref=f8e395]:
+                      - generic [ref=f8e396]: 499,00 zł
+                      - generic [ref=f8e397]: 600,00 zł
+                    - link [ref=f8e399] [cursor=pointer]:
+                      - /url: /products/smartwatch-health-pro-x1
+                      - button "Szczegóły produktu" [ref=f8e400]
+                    - generic [ref=f8e401]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 499,00 zł
+                  - generic [ref=f8e402]:
+                    - link "Kupisz na RATY Ładowanie... Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [ref=f8e403] [cursor=pointer]:
+                      - /url: /products/chip-do-pc-intel-core-i5-13600k
+                      - generic [ref=f8e404]: Kupisz na RATY
+                      - generic [ref=f8e406]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [ref=f8e407]
+                    - link [ref=f8e408] [cursor=pointer]:
+                      - /url: /products/chip-do-pc-intel-core-i5-13600k
+                      - heading "Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [level=3] [ref=f8e409]
+                    - generic [ref=f8e410]: 1349,00 zł
+                    - link [ref=f8e413] [cursor=pointer]:
+                      - /url: /products/chip-do-pc-intel-core-i5-13600k
+                      - button "Szczegóły produktu" [ref=f8e414]
+                  - generic [ref=f8e415]:
+                    - link [ref=f8e416] [cursor=pointer]:
+                      - /url: /products/samsung-galaxy-s23-128gb
+                      - generic [ref=f8e417]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Samsung Galaxy S23 128GB" [ref=f8e418]
+                    - link [ref=f8e419] [cursor=pointer]:
+                      - /url: /products/samsung-galaxy-s23-128gb
+                      - heading "Samsung Galaxy S23 128GB" [level=3] [ref=f8e420]
+                    - generic [ref=f8e421]:
+                      - generic [ref=f8e422]: 100,00 zł
+                      - generic [ref=f8e423]: 5000,00 zł
+                    - link [ref=f8e425] [cursor=pointer]:
+                      - /url: /products/samsung-galaxy-s23-128gb
+                      - button "Szczegóły produktu" [ref=f8e426]
+                    - generic [ref=f8e427]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 100,00 zł
+                  - generic [ref=f8e428]:
+                    - link [ref=f8e429] [cursor=pointer]:
+                      - /url: /products/gta-vc
+                      - generic [ref=f8e430]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "GTA VC" [ref=f8e431]
+                    - link [ref=f8e432] [cursor=pointer]:
+                      - /url: /products/gta-vc
+                      - heading "GTA VC" [level=3] [ref=f8e433]
+                    - generic [ref=f8e434]:
+                      - generic [ref=f8e435]: 123,00 zł
+                      - generic [ref=f8e436]: 333,00 zł
+                    - link [ref=f8e438] [cursor=pointer]:
+                      - /url: /products/gta-vc
+                      - button "Szczegóły produktu" [ref=f8e439]
+                    - generic [ref=f8e440]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 123,00 zł
+                  - generic [ref=f8e441]:
+                    - link "Kupisz na RATY Ładowanie... Piekarnik Hisense BI64211PX" [ref=f8e442] [cursor=pointer]:
+                      - /url: /products/piekarnik-hisense-bi64211px
+                      - generic [ref=f8e443]: Kupisz na RATY
+                      - generic [ref=f8e445]:
+                        - generic:
+                          - status "Ładowanie..."
+                        - img "Piekarnik Hisense BI64211PX" [ref=f8e446]
+                    - link [ref=f8e447] [cursor=pointer]:
+                      - /url: /products/piekarnik-hisense-bi64211px
+                      - heading "Piekarnik Hisense BI64211PX" [level=3] [ref=f8e448]
+                    - generic [ref=f8e449]: 1399,00 zł
+                    - link [ref=f8e452] [cursor=pointer]:
+                      - /url: /products/piekarnik-hisense-bi64211px
+                      - button "Szczegóły produktu" [ref=f8e453]
+        - region [ref=f8e456]:
+          - generic [ref=f8e457]:
+            - generic [ref=f8e458]:
+              - heading "Rozwiązania dla biznesu" [level=2] [ref=f8e459]
+              - link [ref=f8e460] [cursor=pointer]:
+                - /url: https://orm.ss-dev.pl/rozwiazania-dla-biznesu
+                - button "Przejdź do sklepu" [ref=f8e461]
+              - img "Rozwiązania dla biznesu" [ref=f8e463]
+            - generic [ref=f8e464]:
+              - generic [ref=f8e466]:
+                - generic [ref=f8e467]:
+                  - link [ref=f8e468] [cursor=pointer]:
+                    - /url: /products/papier-ksero
+                    - generic [ref=f8e469]:
+                      - generic:
+                        - status "Ładowanie..."
+                      - img "Papier ksero" [ref=f8e470]
+                  - link [ref=f8e471] [cursor=pointer]:
+                    - /url: /products/papier-ksero
+                    - heading "Papier ksero" [level=3] [ref=f8e472]
+                  - generic [ref=f8e473]:
+                    - generic [ref=f8e474]: 90,00 zł
+                    - generic [ref=f8e475]: 129,00 zł
+                  - link [ref=f8e477] [cursor=pointer]:
+                    - /url: /products/papier-ksero
+                    - button "Szczegóły produktu" [ref=f8e478]
+                  - generic [ref=f8e479]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 129,00 zł
+                - generic [ref=f8e480]:
+                  - link [ref=f8e481] [cursor=pointer]:
+                    - /url: /products/smarthome-wifi-ir-transmitter
+                    - generic [ref=f8e482]:
+                      - generic:
+                        - status "Ładowanie..."
+                      - img "Smarthome Wifi IR Transmitter" [ref=f8e483]
+                  - link [ref=f8e484] [cursor=pointer]:
+                    - /url: /products/smarthome-wifi-ir-transmitter
+                    - heading "Smarthome Wifi IR Transmitter" [level=3] [ref=f8e485]
+                  - generic [ref=f8e486]:
+                    - generic [ref=f8e487]: 129,00 zł
+                    - generic [ref=f8e488]: 300,00 zł
+                  - link [ref=f8e490] [cursor=pointer]:
+                    - /url: /products/smarthome-wifi-ir-transmitter
+                    - button "Szczegóły produktu" [ref=f8e491]
+                  - generic [ref=f8e492]: Najniższa cena, która obowiązywała w okresie 30 dni przed wprowadzeniem obniżki 300,00 zł
+                - generic [ref=f8e493]:
+                  - link "Kupisz na RATY Ładowanie... Szkolenie - wrzuć pierwszy produkt na platformę sprzedażową" [ref=f8e494] [cursor=pointer]:
+                    - /url: /products/szkolenie-wrzuc-pierwszy-produkt-na-platforme-sprzedazowa
+                    - generic [ref=f8e495]: Kupisz na RATY
+                    - generic [ref=f8e497]:
+                      - generic:
+                        - status "Ładowanie..."
+                      - img "Szkolenie - wrzuć pierwszy produkt na platformę sprzedażową" [ref=f8e498]
+                  - link [ref=f8e499] [cursor=pointer]:
+                    - /url: /products/szkolenie-wrzuc-pierwszy-produkt-na-platforme-sprzedazowa
+                    - heading "Szkolenie - wrzuć pierwszy produkt na platformę sprzedażową" [level=3] [ref=f8e500]
+                  - generic [ref=f8e501]: 499,00 zł
+                  - link [ref=f8e504] [cursor=pointer]:
+                    - /url: /products/szkolenie-wrzuc-pierwszy-produkt-na-platforme-sprzedazowa
+                    - button "Szczegóły produktu" [ref=f8e505]
+                - generic [ref=f8e506]:
+                  - link "Kupisz na RATY Dostępna przesyłka ekspresowa Ładowanie... Biurko regulowane" [ref=f8e507] [cursor=pointer]:
+                    - /url: /products/biurko-regulowane
+                    - generic [ref=f8e508]:
+                      - generic [ref=f8e509]: Kupisz na RATY
+                      - img "Dostępna przesyłka ekspresowa" [ref=f8e510]
+                    - generic [ref=f8e513]:
+                      - generic:
+                        - status "Ładowanie..."
+                      - img "Biurko regulowane" [ref=f8e514]
+                  - link [ref=f8e515] [cursor=pointer]:
+                    - /url: /products/biurko-regulowane
+                    - heading "Biurko regulowane" [level=3] [ref=f8e516]
+                  - generic [ref=f8e517]: 1299,00 zł
+                  - link [ref=f8e520] [cursor=pointer]:
+                    - /url: /products/biurko-regulowane
+                    - button "Szczegóły produktu" [ref=f8e521]
+                - generic [ref=f8e522]:
+                  - link "Kupisz na RATY Ładowanie... Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [ref=f8e523] [cursor=pointer]:
+                    - /url: /products/chip-do-pc-intel-core-i5-13600k
+                    - generic [ref=f8e524]: Kupisz na RATY
+                    - generic [ref=f8e526]:
+                      - generic:
+                        - status "Ładowanie..."
+                      - img "Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [ref=f8e527]
+                  - link [ref=f8e528] [cursor=pointer]:
+                    - /url: /products/chip-do-pc-intel-core-i5-13600k
+                    - heading "Chip do PC - Intel Core i5-13600K 9950X3D/192GB/4TB/RTX5090/1000W/W11P" [level=3] [ref=f8e529]
+                  - generic [ref=f8e530]: 1349,00 zł
+                  - link [ref=f8e533] [cursor=pointer]:
+                    - /url: /products/chip-do-pc-intel-core-i5-13600k
+                    - button "Szczegóły produktu" [ref=f8e534]
+              - button "Poprzedni" [disabled]
+              - button "Następny" [disabled]
+        - generic [ref=f8e536]:
+          - heading "Orange Market – zakupy online u zweryfikowanych sprzedawców" [level=2] [ref=f8e537]
+          - paragraph [ref=f8e538]: "Orange Market to platforma zakupowa działająca w modelu marketplace. W jednym miejscu znajdziesz produkty do domu, pracy, rozrywki, sportu i codziennych aktywności. Oferty przygotowują różni sprzedawcy zweryfikowani przez Orange. Możesz przeglądać kategorie, porównywać produkty i sprawdzać najważniejsze informacje bez przechodzenia między wieloma sklepami. Na karcie produktu znajdziesz m.in. jego cenę, dostępność, dane sprzedawcy oraz warunki dostawy. Czym jest Orange Market Marketplace to platforma, na której różni sprzedawcy prezentują swoje produkty. Dzięki temu możesz szukać artykułów z wielu kategorii w jednym serwisie. Orange prowadzi platformę i weryfikuje sprzedawców. Produkt kupujesz od sprzedawcy wskazanego na jego karcie. Przed złożeniem zamówienia możesz sprawdzić, kto odpowiada za ofertę, jakie są koszty dostawy oraz kiedy przesyłka może do Ciebie dotrzeć. Zakupy u sprzedawców zweryfikowanych przez Orange W Orange Market produkty wystawiają sprzedawcy zweryfikowani przez Orange. Informacje o sprzedawcy znajdziesz na karcie produktu, zanim dodasz go do koszyka. Przed zakupem możesz sprawdzić: pełną nazwę i wariant produktu, cenę oraz dostępność, najważniejsze parametry, dane sprzedawcy, dostępne sposoby i koszty dostawy, informacje o gwarancji, jeżeli produkt jest nią objęty. Dzięki temu łatwiej porównasz oferty i wybierzesz produkt dopasowany do swoich potrzeb. Nie musisz mieć abonamentu Orange Z Orange Market może korzystać każdy. Nie musisz mieć abonamentu komórkowego, internetu ani innej usługi Orange. Zamówienie możesz złożyć po zalogowaniu lub bez rejestracji. Konto ułatwia jednak późniejszą obsługę zakupów. Pozwala m.in. śledzić zamówienia, przeglądać historię zakupów i zapisywać dane potrzebne podczas kolejnych zamówień. Produkty do domu, pracy i rozrywki W Orange Market znajdziesz produkty z wielu kategorii. Aktualna oferta może obejmować m.in.: sprzęt AGD, telewizory, sprzęt audio i RTV, urządzenia Smart Home i IoT, komputery, laptopy i tablety, smartwatche i elektronikę mobilną, akcesoria do telefonów i komputerów, sprzęt oraz akcesoria gamingowe, produkty do sportu i rekreacji, rowery, hulajnogi i akcesoria, produkty do domu, ogrodu, dla dzieci i zwierząt. Oferta jest rozwijana, dlatego dostępność konkretnych kategorii, modeli i wariantów może się zmieniać. Aktualne produkty znajdziesz w menu oraz w wynikach wyszukiwania na platformie. Elektronika, AGD i Smart Home Szukasz sprzętu, który ułatwi codzienne obowiązki? W kategoriach domowych znajdziesz m.in. urządzenia kuchenne, sprzęt do sprzątania, telewizory i rozwiązania Smart Home. Inteligentne oświetlenie, gniazdka, czujniki lub kamery mogą pomóc w wygodniejszym zarządzaniu domem. Przed zakupem sprawdź zgodność urządzenia z używanym systemem, aplikacją i domową siecią. Gaming, audio i urządzenia mobilne W Orange Market możesz szukać także sprzętu do grania, słuchania muzyki i pracy przy komputerze. W zależności od aktualnej oferty znajdziesz tu m.in. akcesoria gamingowe, słuchawki, głośniki, ładowarki, przewody i powerbanki. Filtry i kategorie pomagają zawęzić wyniki według marki, ceny lub rodzaju produktu. Szczegółowe parametry znajdziesz na karcie wybranej oferty. Orange Market a oferta na orange.pl Na orange.pl znajdziesz przede wszystkim usługi telekomunikacyjne Orange, abonamenty, internet, telewizję oraz smartfony dostępne z wybranymi planami i usługami. Orange Market rozszerza ten wybór o produkty oferowane przez zewnętrznych sprzedawców. Możesz tu szukać m.in. elektroniki, AGD, wyposażenia domu, sprzętu sportowego i akcesoriów. Jak zrobić zakupy w Orange Market Aby złożyć zamówienie: Wybierz kategorię lub skorzystaj z wyszukiwarki. Zawęź wyniki za pomocą dostępnych filtrów. Sprawdź opis produktu, jego parametry i dane sprzedawcy. Dodaj wybrane produkty do koszyka. Sprawdź, czy produkty pochodzą od jednego, czy od kilku sprzedawców. Wybierz dostępny sposób dostawy i metodę płatności. Sprawdź podsumowanie kosztów i potwierdź zamówienie. Po złożeniu zamówienia otrzymasz potwierdzenie na podany adres e-mail. Co warto wiedzieć przed zakupem Produkty od różnych sprzedawców mogą zostać wysłane w osobnych paczkach. Koszt, sposób i termin dostawy mogą być różne dla każdej przesyłki. Zwrot lub reklamację kierujesz do sprzedawcy, od którego pochodzi produkt. Towarów kupionych w Orange Market nie można zwrócić ani reklamować w salonie Orange. Szczegółowe warunki zakupu zawsze sprawdzaj na karcie produktu, w koszyku oraz w regulaminie platformy. Sprawdź ofertę Orange Market Przejrzyj dostępne kategorie, porównaj produkty i wybierz ofertę dopasowaną do swoich potrzeb. W Orange Market możesz zrobić zakupy online bez abonamentu Orange i bez obowiązkowej rejestracji."
+          - button "Więcej" [ref=f8e539] [cursor=pointer]
+        - region "baner stopka" [ref=f8e544]:
+          - link "baner stopka" [ref=f8e545] [cursor=pointer]:
+            - /url: https://hermessstg.sig-cloud.corpnet.pl/
+    - contentinfo [ref=f8e546]:
+      - generic [ref=f8e547]:
+        - generic [ref=f8e548]:
+          - region [ref=f8e549]:
+            - heading "Operator Platformy" [level=2] [ref=f8e550]
+            - generic [ref=f8e552]:
+              - paragraph [ref=f8e553]: Orange Polska S.A.
+              - generic [ref=f8e554]:
+                - generic [ref=f8e555]:
+                  - term [ref=f8e556]: "NIP:"
+                  - definition [ref=f8e557]: 526-02-50-995
+                - generic [ref=f8e558]:
+                  - term [ref=f8e559]: "REGON:"
+                  - definition [ref=f8e560]: "012100784"
+                - generic [ref=f8e561]:
+                  - term [ref=f8e562]: "KRS:"
+                  - definition [ref=f8e563]: "0000010681"
+          - generic [ref=f8e564]:
+            - navigation [ref=f8e565]:
+              - heading "Dokumenty" [level=2] [ref=f8e566]
+              - list [ref=f8e567]:
+                - listitem [ref=f8e568]:
+                  - link "Polityka prywatności" [ref=f8e569] [cursor=pointer]:
+                    - /url: /privacy-policy
+                - listitem [ref=f8e570]:
+                  - link "Regulamin" [ref=f8e571] [cursor=pointer]:
+                    - /url: /terms
+            - navigation [ref=f8e572]:
+              - heading "Pomoc" [level=2] [ref=f8e573]
+              - list [ref=f8e574]:
+                - listitem [ref=f8e575]:
+                  - link "Baza Wiedzy" [ref=f8e576] [cursor=pointer]:
+                    - /url: /faq
+        - separator [ref=f8e577]
+        - generic [ref=f8e578]:
+          - paragraph [ref=f8e579]: © 2026 Orange Polska S.A. Wszystkie prawa zastrzeżone.
+          - button "Zmień ustawienia cookies" [ref=f8e580] [cursor=pointer]
+    - dialog [active] [ref=f8e583]:
+      - generic [ref=f8e584]:
+        - heading "Ustawienia cookies" [level=5] [ref=f8e586]
+        - paragraph [ref=f8e589]:
+          - text: Używamy plików cookies niezbędnych do funkcjonowania strony oraz - za Twoją zgodą - analitycznych plików cookies do celów statystycznych i optymalizacyjnych oraz cookies marketingowych i reklamowych aby dostosować treści, oferty i reklamy oraz mierzyć skuteczność naszych działań marketingowych. Więcej informacji znajdziesz w
+          - link "polityce prywatności" [ref=f8e590] [cursor=pointer]:
+            - /url: /privacy-policy
+          - text: .
+        - generic [ref=f8e592]:
+          - button "Odrzuć opcjonalne" [ref=f8e593] [cursor=pointer]
+          - button "Ustawienia" [ref=f8e594] [cursor=pointer]
+          - button "Akceptuję wszystkie" [ref=f8e595] [cursor=pointer]
+  - alert [ref=f8e596]

@@ -1,0 +1,950 @@
+- generic [ref=f1e5]:
+  - generic [ref=f1e10]:
+    - status [ref=f1e12]
+    - generic [ref=f1e14]:
+      - generic [ref=f1e18]:
+        - status [ref=f1e19]:
+          - generic [ref=f1e20]: "Warning:"
+          - generic [ref=f1e21]: You’re viewing something built by another Figma user. Be careful when entering any personal information.
+        - link "Learn more" [ref=f1e22] [cursor=pointer]:
+          - /url: https://help.figma.com/hc/articles/31304412302231
+      - button "Dismiss" [ref=f1e24]
+    - generic [ref=f1e26]:
+      - generic [ref=f1e28]:
+        - generic [ref=f1e29]:
+          - button "Back to files" [ref=f1e30]
+          - link "AI, Learn more" [ref=f1e31]:
+            - /url: https://help.figma.com/hc/articles/23870272542231
+            - generic [ref=f1e32]: AI
+        - generic [ref=f1e34]:
+          - 'button "Prototyp UX/UI: Orange Market_Portal, file name" [ref=f1e35]': "Prototyp UX/UI: Orange Market_Portal"
+          - generic [ref=f1e36]: File name
+          - button "Edit file menu" [ref=f1e37]
+        - generic [ref=f1e38]:
+          - button "Help" [ref=f1e40]
+          - button "Sign up with email" [ref=f1e41]
+          - button "Continue with Google" [ref=f1e45]
+      - iframe [ref=f1e66]:
+        - generic [ref=f6e3]:
+          - banner [ref=f6e4]:
+            - generic [ref=f6e5]:
+              - link "Orange Market — strona główna" [ref=f6e6] [cursor=pointer]:
+                - /url: /
+                - generic [ref=f6e11]: Orange Market
+              - generic [ref=f6e13]:
+                - textbox "Szukaj wśród milionów produktów..." [ref=f6e17]
+                - button "Szukaj" [ref=f6e18] [cursor=pointer]
+              - generic [ref=f6e19]:
+                - generic [ref=f6e20] [cursor=pointer]: Zaloguj się
+                - generic [ref=f6e24] [cursor=pointer]: Koszyk
+                - generic [ref=f6e28] [cursor=pointer]: Ulubione
+            - generic [ref=f6e32]:
+              - link "Szkolne okazje do -40%" [ref=f6e33] [cursor=pointer]:
+                - /url: "#"
+              - link "Market Days -50%" [ref=f6e34] [cursor=pointer]:
+                - /url: "#"
+              - link "Top 100 bestsellerów" [ref=f6e35] [cursor=pointer]:
+                - /url: "#"
+              - link "Sale" [ref=f6e36] [cursor=pointer]:
+                - /url: "#"
+              - link "Nowości" [ref=f6e37] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f6e38]:
+            - generic [ref=f6e39]:
+              - generic [ref=f6e41]:
+                - button "Elektronika" [ref=f6e42] [cursor=pointer]
+                - button "AGD" [ref=f6e46] [cursor=pointer]
+                - button "Dom i ogród" [ref=f6e50] [cursor=pointer]
+                - button "Sport i turystyka" [ref=f6e54] [cursor=pointer]
+                - button "Szkoła i wyprawka" [ref=f6e58] [cursor=pointer]
+                - button "Zabawki" [ref=f6e62] [cursor=pointer]
+                - button "Książki" [ref=f6e66] [cursor=pointer]
+                - button "Zdrowie i uroda" [ref=f6e70] [cursor=pointer]
+                - button "Gaming i programy" [ref=f6e74] [cursor=pointer]
+                - button "Muzyka" [ref=f6e78] [cursor=pointer]
+                - button "Kolekcjonerskie" [ref=f6e82] [cursor=pointer]
+                - button "Marki własne" [ref=f6e86] [cursor=pointer]
+              - generic [ref=f6e91]:
+                - img "Elektronika i AGD" [ref=f6e92]
+                - generic [ref=f6e94]:
+                  - generic [ref=f6e95]: "-60%"
+                  - heading "Elektronika i AGD" [level=1] [ref=f6e96]
+                  - paragraph [ref=f6e97]: do -60% taniej
+                  - paragraph [ref=f6e98]: Największa wyprzedaż roku. Laptopy, smartfony, lodówki i pralki w najlepszych cenach sezonu.
+                  - button "Odkryj ofertę →" [ref=f6e99] [cursor=pointer]
+                - generic [ref=f6e100]:
+                  - button [ref=f6e101] [cursor=pointer]
+                  - button [ref=f6e102] [cursor=pointer]
+                  - button [ref=f6e103] [cursor=pointer]
+                - button "‹" [ref=f6e104] [cursor=pointer]
+                - button "›" [ref=f6e105] [cursor=pointer]
+            - generic [ref=f6e106]:
+              - heading "Hot deals" [level=2] [ref=f6e107]
+              - generic [ref=f6e108]:
+                - generic [ref=f6e109] [cursor=pointer]:
+                  - generic [ref=f6e111]:
+                    - generic [ref=f6e112]: ORANGE
+                    - generic [ref=f6e113]: "-50%"
+                    - generic [ref=f6e114]: DAYS
+                  - generic [ref=f6e115]: Orange Days do -50%
+                - generic [ref=f6e116] [cursor=pointer]:
+                  - generic [ref=f6e118]:
+                    - generic [ref=f6e119]:
+                      - generic [ref=f6e120]: "-30 zł"
+                      - text: kupon
+                    - generic [ref=f6e121]:
+                      - generic [ref=f6e122]: "-50 zł"
+                      - text: kupon
+                    - generic [ref=f6e123]:
+                      - generic [ref=f6e124]: "-100 zł"
+                      - text: kupon
+                  - generic [ref=f6e125]: Limitowane megakody
+                - generic [ref=f6e126] [cursor=pointer]:
+                  - generic [ref=f6e128]:
+                    - generic [ref=f6e129]: "-10 zł"
+                    - generic [ref=f6e130]: "KOD: APP10"
+                  - generic [ref=f6e131]: "-10 zł w aplikacji kod APP10"
+                - generic [ref=f6e132] [cursor=pointer]:
+                  - generic [ref=f6e133]: "-40%"
+                  - generic [ref=f6e136]: Szkolne okazje do -40%
+                - generic [ref=f6e137] [cursor=pointer]:
+                  - generic [ref=f6e138]: "-40%"
+                  - generic [ref=f6e143]: Letnie okazje do -40%
+                - generic [ref=f6e144] [cursor=pointer]:
+                  - generic [ref=f6e145]: "-30%"
+                  - generic [ref=f6e149]: Gaming do -30%
+                - generic [ref=f6e150] [cursor=pointer]:
+                  - generic [ref=f6e151]: MEGA CENY
+                  - generic [ref=f6e156]: AGD w megacenach
+                - generic [ref=f6e157] [cursor=pointer]:
+                  - generic [ref=f6e159]:
+                    - generic [ref=f6e160]: HiTY
+                    - generic [ref=f6e161]: CENOWE
+                    - generic [ref=f6e162]: →
+                  - generic [ref=f6e163]: Wszystkie promocje
+            - generic [ref=f6e164]:
+              - heading "Hit dnia 🔥" [level=2] [ref=f6e165]
+              - generic [ref=f6e166]:
+                - 'link "Tylko dzisiaj Oszczędź 700 zł Apple iPhone 17 MAX 256GB Apple iPhone 17 MAX 256GB 499 zł Najniższa cena w ostatnich 30 dniach przed obniżką: 1199 zł -58% Sprzedawca: Orange.pl pozostało: 63 sprzedano: 47 Do końca promocji 07 godz. 47 min. 22 sek. Kup teraz Darmowa dostawa od 99 zł 30 dni na łatwy zwrot Gwarancja i bezpieczne płatności" [ref=f6e167] [cursor=pointer]':
+                  - generic [ref=f6e168]:
+                    - generic [ref=f6e169]: Tylko dzisiaj
+                    - generic [ref=f6e170]:
+                      - generic [ref=f6e171]: Oszczędź
+                      - generic [ref=f6e172]: 700 zł
+                  - img "Apple iPhone 17 MAX 256GB" [ref=f6e174]
+                  - generic [ref=f6e175]:
+                    - paragraph [ref=f6e176]: Apple iPhone 17 MAX 256GB
+                    - generic [ref=f6e178]:
+                      - generic [ref=f6e179]: 499 zł
+                      - paragraph [ref=f6e180]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 1199 zł -58%"
+                    - paragraph [ref=f6e181]: "Sprzedawca: Orange.pl"
+                  - generic [ref=f6e183]:
+                    - generic [ref=f6e184]:
+                      - text: "pozostało:"
+                      - strong [ref=f6e185]: "63"
+                    - generic [ref=f6e186]:
+                      - text: "sprzedano:"
+                      - strong [ref=f6e187]: "47"
+                  - generic [ref=f6e190]:
+                    - paragraph [ref=f6e191]: Do końca promocji
+                    - generic [ref=f6e192]:
+                      - generic [ref=f6e193]:
+                        - generic [ref=f6e194]: "07"
+                        - generic [ref=f6e195]: godz.
+                      - generic [ref=f6e196]:
+                        - generic [ref=f6e197]: "47"
+                        - generic [ref=f6e198]: min.
+                      - generic [ref=f6e199]:
+                        - generic [ref=f6e200]: "22"
+                        - generic [ref=f6e201]: sek.
+                  - button "Kup teraz" [ref=f6e202]
+                  - generic [ref=f6e203]:
+                    - generic [ref=f6e204]: Darmowa dostawa od 99 zł
+                    - generic [ref=f6e209]: 30 dni na łatwy zwrot
+                    - generic [ref=f6e214]: Gwarancja i bezpieczne płatności
+                - generic [ref=f6e219]:
+                  - generic [ref=f6e220]:
+                    - heading "Hity tygodnia" [level=3] [ref=f6e221]
+                    - button "Zobacz wszystkie →" [ref=f6e222] [cursor=pointer]
+                  - generic [ref=f6e223]:
+                    - generic [ref=f6e224] [cursor=pointer]:
+                      - generic [ref=f6e225]:
+                        - img "Apple iPhone 17 MAX 256GB" [ref=f6e226]
+                        - generic [ref=f6e227]:
+                          - generic [ref=f6e228]: Bestseller
+                          - generic [ref=f6e229]: "-58%"
+                        - generic [ref=f6e230]:
+                          - button "Dodaj do ulubionych" [ref=f6e231]
+                          - button "Dodaj do porównania" [ref=f6e234]
+                      - generic [ref=f6e238]:
+                        - paragraph [ref=f6e239]: Apple iPhone 17 MAX 256GB
+                        - generic [ref=f6e240]:
+                          - generic [ref=f6e241]:
+                            - generic [ref=f6e242]: 499 zł
+                            - paragraph [ref=f6e243]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 1199 zł -58%"
+                          - paragraph [ref=f6e244]: "Sprzedawca: Orange.pl"
+                    - generic [ref=f6e245] [cursor=pointer]:
+                      - generic [ref=f6e246]:
+                        - img "Samsung Galaxy Tab A9+ 10,9\" 128GB WiFi Grafitowy" [ref=f6e247]
+                        - generic [ref=f6e248]:
+                          - generic [ref=f6e249]: Sponsorowany
+                          - generic [ref=f6e250]: "-40%"
+                        - generic [ref=f6e251]:
+                          - button "Dodaj do ulubionych" [ref=f6e252]
+                          - button "Dodaj do porównania" [ref=f6e255]
+                      - generic [ref=f6e259]:
+                        - paragraph [ref=f6e260]: Samsung Galaxy Tab A9+ 10,9" 128GB WiFi Grafitowy
+                        - generic [ref=f6e261]:
+                          - generic [ref=f6e262]:
+                            - generic [ref=f6e263]: 899 zł
+                            - paragraph [ref=f6e264]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 1499 zł -40%"
+                          - paragraph [ref=f6e265]: "Sprzedawca: Samsung Brand Store"
+                    - generic [ref=f6e266] [cursor=pointer]:
+                      - generic [ref=f6e267]:
+                        - img "Orange Basics Etui silikonowe do iPhone 15" [ref=f6e268]
+                        - generic [ref=f6e269]:
+                          - generic [ref=f6e270]: Orange poleca
+                          - generic [ref=f6e271]: "-34%"
+                        - generic [ref=f6e272]:
+                          - button "Dodaj do ulubionych" [ref=f6e273]
+                          - button "Dodaj do porównania" [ref=f6e276]
+                      - generic [ref=f6e280]:
+                        - paragraph [ref=f6e281]: Orange Basics Etui silikonowe do iPhone 15
+                        - generic [ref=f6e282]:
+                          - generic [ref=f6e283]:
+                            - generic [ref=f6e284]: 39 zł
+                            - paragraph [ref=f6e285]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 59 zł -34%"
+                          - paragraph [ref=f6e286]: "Sprzedawca: Orange.pl"
+                    - generic [ref=f6e287] [cursor=pointer]:
+                      - generic [ref=f6e288]:
+                        - img "Samsung Galaxy Watch 7 44mm Smartwatch Czarny" [ref=f6e289]
+                        - generic [ref=f6e290]:
+                          - generic [ref=f6e291]: Sponsorowany
+                          - generic [ref=f6e292]: "-33%"
+                        - generic [ref=f6e293]:
+                          - button "Dodaj do ulubionych" [ref=f6e294]
+                          - button "Dodaj do porównania" [ref=f6e297]
+                      - generic [ref=f6e301]:
+                        - paragraph [ref=f6e302]: Samsung Galaxy Watch 7 44mm Smartwatch Czarny
+                        - generic [ref=f6e303]:
+                          - generic [ref=f6e304]:
+                            - generic [ref=f6e305]: 999 zł
+                            - paragraph [ref=f6e306]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 1499 zł -33%"
+                          - paragraph [ref=f6e307]: "Sprzedawca: Samsung Brand Store"
+                    - generic [ref=f6e308] [cursor=pointer]:
+                      - generic [ref=f6e309]:
+                        - img "Flexispot E7 Pro Biurko z regulacją wysokości 140 × 70 cm" [ref=f6e310]
+                        - generic [ref=f6e311]:
+                          - generic [ref=f6e312]: Orange poleca
+                          - generic [ref=f6e313]: "-31%"
+                        - generic [ref=f6e314]:
+                          - button "Dodaj do ulubionych" [ref=f6e315]
+                          - button "Dodaj do porównania" [ref=f6e318]
+                      - generic [ref=f6e322]:
+                        - paragraph [ref=f6e323]: Flexispot E7 Pro Biurko z regulacją wysokości 140 × 70 cm
+                        - generic [ref=f6e324]:
+                          - generic [ref=f6e325]:
+                            - generic [ref=f6e326]: 899 zł
+                            - paragraph [ref=f6e327]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 1299 zł -31%"
+                          - paragraph [ref=f6e328]: "Sprzedawca: Orange.pl"
+                    - generic [ref=f6e329] [cursor=pointer]:
+                      - generic [ref=f6e330]:
+                        - img "ASUS ROG Strix G16 Ryzen 9 / RTX 4070 / 32GB Laptop gamingowy" [ref=f6e331]
+                        - generic [ref=f6e332]:
+                          - generic [ref=f6e333]: Sponsorowany
+                          - generic [ref=f6e334]: "-29%"
+                        - generic [ref=f6e335]:
+                          - button "Dodaj do ulubionych" [ref=f6e336]
+                          - button "Dodaj do porównania" [ref=f6e339]
+                      - generic [ref=f6e343]:
+                        - paragraph [ref=f6e344]: ASUS ROG Strix G16 Ryzen 9 / RTX 4070 / 32GB Laptop gamingowy
+                        - generic [ref=f6e345]:
+                          - generic [ref=f6e346]:
+                            - generic [ref=f6e347]: 4999 zł
+                            - paragraph [ref=f6e348]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 6999 zł -29%"
+                          - paragraph [ref=f6e349]: "Sprzedawca: MediaPro Sklep"
+                    - generic [ref=f6e350] [cursor=pointer]:
+                      - generic [ref=f6e351]:
+                        - img "Orange Basics Powerbank 20000 mAh 65W" [ref=f6e352]
+                        - generic [ref=f6e353]:
+                          - generic [ref=f6e354]: Bestseller
+                          - generic [ref=f6e355]: "-29%"
+                        - generic [ref=f6e356]:
+                          - button "Dodaj do ulubionych" [ref=f6e357]
+                          - button "Dodaj do porównania" [ref=f6e360]
+                      - generic [ref=f6e364]:
+                        - paragraph [ref=f6e365]: Orange Basics Powerbank 20000 mAh 65W
+                        - generic [ref=f6e366]:
+                          - generic [ref=f6e367]:
+                            - generic [ref=f6e368]: 199 zł
+                            - paragraph [ref=f6e369]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 279 zł -29%"
+                          - paragraph [ref=f6e370]: "Sprzedawca: Orange.pl"
+                    - generic [ref=f6e371] [cursor=pointer]:
+                      - generic [ref=f6e372]:
+                        - img "Apple iPad 10. generacji 64GB WiFi Srebrny" [ref=f6e373]
+                        - generic [ref=f6e374]:
+                          - generic [ref=f6e375]: Orange poleca
+                          - generic [ref=f6e376]: "-28%"
+                        - generic [ref=f6e377]:
+                          - button "Dodaj do ulubionych" [ref=f6e378]
+                          - button "Dodaj do porównania" [ref=f6e381]
+                      - generic [ref=f6e385]:
+                        - paragraph [ref=f6e386]: Apple iPad 10. generacji 64GB WiFi Srebrny
+                        - generic [ref=f6e387]:
+                          - generic [ref=f6e388]:
+                            - generic [ref=f6e389]: 1799 zł
+                            - paragraph [ref=f6e390]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 2499 zł -28%"
+                          - paragraph [ref=f6e391]: "Sprzedawca: Orange.pl"
+            - generic [ref=f6e392]:
+              - heading "Na każdą okazję" [level=2] [ref=f6e393]
+              - generic [ref=f6e394]:
+                - generic [ref=f6e395]:
+                  - paragraph [ref=f6e400]: Wakacyjne okazje
+                  - paragraph [ref=f6e405]: Wyprawka szkolna
+                  - paragraph [ref=f6e410]: Aktywny wypoczynek
+                  - paragraph [ref=f6e415]: Prezenty na ślub
+                  - paragraph [ref=f6e420]: Letnie porządki
+                  - paragraph [ref=f6e425]: Dom i ogród
+                - generic [ref=f6e426]:
+                  - button "Wakacyjne okazje" [ref=f6e427] [cursor=pointer]
+                  - button "Wyprawka szkolna" [ref=f6e428] [cursor=pointer]
+                  - button "Aktywny wypoczynek" [ref=f6e429] [cursor=pointer]
+                  - button "Prezenty na ślub" [ref=f6e430] [cursor=pointer]
+                  - button "Letnie porządki" [ref=f6e431] [cursor=pointer]
+                  - button "Dom i ogród" [ref=f6e432] [cursor=pointer]
+            - generic [ref=f6e433]:
+              - generic [ref=f6e434]:
+                - generic [ref=f6e435]:
+                  - heading "Ostatnio oglądane" [level=2] [ref=f6e436]
+                  - paragraph [ref=f6e437]: Kontynuuj przeglądanie
+                - button "Zobacz wszystkie →" [ref=f6e438] [cursor=pointer]
+              - generic [ref=f6e439]:
+                - generic [ref=f6e441] [cursor=pointer]:
+                  - generic [ref=f6e442]:
+                    - img "Apple iPhone 15 Pro 256GB Titanium Blue" [ref=f6e443]
+                    - generic [ref=f6e444]:
+                      - button "Dodaj do ulubionych" [ref=f6e445]
+                      - button "Dodaj do porównania" [ref=f6e448]
+                  - generic [ref=f6e452]:
+                    - paragraph [ref=f6e453]: Apple iPhone 15 Pro 256GB Titanium Blue
+                    - generic [ref=f6e454]:
+                      - generic [ref=f6e455]: 4999 zł
+                      - paragraph [ref=f6e457]: "Sprzedawca: iSpot Apple Premium"
+                - generic [ref=f6e459] [cursor=pointer]:
+                  - generic [ref=f6e460]:
+                    - img "Samsung Galaxy S24 Ultra 512GB Titanium Gray" [ref=f6e461]
+                    - generic [ref=f6e462]:
+                      - button "Dodaj do ulubionych" [ref=f6e463]
+                      - button "Dodaj do porównania" [ref=f6e466]
+                  - generic [ref=f6e470]:
+                    - paragraph [ref=f6e471]: Samsung Galaxy S24 Ultra 512GB Titanium Gray
+                    - generic [ref=f6e472]:
+                      - generic [ref=f6e473]: 3799 zł
+                      - paragraph [ref=f6e475]: "Sprzedawca: Samsung Brand Store"
+                - generic [ref=f6e477] [cursor=pointer]:
+                  - generic [ref=f6e478]:
+                    - img "Samsung Galaxy Z Fold 8 Ultra" [ref=f6e479]
+                    - generic [ref=f6e480]:
+                      - button "Dodaj do ulubionych" [ref=f6e481]
+                      - button "Dodaj do porównania" [ref=f6e484]
+                  - generic [ref=f6e488]:
+                    - paragraph [ref=f6e489]: Samsung Galaxy Z Fold 8 Ultra
+                    - generic [ref=f6e490]:
+                      - generic [ref=f6e491]: 1399 zł
+                      - paragraph [ref=f6e493]: "Sprzedawca: Orange.pl"
+                - generic [ref=f6e495] [cursor=pointer]:
+                  - generic [ref=f6e496]:
+                    - img "Xiaomi Redmi Note 13 Pro 5G 256GB" [ref=f6e497]
+                    - generic [ref=f6e498]:
+                      - generic [ref=f6e499]: Bestseller
+                      - generic [ref=f6e500]: "-21%"
+                    - generic [ref=f6e501]:
+                      - button "Dodaj do ulubionych" [ref=f6e502]
+                      - button "Dodaj do porównania" [ref=f6e505]
+                  - generic [ref=f6e509]:
+                    - paragraph [ref=f6e510]: Xiaomi Redmi Note 13 Pro 5G 256GB
+                    - generic [ref=f6e511]:
+                      - generic [ref=f6e512]:
+                        - generic [ref=f6e513]: 1099 zł
+                        - paragraph [ref=f6e514]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 1399 zł -21%"
+                      - paragraph [ref=f6e515]: "Sprzedawca: Xiaomi Official Store"
+                - generic [ref=f6e517] [cursor=pointer]:
+                  - generic [ref=f6e518]:
+                    - img "JBL Charge 5 Głośnik bezprzewodowy" [ref=f6e519]
+                    - generic [ref=f6e520]:
+                      - generic [ref=f6e521]: Bestseller
+                      - generic [ref=f6e522]: "-21%"
+                    - generic [ref=f6e523]:
+                      - button "Dodaj do ulubionych" [ref=f6e524]
+                      - button "Dodaj do porównania" [ref=f6e527]
+                  - generic [ref=f6e531]:
+                    - paragraph [ref=f6e532]: JBL Charge 5 Głośnik bezprzewodowy
+                    - generic [ref=f6e533]:
+                      - generic [ref=f6e534]:
+                        - generic [ref=f6e535]: 549 zł
+                        - paragraph [ref=f6e536]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 699 zł -21%"
+                      - paragraph [ref=f6e537]: "Sprzedawca: MediaPro Sklep"
+            - generic [ref=f6e538]:
+              - generic [ref=f6e539]:
+                - generic [ref=f6e540]:
+                  - generic [ref=f6e541]: ☀️ LETNIE OKAZJE
+                  - heading "Kolekcja lato 2026" [level=2] [ref=f6e542]
+                  - paragraph [ref=f6e543]: Baseny, wentylatory, okulary, kremy SPF i więcej
+                - link "Przeglądaj kolekcję →" [ref=f6e544] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f6e545]:
+                - generic [ref=f6e547] [cursor=pointer]:
+                  - generic [ref=f6e548]:
+                    - img "JBL Charge 5 Głośnik bezprzewodowy" [ref=f6e549]
+                    - generic [ref=f6e550]:
+                      - generic [ref=f6e551]: Bestseller
+                      - generic [ref=f6e552]: "-21%"
+                    - generic [ref=f6e553]:
+                      - button "Dodaj do ulubionych" [ref=f6e554]
+                      - button "Dodaj do porównania" [ref=f6e557]
+                  - generic [ref=f6e561]:
+                    - paragraph [ref=f6e562]: JBL Charge 5 Głośnik bezprzewodowy
+                    - generic [ref=f6e563]:
+                      - generic [ref=f6e564]:
+                        - generic [ref=f6e565]: 549 zł
+                        - paragraph [ref=f6e566]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 699 zł -21%"
+                      - paragraph [ref=f6e567]: "Sprzedawca: MediaPro Sklep"
+                - generic [ref=f6e569] [cursor=pointer]:
+                  - generic [ref=f6e570]:
+                    - img "LG Klimatyzator przenośny 9000 BTU" [ref=f6e571]
+                    - generic [ref=f6e572]:
+                      - generic [ref=f6e573]: Promocja
+                      - generic [ref=f6e574]: "-20%"
+                    - generic [ref=f6e575]:
+                      - button "Dodaj do ulubionych" [ref=f6e576]
+                      - button "Dodaj do porównania" [ref=f6e579]
+                  - generic [ref=f6e583]:
+                    - paragraph [ref=f6e584]: LG Klimatyzator przenośny 9000 BTU
+                    - generic [ref=f6e585]:
+                      - generic [ref=f6e586]:
+                        - generic [ref=f6e587]: 1599 zł
+                        - paragraph [ref=f6e588]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 1999 zł -20%"
+                      - paragraph [ref=f6e589]: "Sprzedawca: ClimaExpert"
+                - generic [ref=f6e591] [cursor=pointer]:
+                  - generic [ref=f6e592]:
+                    - img "Dyson Cool AM07 Wentylator bezłopatkowy" [ref=f6e593]
+                    - generic [ref=f6e594]:
+                      - generic [ref=f6e595]: Promocja
+                      - generic [ref=f6e596]: "-16%"
+                    - generic [ref=f6e597]:
+                      - button "Dodaj do ulubionych" [ref=f6e598]
+                      - button "Dodaj do porównania" [ref=f6e601]
+                  - generic [ref=f6e605]:
+                    - paragraph [ref=f6e606]: Dyson Cool AM07 Wentylator bezłopatkowy
+                    - generic [ref=f6e607]:
+                      - generic [ref=f6e608]:
+                        - generic [ref=f6e609]: 1599 zł
+                        - paragraph [ref=f6e610]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 1899 zł -16%"
+                      - paragraph [ref=f6e611]: "Sprzedawca: Dyson Official Store"
+                - generic [ref=f6e613] [cursor=pointer]:
+                  - generic [ref=f6e614]:
+                    - img "Rotenso Roni 3,5 kW Klimatyzator split WiFi" [ref=f6e615]
+                    - generic [ref=f6e616]:
+                      - generic [ref=f6e617]: Promocja
+                      - generic [ref=f6e618]: "-19%"
+                    - generic [ref=f6e619]:
+                      - button "Dodaj do ulubionych" [ref=f6e620]
+                      - button "Dodaj do porównania" [ref=f6e623]
+                  - generic [ref=f6e627]:
+                    - paragraph [ref=f6e628]: Rotenso Roni 3,5 kW Klimatyzator split WiFi
+                    - generic [ref=f6e629]:
+                      - generic [ref=f6e630]:
+                        - generic [ref=f6e631]: 2199 zł
+                        - paragraph [ref=f6e632]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 2699 zł -19%"
+                      - paragraph [ref=f6e633]: "Sprzedawca: ClimaExpert"
+            - generic [ref=f6e634]:
+              - generic [ref=f6e635]:
+                - generic [ref=f6e636]:
+                  - generic [ref=f6e637]: 🎒 BACK TO SCHOOL 2026
+                  - heading "Wróć do szkoły gotowy!" [level=2] [ref=f6e638]
+                  - paragraph [ref=f6e639]: Plecaki · Zeszyty i bloki · Elektronika · Przybory do pisania
+                - link "Przeglądaj kolekcję →" [ref=f6e640] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f6e641]:
+                - generic [ref=f6e642] [cursor=pointer]:
+                  - generic [ref=f6e643]:
+                    - img "Lenovo IdeaPad Slim 5 16\" Ryzen 7 / 16GB / 1TB" [ref=f6e644]
+                    - generic [ref=f6e645]:
+                      - generic [ref=f6e646]: Sponsorowany
+                      - generic [ref=f6e647]: "-14%"
+                    - generic [ref=f6e648]:
+                      - button "Dodaj do ulubionych" [ref=f6e649]
+                      - button "Dodaj do porównania" [ref=f6e652]
+                  - generic [ref=f6e656]:
+                    - paragraph [ref=f6e657]: Lenovo IdeaPad Slim 5 16" Ryzen 7 / 16GB / 1TB
+                    - generic [ref=f6e658]:
+                      - generic [ref=f6e659]:
+                        - generic [ref=f6e660]: 3199 zł
+                        - paragraph [ref=f6e661]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 3699 zł -14%"
+                      - paragraph [ref=f6e662]: "Sprzedawca: Lenovo Polska"
+                - generic [ref=f6e663] [cursor=pointer]:
+                  - generic [ref=f6e664]:
+                    - img "Apple iPad 10.9\" Wi-Fi 128GB" [ref=f6e665]
+                    - generic [ref=f6e666]:
+                      - generic [ref=f6e667]: Sponsorowany
+                      - generic [ref=f6e668]: "-14%"
+                    - generic [ref=f6e669]:
+                      - button "Dodaj do ulubionych" [ref=f6e670]
+                      - button "Dodaj do porównania" [ref=f6e673]
+                  - generic [ref=f6e677]:
+                    - paragraph [ref=f6e678]: Apple iPad 10.9" Wi-Fi 128GB
+                    - generic [ref=f6e679]:
+                      - generic [ref=f6e680]:
+                        - generic [ref=f6e681]: 1799 zł
+                        - paragraph [ref=f6e682]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 2099 zł -14%"
+                      - paragraph [ref=f6e683]: "Sprzedawca: iSpot Apple Premium"
+                - generic [ref=f6e684] [cursor=pointer]:
+                  - generic [ref=f6e685]:
+                    - img "Herlitz Ultimate Plecak szkolny 30 l + piórnik" [ref=f6e686]
+                    - generic [ref=f6e687]:
+                      - button "Dodaj do ulubionych" [ref=f6e688]
+                      - button "Dodaj do porównania" [ref=f6e691]
+                  - generic [ref=f6e695]:
+                    - paragraph [ref=f6e696]: Herlitz Ultimate Plecak szkolny 30 l + piórnik
+                    - generic [ref=f6e697]:
+                      - generic [ref=f6e698]: 189 zł
+                      - paragraph [ref=f6e700]: "Sprzedawca: Orange.pl"
+                - generic [ref=f6e701] [cursor=pointer]:
+                  - generic [ref=f6e702]:
+                    - img "Oxford Zeszyty A5 w kratkę 60 kartek 10 szt." [ref=f6e703]
+                    - generic [ref=f6e704]:
+                      - generic [ref=f6e705]: Promocja
+                      - generic [ref=f6e706]: "-34%"
+                    - generic [ref=f6e707]:
+                      - button "Dodaj do ulubionych" [ref=f6e708]
+                      - button "Dodaj do porównania" [ref=f6e711]
+                  - generic [ref=f6e715]:
+                    - paragraph [ref=f6e716]: Oxford Zeszyty A5 w kratkę 60 kartek 10 szt.
+                    - generic [ref=f6e717]:
+                      - generic [ref=f6e718]:
+                        - generic [ref=f6e719]: 39 zł
+                        - paragraph [ref=f6e720]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 59 zł -34%"
+                      - paragraph [ref=f6e721]: "Sprzedawca: Empik Partner"
+            - generic [ref=f6e722]:
+              - generic [ref=f6e723]:
+                - heading "Promocje tygodnia" [level=2] [ref=f6e724]
+                - button "Zobacz wszystkie →" [ref=f6e725] [cursor=pointer]
+              - generic [ref=f6e726]:
+                - generic [ref=f6e727] [cursor=pointer]: Promocja
+                - generic [ref=f6e730] [cursor=pointer]: Nowości
+                - generic [ref=f6e733] [cursor=pointer]: Promocja
+                - generic [ref=f6e736] [cursor=pointer]: do -40%
+            - generic [ref=f6e739]:
+              - heading "Kody rabatowe" [level=2] [ref=f6e740]
+              - generic [ref=f6e741]:
+                - generic [ref=f6e742]:
+                  - generic [ref=f6e743]:
+                    - paragraph [ref=f6e744]: −10 zł na pierwsze zakupy
+                    - paragraph [ref=f6e745]: Odbierz zniżkę na dowolny produkt na pierwszych zakupach.
+                    - paragraph [ref=f6e746]: Ważny do 31.08.2026
+                  - generic [ref=f6e747]: APP10
+                - generic [ref=f6e753]:
+                  - generic [ref=f6e754]:
+                    - paragraph [ref=f6e755]: Do −50% w Orange Days
+                    - paragraph [ref=f6e756]: Wpisz kod przy płatności i skorzystaj z ofert dnia.
+                    - paragraph [ref=f6e757]: Tylko 3× dziennie · dziś do 23:59
+                  - generic [ref=f6e758]: DAYS50
+            - generic [ref=f6e764]:
+              - generic [ref=f6e765]:
+                - generic [ref=f6e766]:
+                  - heading "Strefa Orange" [level=2] [ref=f6e767]
+                  - paragraph [ref=f6e768]: Produkty od Orange
+                - button "Zobacz wszystkie →" [ref=f6e769] [cursor=pointer]
+              - generic [ref=f6e770]:
+                - generic [ref=f6e772] [cursor=pointer]:
+                  - generic [ref=f6e773]:
+                    - img "Apple MacBook Pro 14\" M3 Pro 18GB / 512GB" [ref=f6e774]
+                    - generic [ref=f6e775]: Orange poleca
+                    - generic [ref=f6e777]:
+                      - button "Dodaj do ulubionych" [ref=f6e778]
+                      - button "Dodaj do porównania" [ref=f6e781]
+                  - generic [ref=f6e785]:
+                    - paragraph [ref=f6e786]: Apple MacBook Pro 14" M3 Pro 18GB / 512GB
+                    - generic [ref=f6e787]:
+                      - generic [ref=f6e788]:
+                        - generic [ref=f6e789]: 8299 zł
+                        - paragraph [ref=f6e790]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 9199 zł -10%"
+                      - paragraph [ref=f6e791]: "Sprzedawca: Orange.pl"
+                - generic [ref=f6e793] [cursor=pointer]:
+                  - generic [ref=f6e794]:
+                    - img "Samsung Galaxy Z Fold 8 Ultra" [ref=f6e795]
+                    - generic [ref=f6e796]: Bestseller
+                    - generic [ref=f6e798]:
+                      - button "Dodaj do ulubionych" [ref=f6e799]
+                      - button "Dodaj do porównania" [ref=f6e802]
+                  - generic [ref=f6e806]:
+                    - paragraph [ref=f6e807]: Samsung Galaxy Z Fold 8 Ultra
+                    - generic [ref=f6e808]:
+                      - generic [ref=f6e809]:
+                        - generic [ref=f6e810]: 1399 zł
+                        - paragraph [ref=f6e811]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 1799 zł -22%"
+                      - paragraph [ref=f6e812]: "Sprzedawca: Orange.pl"
+                - generic [ref=f6e814] [cursor=pointer]:
+                  - generic [ref=f6e815]:
+                    - img "Apple iPhone 17 MAX 256GB" [ref=f6e816]
+                    - generic [ref=f6e817]: Bestseller
+                    - generic [ref=f6e819]:
+                      - button "Dodaj do ulubionych" [ref=f6e820]
+                      - button "Dodaj do porównania" [ref=f6e823]
+                  - generic [ref=f6e827]:
+                    - paragraph [ref=f6e828]: Apple iPhone 17 MAX 256GB
+                    - generic [ref=f6e829]:
+                      - generic [ref=f6e830]:
+                        - generic [ref=f6e831]: 499 zł
+                        - paragraph [ref=f6e832]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 1199 zł -58%"
+                      - paragraph [ref=f6e833]: "Sprzedawca: Orange.pl"
+                - generic [ref=f6e835] [cursor=pointer]:
+                  - generic [ref=f6e836]:
+                    - img "Słuchawki bezprzewodowe Apple AirPods 2" [ref=f6e837]
+                    - generic [ref=f6e838]: Orange poleca
+                    - generic [ref=f6e840]:
+                      - button "Dodaj do ulubionych" [ref=f6e841]
+                      - button "Dodaj do porównania" [ref=f6e844]
+                  - generic [ref=f6e848]:
+                    - paragraph [ref=f6e849]: Słuchawki bezprzewodowe Apple AirPods 2
+                    - generic [ref=f6e850]:
+                      - generic [ref=f6e851]:
+                        - generic [ref=f6e852]: 2499 zł
+                        - paragraph [ref=f6e853]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 2999 zł -17%"
+                      - paragraph [ref=f6e854]: "Sprzedawca: Orange.pl"
+                - generic [ref=f6e856] [cursor=pointer]:
+                  - generic [ref=f6e857]:
+                    - img "Bosch Serie 4 Zmywarka 60 cm SMV4HTX00E" [ref=f6e858]
+                    - generic [ref=f6e859]: Orange poleca
+                    - generic [ref=f6e861]:
+                      - button "Dodaj do ulubionych" [ref=f6e862]
+                      - button "Dodaj do porównania" [ref=f6e865]
+                  - generic [ref=f6e869]:
+                    - paragraph [ref=f6e870]: Bosch Serie 4 Zmywarka 60 cm SMV4HTX00E
+                    - generic [ref=f6e871]:
+                      - generic [ref=f6e872]:
+                        - generic [ref=f6e873]: 2199 zł
+                        - paragraph [ref=f6e874]: "Najniższa cena w ostatnich 30 dniach przed obniżką: 2599 zł -15%"
+                      - paragraph [ref=f6e875]: "Sprzedawca: Orange.pl"
+            - generic [ref=f6e876]:
+              - generic [ref=f6e877]:
+                - generic [ref=f6e878]:
+                  - generic [ref=f6e879]: Korzyść dla klientów Marketplace
+                  - heading "Zakupy w Orange Market = zniżki na usługi Orange" [level=2] [ref=f6e881]: Zakupy w Orange Market = zniżkina usługi Orange
+                  - paragraph [ref=f6e882]: Światłowód · Telewizja · Abonament
+                - generic [ref=f6e883]:
+                  - generic [ref=f6e884]: do −30 zł
+                  - generic [ref=f6e885]: miesięcznie na usługach
+              - generic [ref=f6e886]:
+                - generic [ref=f6e887]:
+                  - generic [ref=f6e894]:
+                    - generic [ref=f6e895]: Światłowód Orange
+                    - generic [ref=f6e896]: Internet do 2 Gb/s
+                  - generic [ref=f6e897]:
+                    - generic [ref=f6e898]: −20 zł/mies.
+                    - generic [ref=f6e899]: na abonament przez 12 mies.
+                - generic [ref=f6e900]:
+                  - generic [ref=f6e906]:
+                    - generic [ref=f6e907]: Telewizja Orange
+                    - generic [ref=f6e908]: Ponad 200 kanałów HD
+                  - generic [ref=f6e909]:
+                    - generic [ref=f6e910]: 1 miesiąc gratis
+                    - generic [ref=f6e911]: przy aktywacji nowej umowy
+                - generic [ref=f6e912]:
+                  - generic [ref=f6e917]:
+                    - generic [ref=f6e918]: Abonament Orange
+                    - generic [ref=f6e919]: Nielimitowane rozmowy i SMS
+                  - generic [ref=f6e920]:
+                    - generic [ref=f6e921]: −15 zł/mies.
+                    - generic [ref=f6e922]: na wybranych planach taryfowych
+                - generic [ref=f6e923]:
+                  - generic [ref=f6e927]:
+                    - generic [ref=f6e928]: Łączenie usług
+                    - generic [ref=f6e929]: Internet + TV + telefon w pakiecie
+                  - generic [ref=f6e930]:
+                    - generic [ref=f6e931]: −30 zł/mies.
+                    - generic [ref=f6e932]: na pakiet Love przez pierwsze 6 mies.
+              - generic [ref=f6e933]:
+                - paragraph [ref=f6e934]: "* Zniżki naliczane po weryfikacji konta Orange. Szczegóły w regulaminie programu lojalnościowego."
+                - button "Sprawdź wszystkie korzyści →" [ref=f6e935] [cursor=pointer]
+            - generic [ref=f6e937]:
+              - generic [ref=f6e938]:
+                - generic [ref=f6e939]:
+                  - generic [ref=f6e940]: JAK TO DZIAŁA
+                  - heading "Czym jest Orange Market? Tysiące produktów w jednym miejscu." [level=2] [ref=f6e943]:
+                    - generic [ref=f6e944]: Czym jest Orange Market?
+                    - generic [ref=f6e945]: Tysiące produktów w jednym miejscu.
+                  - paragraph [ref=f6e946]: Marketplace od Orange z ofertami zweryfikowanych partnerów — każdy zakup objęty gwarancją Orange i pełną ochroną kupującego.
+                - button "Zobacz promocje →" [ref=f6e947] [cursor=pointer]
+              - generic [ref=f6e948]:
+                - generic [ref=f6e949]:
+                  - generic [ref=f6e950]: "01"
+                  - generic [ref=f6e951]:
+                    - generic [ref=f6e952]: Znajdź produkt
+                    - generic [ref=f6e953]: Miliony ofert od zweryfikowanych partnerów.
+                - generic [ref=f6e954]:
+                  - generic [ref=f6e955]: "02"
+                  - generic [ref=f6e956]:
+                    - generic [ref=f6e957]: Zamów bezpiecznie
+                    - generic [ref=f6e958]: Paczki od partnerów śledzone w jednym miejscu.
+                - generic [ref=f6e959]:
+                  - generic [ref=f6e960]: "03"
+                  - generic [ref=f6e961]:
+                    - generic [ref=f6e962]: Ciesz się zakupami
+                    - generic [ref=f6e963]: Gwarancja Orange na każdy zakup i 30 dni na zwrot.
+              - generic [ref=f6e964]:
+                - generic [ref=f6e965]: Samsung
+                - generic [ref=f6e966]: Apple
+                - generic [ref=f6e967]: DJI
+                - generic [ref=f6e968]: Sony
+                - generic [ref=f6e969]: LG
+                - generic [ref=f6e970]: Philips
+                - generic [ref=f6e971]: Asus
+                - generic [ref=f6e972]: Lenovo
+                - generic [ref=f6e973]: Xiaomi
+                - generic [ref=f6e974]: Bosch
+          - generic [ref=f6e976]:
+            - generic [ref=f6e977]:
+              - generic [ref=f6e978]: Newsletter Orange Market
+              - heading "Zapisz się i odbierz 10% rabatu" [level=2] [ref=f6e979]
+              - paragraph [ref=f6e980]: Bądź pierwszy z informacją o promocjach, nowościach i ekskluzywnych ofertach tylko dla subskrybentów.
+              - generic [ref=f6e981]:
+                - textbox "Twój e-mail" [ref=f6e982]
+                - button "Zapisz się" [ref=f6e983] [cursor=pointer]
+              - paragraph [ref=f6e984]:
+                - text: Potrzebujemy Twoich danych, aby wysłać newsletter. Administratorem danych jest Orange Polska S.A.
+                - link "Więcej" [ref=f6e985] [cursor=pointer]:
+                  - /url: "#"
+            - generic [ref=f6e986]:
+              - generic [ref=f6e991]:
+                - generic [ref=f6e992]: 10%
+                - generic [ref=f6e993]: rabatudla Ciebie
+              - generic [ref=f6e994]: Darmowa dostawa
+              - generic [ref=f6e995]: Raty 0%
+              - generic [ref=f6e996]: Oferty tylko dla subskrybentów
+          - generic [ref=f6e998]:
+            - generic [ref=f6e999]:
+              - heading "Artykuły i poradniki" [level=2] [ref=f6e1000]
+              - button "Zobacz wszystkie →" [ref=f6e1001] [cursor=pointer]
+            - tablist "Kategorie artykułów" [ref=f6e1002]:
+              - tab "Wszystkie" [selected] [ref=f6e1003] [cursor=pointer]
+              - tab "Smartfony" [ref=f6e1004] [cursor=pointer]
+              - tab "Foto i wideo" [ref=f6e1005] [cursor=pointer]
+              - tab "Dom i AGD" [ref=f6e1006] [cursor=pointer]
+              - tab "Zdrowie i uroda" [ref=f6e1007] [cursor=pointer]
+              - tab "Poradniki zakupowe" [ref=f6e1008] [cursor=pointer]
+            - generic [ref=f6e1009]:
+              - article [ref=f6e1010] [cursor=pointer]:
+                - generic [ref=f6e1011]:
+                  - img "Jak robić lepsze zdjęcia smartfonem" [ref=f6e1012]
+                  - generic [ref=f6e1013]: Foto i wideo
+                - heading "Jak robić lepsze zdjęcia smartfonem" [level=3] [ref=f6e1014]
+                - generic [ref=f6e1015]: Dzisiaj · 6 min czytania
+              - article [ref=f6e1016] [cursor=pointer]:
+                - generic [ref=f6e1017]:
+                  - img "Który smartfon do 2000 zł wybrać w 2026?" [ref=f6e1018]
+                  - generic [ref=f6e1019]: Smartfony
+                - heading "Który smartfon do 2000 zł wybrać w 2026?" [level=3] [ref=f6e1020]
+                - generic [ref=f6e1021]: Dzisiaj · 8 min czytania
+              - article [ref=f6e1022] [cursor=pointer]:
+                - generic [ref=f6e1023]:
+                  - 'img "Tryb nocny w telefonie: 5 trików" [ref=f6e1024]'
+                  - generic [ref=f6e1025]: Foto i wideo
+                - 'heading "Tryb nocny w telefonie: 5 trików" [level=3] [ref=f6e1026]'
+                - generic [ref=f6e1027]: Dzisiaj · 4 min czytania
+              - article [ref=f6e1028] [cursor=pointer]:
+                - generic [ref=f6e1029]:
+                  - img "Robot sprzątający czy odkurzacz pionowy?" [ref=f6e1030]
+                  - generic [ref=f6e1031]: Dom i AGD
+                - heading "Robot sprzątający czy odkurzacz pionowy?" [level=3] [ref=f6e1032]
+                - generic [ref=f6e1033]: Dzisiaj · 7 min czytania
+              - article [ref=f6e1034] [cursor=pointer]:
+                - generic [ref=f6e1035]:
+                  - img "Ekspres do kawy — jak wybrać do domu" [ref=f6e1036]
+                  - generic [ref=f6e1037]: Dom i AGD
+                - heading "Ekspres do kawy — jak wybrać do domu" [level=3] [ref=f6e1038]
+                - generic [ref=f6e1039]: Dzisiaj · 9 min czytania
+              - article [ref=f6e1040] [cursor=pointer]:
+                - generic [ref=f6e1041]:
+                  - 'img "Frytkownica beztłuszczowa: poradnik zakupowy" [ref=f6e1042]'
+                  - generic [ref=f6e1043]: Dom i AGD
+                - 'heading "Frytkownica beztłuszczowa: poradnik zakupowy" [level=3] [ref=f6e1044]'
+                - generic [ref=f6e1045]: Dzisiaj · 5 min czytania
+              - article [ref=f6e1046] [cursor=pointer]:
+                - generic [ref=f6e1047]:
+                  - img "Pielęgnacja z witaminą C — od czego zacząć" [ref=f6e1048]
+                  - generic [ref=f6e1049]: Zdrowie i uroda
+                - heading "Pielęgnacja z witaminą C — od czego zacząć" [level=3] [ref=f6e1050]
+                - generic [ref=f6e1051]: Dzisiaj · 6 min czytania
+              - article [ref=f6e1052] [cursor=pointer]:
+                - generic [ref=f6e1053]:
+                  - img "Rutyna skincare krok po kroku" [ref=f6e1054]
+                  - generic [ref=f6e1055]: Zdrowie i uroda
+                - heading "Rutyna skincare krok po kroku" [level=3] [ref=f6e1056]
+                - generic [ref=f6e1057]: Dzisiaj · 5 min czytania
+              - article [ref=f6e1058] [cursor=pointer]:
+                - generic [ref=f6e1059]:
+                  - 'img "Laptop do pracy zdalnej: na co zwrócić uwagę" [ref=f6e1060]'
+                  - generic [ref=f6e1061]: Poradniki zakupowe
+                - 'heading "Laptop do pracy zdalnej: na co zwrócić uwagę" [level=3] [ref=f6e1062]'
+                - generic [ref=f6e1063]: Dzisiaj · 10 min czytania
+              - article [ref=f6e1064] [cursor=pointer]:
+                - generic [ref=f6e1065]:
+                  - img "Raty 0% w Orange Market — jak to działa" [ref=f6e1066]
+                  - generic [ref=f6e1067]: Poradniki zakupowe
+                - heading "Raty 0% w Orange Market — jak to działa" [level=3] [ref=f6e1068]
+                - generic [ref=f6e1069]: Dzisiaj · 4 min czytania
+          - generic [ref=f6e1071]:
+            - generic [ref=f6e1072]:
+              - generic [ref=f6e1073]:
+                - paragraph [ref=f6e1074]: Smartfony
+                - button "Smartfony promocje" [ref=f6e1076] [cursor=pointer]
+                - button "Smartfony Samsung" [ref=f6e1078] [cursor=pointer]
+                - button "Smartfony Apple" [ref=f6e1080] [cursor=pointer]
+                - button "Smartfony Xiaomi" [ref=f6e1082] [cursor=pointer]
+                - generic:
+                  - button "Smartfony do 1000 zł"
+                - generic:
+                  - button "Wszystkie smartfony"
+              - generic [ref=f6e1083]:
+                - paragraph [ref=f6e1084]: Laptopy
+                - button "Laptopy do pracy" [ref=f6e1086] [cursor=pointer]
+                - button "Laptopy do nauki" [ref=f6e1088] [cursor=pointer]
+                - button "MacBooki Apple" [ref=f6e1090] [cursor=pointer]
+                - button "Laptopy gamingowe" [ref=f6e1092] [cursor=pointer]
+                - generic:
+                  - button "Ultrabooki"
+                - generic:
+                  - button "Laptopy 2 w 1"
+              - generic [ref=f6e1093]:
+                - paragraph [ref=f6e1094]: Słuchawki i audio
+                - button "Słuchawki bezprzewodowe" [ref=f6e1096] [cursor=pointer]
+                - button "Słuchawki TWS" [ref=f6e1098] [cursor=pointer]
+                - button "Słuchawki z ANC" [ref=f6e1100] [cursor=pointer]
+                - button "Soundbary" [ref=f6e1102] [cursor=pointer]
+                - generic:
+                  - button "Głośniki Bluetooth"
+                - generic:
+                  - button "Słuchawki dla dzieci"
+              - generic [ref=f6e1103]:
+                - paragraph [ref=f6e1104]: Smartwatche i AGD
+                - button "Apple Watch" [ref=f6e1106] [cursor=pointer]
+                - button "Samsung Galaxy Watch" [ref=f6e1108] [cursor=pointer]
+                - button "Opaski fitness" [ref=f6e1110] [cursor=pointer]
+                - button "Ekspresy do kawy" [ref=f6e1112] [cursor=pointer]
+                - generic:
+                  - button "Roboty sprzątające"
+                - generic:
+                  - button "Frytkownice beztłuszczowe"
+              - generic [ref=f6e1113]:
+                - paragraph [ref=f6e1114]: HOT Nowości
+                - button "Tablety i iPady" [ref=f6e1116] [cursor=pointer]
+                - button "Drony i kamery" [ref=f6e1118] [cursor=pointer]
+                - button "Gry i konsole" [ref=f6e1120] [cursor=pointer]
+                - button "Monitory do pracy" [ref=f6e1122] [cursor=pointer]
+                - generic:
+                  - button "Zestawy back to school"
+                - generic:
+                  - button "Outlet — okazje"
+            - button "Pokaż więcej" [ref=f6e1124] [cursor=pointer]
+          - generic [ref=f6e1128]:
+            - heading "Orange Market to tysiące produktów w jednym miejscu" [level=2] [ref=f6e1129]
+            - paragraph [ref=f6e1130]: Kupujesz u zweryfikowanych partnerów Orange — elektronikę, AGD, akcesoria i wiele więcej w cenach bez ukrytych kosztów.
+            - button "Zobacz więcej" [ref=f6e1131] [cursor=pointer]
+          - contentinfo [ref=f6e1132]:
+            - generic [ref=f6e1133]:
+              - generic [ref=f6e1134]:
+                - generic [ref=f6e1135]: Orange Market
+                - paragraph [ref=f6e1140]: Marketplace Orange Polska. Kupujesz u zweryfikowanych partnerów, płacisz bezpiecznie i możesz rozłożyć zakup na raty Orange.
+              - generic [ref=f6e1141]:
+                - paragraph [ref=f6e1142]: Zakupy
+                - list [ref=f6e1143]:
+                  - listitem [ref=f6e1144]:
+                    - link "Bestsellery" [ref=f6e1145] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1146]:
+                    - link "Promocje tygodnia" [ref=f6e1147] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1148]:
+                    - link "Raty Orange 0%" [ref=f6e1149] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1150]:
+                    - link "Karty podarunkowe" [ref=f6e1151] [cursor=pointer]:
+                      - /url: "#"
+              - generic [ref=f6e1152]:
+                - paragraph [ref=f6e1153]: Obsługa klienta
+                - list [ref=f6e1154]:
+                  - listitem [ref=f6e1155]:
+                    - link "Status zamówienia" [ref=f6e1156] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1157]:
+                    - link "Zwroty i reklamacje" [ref=f6e1158] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1159]:
+                    - link "Dostawa i płatności" [ref=f6e1160] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1161]:
+                    - link "Kontakt 24/7" [ref=f6e1162] [cursor=pointer]:
+                      - /url: "#"
+              - generic [ref=f6e1163]:
+                - paragraph [ref=f6e1164]: Orange
+                - list [ref=f6e1165]:
+                  - listitem [ref=f6e1166]:
+                    - link "O nas" [ref=f6e1167] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1168]:
+                    - link "Partnerzy marketplace" [ref=f6e1169] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1170]:
+                    - link "Regulamin" [ref=f6e1171] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1172]:
+                    - link "Polityka prywatności" [ref=f6e1173] [cursor=pointer]:
+                      - /url: "#"
+              - generic [ref=f6e1174]:
+                - paragraph [ref=f6e1175]: Dla partnerów
+                - list [ref=f6e1176]:
+                  - listitem [ref=f6e1177]:
+                    - link "Zostań sprzedawcą" [ref=f6e1178] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1179]:
+                    - link "Panel partnera" [ref=f6e1180] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1181]:
+                    - link "Standardy jakości" [ref=f6e1182] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1183]:
+                    - link "Reklama na Orange Market" [ref=f6e1184] [cursor=pointer]:
+                      - /url: "#"
+            - generic [ref=f6e1186]:
+              - generic [ref=f6e1187]: BLIK
+              - generic [ref=f6e1188]: Visa
+              - generic [ref=f6e1189]: Mastercard
+              - generic [ref=f6e1190]: Raty PayU
+              - generic [ref=f6e1191]: Przelew
+              - generic [ref=f6e1192]: PayPo
+              - generic [ref=f6e1193]: Google Pay
+              - generic [ref=f6e1194]: Apple Pay
+            - generic [ref=f6e1196]:
+              - paragraph [ref=f6e1197]: © 2026 Orange Polska S.A.
+              - generic [ref=f6e1198]:
+                - link "Regulamin" [ref=f6e1199] [cursor=pointer]:
+                  - /url: "#"
+                - link "Polityka prywatności" [ref=f6e1200] [cursor=pointer]:
+                  - /url: "#"
+                - link "Cookies" [ref=f6e1201] [cursor=pointer]:
+                  - /url: "#"
+  - generic:
+    - status
+    - group [ref=f1e69]:
+      - alert [ref=f1e71]
+      - alert [ref=f1e73]
+    - region "Consent Manager" [ref=f1e75]:
+      - generic [ref=f1e76]:
+        - text: This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. We use our own cookies and some from third parties. Only essential cookies are turned on by default.
+        - link "Cookies settings" [ref=f1e77]:
+          - /url: /consent-preferences/
+      - generic [ref=f1e78]:
+        - button "Do not allow cookies" [ref=f1e79]
+        - button "Allow all cookies" [ref=f1e80]
+      - button "Dismiss" [ref=f1e82]

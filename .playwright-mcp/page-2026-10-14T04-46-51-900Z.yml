@@ -1,0 +1,437 @@
+- generic [ref=f1e5]:
+  - generic [ref=f1e10]:
+    - status [ref=f1e12]
+    - generic [ref=f1e14]:
+      - generic [ref=f1e18]:
+        - status [ref=f1e19]:
+          - generic [ref=f1e20]: "Warning:"
+          - generic [ref=f1e21]: You’re viewing something built by another Figma user. Be careful when entering any personal information.
+        - link "Learn more" [ref=f1e22] [cursor=pointer]:
+          - /url: https://help.figma.com/hc/articles/31304412302231
+      - button "Dismiss" [ref=f1e24]
+    - generic [ref=f1e26]:
+      - generic [ref=f1e28]:
+        - generic [ref=f1e29]:
+          - button "Back to files" [ref=f1e30]
+          - link "AI, Learn more" [ref=f1e31]:
+            - /url: https://help.figma.com/hc/articles/23870272542231
+            - generic [ref=f1e32]: AI
+        - generic [ref=f1e34]:
+          - 'button "Prototyp UX/UI: Orange Market_Portal, file name" [ref=f1e35]': "Prototyp UX/UI: Orange Market_Portal"
+          - generic [ref=f1e36]: File name
+          - button "Edit file menu" [ref=f1e37]
+        - generic [ref=f1e38]:
+          - button "Help" [ref=f1e40]
+          - button "Sign up with email" [ref=f1e41]
+          - button "Continue with Google" [ref=f1e45]
+      - iframe [active] [ref=f1e66]:
+        - generic [ref=f6e3]:
+          - banner [ref=f6e4]:
+            - generic [ref=f6e5]:
+              - link "Orange Market — strona główna" [ref=f6e6] [cursor=pointer]:
+                - /url: /
+                - generic [ref=f6e11]: Orange Market
+              - generic [ref=f6e13]:
+                - textbox "Szukaj wśród milionów produktów..." [ref=f6e17]
+                - button "Szukaj" [ref=f6e18] [cursor=pointer]
+              - generic [ref=f6e19]:
+                - generic [ref=f6e20] [cursor=pointer]: Zaloguj się
+                - generic [ref=f6e24] [cursor=pointer]: Koszyk
+                - generic [ref=f6e28] [cursor=pointer]: Ulubione
+            - generic [ref=f6e32]:
+              - button "Produkty ▾" [ref=f6e1210] [cursor=pointer]:
+                - text: Produkty
+                - generic [ref=f6e1215]: ▾
+              - link "Szkolne okazje do -40%" [ref=f6e33] [cursor=pointer]:
+                - /url: "#"
+              - link "Market Days -50%" [ref=f6e34] [cursor=pointer]:
+                - /url: "#"
+              - link "Top 100 bestsellerów" [ref=f6e35] [cursor=pointer]:
+                - /url: "#"
+              - link "Sale" [ref=f6e36] [cursor=pointer]:
+                - /url: "#"
+              - link "Nowości" [ref=f6e37] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f6e2198]:
+            - generic [ref=f6e2199]:
+              - button "Strona główna" [ref=f6e2200] [cursor=pointer]
+              - generic [ref=f6e2201]: /
+              - button "Elektronika" [ref=f6e2202] [cursor=pointer]
+              - generic [ref=f6e2203]: /
+              - generic [ref=f6e2204]: Apple iPhone 15 Pro 256GB Titanium Blue
+            - generic [ref=f6e2205]:
+              - generic [ref=f6e2206]:
+                - generic [ref=f6e2207]:
+                  - img "Apple iPhone 15 Pro 256GB Titanium Blue" [ref=f6e2208]
+                  - generic [ref=f6e2209]: "-9%"
+                - generic [ref=f6e2210]:
+                  - button "Zdjęcie 1" [ref=f6e2211] [cursor=pointer]
+                  - button "Zdjęcie 2" [ref=f6e2212] [cursor=pointer]
+                  - button "Zdjęcie 3" [ref=f6e2213] [cursor=pointer]
+              - generic [ref=f6e2214]:
+                - paragraph [ref=f6e2215]: Apple · Smartfony
+                - heading "Apple iPhone 15 Pro 256GB Titanium Blue" [level=1] [ref=f6e2216]
+                - generic [ref=f6e2217]:
+                  - generic "Ocena 4.8 na 5" [ref=f6e2218]
+                  - generic [ref=f6e2249]: "4.8"
+                  - generic [ref=f6e2250]: (1284 opinii)
+                - paragraph [ref=f6e2251]: iPhone 15 Pro w tytanowej obudowie łączy najwydajniejszy układ A17 Pro z potrójnym aparatem 48 Mpix. Zestaw zawiera kabel USB-C oraz 24 miesiące gwarancji producenta.
+                - generic [ref=f6e2252]: NAJWAŻNIEJSZE CECHY
+                - list [ref=f6e2253]:
+                  - listitem [ref=f6e2254]:
+                    - generic [ref=f6e2255]: •
+                    - text: Tytanowa obudowa, 187 g
+                  - listitem [ref=f6e2256]:
+                    - generic [ref=f6e2257]: •
+                    - text: Przycisk akcji i USB-C
+                  - listitem [ref=f6e2258]:
+                    - generic [ref=f6e2259]: •
+                    - text: Do 23 h odtwarzania wideo
+                - generic [ref=f6e2260]: SPECYFIKACJA
+                - generic [ref=f6e2261]:
+                  - generic [ref=f6e2262]:
+                    - term [ref=f6e2263]: Ekran
+                    - definition [ref=f6e2264]: 6,1" Super Retina XDR, 120 Hz
+                  - generic [ref=f6e2265]:
+                    - term [ref=f6e2266]: Procesor
+                    - definition [ref=f6e2267]: Apple A17 Pro · 8 GB RAM
+                  - generic [ref=f6e2268]:
+                    - term [ref=f6e2269]: Pamięć
+                    - definition [ref=f6e2270]: 256 GB, bez slotu microSD
+                  - generic [ref=f6e2271]:
+                    - term [ref=f6e2272]: Aparat
+                    - definition [ref=f6e2273]: 48 Mpix OIS + 12 Mpix · 5G
+              - complementary [ref=f6e2274]:
+                - generic [ref=f6e2275]:
+                  - generic [ref=f6e2276]: 4999,00 zł
+                  - generic [ref=f6e2277]:
+                    - generic [ref=f6e2278]: 5499,00 zł
+                    - strong [ref=f6e2279]: oszczędzasz 500,00 zł
+                  - generic [ref=f6e2280]:
+                    - generic [ref=f6e2281]: 🚚
+                    - text: "Dostawa:"
+                    - strong [ref=f6e2282]: jutro, 8 sierpnia
+                  - generic [ref=f6e2283]:
+                    - text: "Wysyłka z:"
+                    - strong [ref=f6e2284]: Kraków
+                    - text: · 30 dni na zwrot
+                  - generic [ref=f6e2285]:
+                    - generic [ref=f6e2286]:
+                      - button "Zmniejsz ilość" [ref=f6e2287] [cursor=pointer]: −
+                      - button "Zwiększ ilość" [ref=f6e2288] [cursor=pointer]: +
+                      - generic [ref=f6e2289]: "1"
+                    - button "♡ Do ulubionych" [ref=f6e2290] [cursor=pointer]
+                  - button "Dodaj do koszyka" [ref=f6e2291] [cursor=pointer]
+                  - button "Kup teraz" [ref=f6e2292] [cursor=pointer]
+                  - generic [ref=f6e2293]:
+                    - generic [ref=f6e2294]:
+                      - generic [ref=f6e2295]: PayU
+                      - generic [ref=f6e2296]: RATY PayU 0%
+                    - generic [ref=f6e2297]:
+                      - generic [ref=f6e2298]: 24 ×
+                      - strong [ref=f6e2299]: 208,29 zł
+                    - generic [ref=f6e2300]:
+                      - generic [ref=f6e2301]: 12 ×
+                      - strong [ref=f6e2302]: 416,58 zł
+                    - generic [ref=f6e2303]:
+                      - generic [ref=f6e2304]: 6 ×
+                      - strong [ref=f6e2305]: 833,17 zł
+                    - generic [ref=f6e2306]: Przykładowa kalkulacja · RRSO 0%
+                - generic [ref=f6e2307]:
+                  - generic [ref=f6e2308]: SPRZEDAWCA
+                  - generic [ref=f6e2309]:
+                    - generic [ref=f6e2310]: IS
+                    - generic [ref=f6e2311]:
+                      - generic [ref=f6e2312]: iSpot Apple Premium
+                      - generic [ref=f6e2313]: Partner Orange Market
+                  - generic [ref=f6e2314]:
+                    - generic "Ocena 4.8 na 5" [ref=f6e2315]
+                    - strong [ref=f6e2346]: "4.8"
+                    - generic [ref=f6e2347]: (24 180 ocen)
+                  - generic [ref=f6e2348]:
+                    - generic [ref=f6e2349]:
+                      - term [ref=f6e2350]: W Orange Market od
+                      - definition [ref=f6e2351]: "2011"
+                    - generic [ref=f6e2352]:
+                      - term [ref=f6e2353]: Wysyłka z
+                      - definition [ref=f6e2354]: Kraków
+                    - generic [ref=f6e2355]:
+                      - term [ref=f6e2356]: Zwroty
+                      - definition [ref=f6e2357]: 30 dni na zwrot
+                  - paragraph [ref=f6e2358]: Zakup objęty Programem Ochrony Kupujących Orange Market.
+            - generic [ref=f6e2359]:
+              - heading "Podobne w kategorii Elektronika" [level=2] [ref=f6e2360]
+              - generic [ref=f6e2361]:
+                - button "Samsung Galaxy S24 Ultra 512GB Titanium Gray Samsung Galaxy S24 Ultra 512GB Titanium Gray Samsung Brand Store 3799,00 zł 4499,00 zł" [ref=f6e2362] [cursor=pointer]:
+                  - img "Samsung Galaxy S24 Ultra 512GB Titanium Gray" [ref=f6e2364]
+                  - generic [ref=f6e2365]: Samsung Galaxy S24 Ultra 512GB Titanium Gray
+                  - generic [ref=f6e2366]: Samsung Brand Store
+                  - generic [ref=f6e2367]:
+                    - strong [ref=f6e2368]: 3799,00 zł
+                    - generic [ref=f6e2369]: 4499,00 zł
+                - button "Apple MacBook Pro 14\" M3 Pro 18GB / 512GB Apple MacBook Pro 14\" M3 Pro 18GB / 512GB Orange.pl 8299,00 zł 9199,00 zł" [ref=f6e2370] [cursor=pointer]:
+                  - img "Apple MacBook Pro 14\" M3 Pro 18GB / 512GB" [ref=f6e2372]
+                  - generic [ref=f6e2373]: Apple MacBook Pro 14" M3 Pro 18GB / 512GB
+                  - generic [ref=f6e2374]: Orange.pl
+                  - generic [ref=f6e2375]:
+                    - strong [ref=f6e2376]: 8299,00 zł
+                    - generic [ref=f6e2377]: 9199,00 zł
+                - button "Lenovo IdeaPad Slim 5 16\" Ryzen 7 / 16GB / 1TB Lenovo IdeaPad Slim 5 16\" Ryzen 7 / 16GB / 1TB Lenovo Polska 3199,00 zł 3699,00 zł" [ref=f6e2378] [cursor=pointer]:
+                  - img "Lenovo IdeaPad Slim 5 16\" Ryzen 7 / 16GB / 1TB" [ref=f6e2380]
+                  - generic [ref=f6e2381]: Lenovo IdeaPad Slim 5 16" Ryzen 7 / 16GB / 1TB
+                  - generic [ref=f6e2382]: Lenovo Polska
+                  - generic [ref=f6e2383]:
+                    - strong [ref=f6e2384]: 3199,00 zł
+                    - generic [ref=f6e2385]: 3699,00 zł
+                - button "Samsung 55\" QLED 4K QE55Q60D Smart TV Samsung 55\" QLED 4K QE55Q60D Smart TV Samsung Brand Store 2299,00 zł 2999,00 zł" [ref=f6e2386] [cursor=pointer]:
+                  - img "Samsung 55\" QLED 4K QE55Q60D Smart TV" [ref=f6e2388]
+                  - generic [ref=f6e2389]: Samsung 55" QLED 4K QE55Q60D Smart TV
+                  - generic [ref=f6e2390]: Samsung Brand Store
+                  - generic [ref=f6e2391]:
+                    - strong [ref=f6e2392]: 2299,00 zł
+                    - generic [ref=f6e2393]: 2999,00 zł
+          - generic [ref=f6e976]:
+            - generic [ref=f6e977]:
+              - generic [ref=f6e978]: Newsletter Orange Market
+              - heading "Zapisz się i odbierz 10% rabatu" [level=2] [ref=f6e979]
+              - paragraph [ref=f6e980]: Bądź pierwszy z informacją o promocjach, nowościach i ekskluzywnych ofertach tylko dla subskrybentów.
+              - generic [ref=f6e981]:
+                - textbox "Twój e-mail" [ref=f6e982]
+                - button "Zapisz się" [ref=f6e983] [cursor=pointer]
+              - paragraph [ref=f6e984]:
+                - text: Potrzebujemy Twoich danych, aby wysłać newsletter. Administratorem danych jest Orange Polska S.A.
+                - link "Więcej" [ref=f6e985] [cursor=pointer]:
+                  - /url: "#"
+            - generic [ref=f6e986]:
+              - generic [ref=f6e991]:
+                - generic [ref=f6e992]: 10%
+                - generic [ref=f6e993]: rabatudla Ciebie
+              - generic [ref=f6e994]: Darmowa dostawa
+              - generic [ref=f6e995]: Raty 0%
+              - generic [ref=f6e996]: Oferty tylko dla subskrybentów
+          - generic [ref=f6e998]:
+            - generic [ref=f6e999]:
+              - heading "Artykuły i poradniki" [level=2] [ref=f6e1000]
+              - button "Zobacz wszystkie →" [ref=f6e1001] [cursor=pointer]
+            - tablist "Kategorie artykułów" [ref=f6e1002]:
+              - tab "Wszystkie" [selected] [ref=f6e1003] [cursor=pointer]
+              - tab "Smartfony" [ref=f6e1004] [cursor=pointer]
+              - tab "Foto i wideo" [ref=f6e1005] [cursor=pointer]
+              - tab "Dom i AGD" [ref=f6e1006] [cursor=pointer]
+              - tab "Zdrowie i uroda" [ref=f6e1007] [cursor=pointer]
+              - tab "Poradniki zakupowe" [ref=f6e1008] [cursor=pointer]
+            - generic [ref=f6e1009]:
+              - article [ref=f6e1010] [cursor=pointer]:
+                - generic [ref=f6e1011]:
+                  - img "Jak robić lepsze zdjęcia smartfonem" [ref=f6e1012]
+                  - generic [ref=f6e1013]: Foto i wideo
+                - heading "Jak robić lepsze zdjęcia smartfonem" [level=3] [ref=f6e1014]
+                - generic [ref=f6e1015]: Dzisiaj · 6 min czytania
+              - article [ref=f6e1016] [cursor=pointer]:
+                - generic [ref=f6e1017]:
+                  - img "Który smartfon do 2000 zł wybrać w 2026?" [ref=f6e1018]
+                  - generic [ref=f6e1019]: Smartfony
+                - heading "Który smartfon do 2000 zł wybrać w 2026?" [level=3] [ref=f6e1020]
+                - generic [ref=f6e1021]: Dzisiaj · 8 min czytania
+              - article [ref=f6e1022] [cursor=pointer]:
+                - generic [ref=f6e1023]:
+                  - 'img "Tryb nocny w telefonie: 5 trików" [ref=f6e1024]'
+                  - generic [ref=f6e1025]: Foto i wideo
+                - 'heading "Tryb nocny w telefonie: 5 trików" [level=3] [ref=f6e1026]'
+                - generic [ref=f6e1027]: Dzisiaj · 4 min czytania
+              - article [ref=f6e1028] [cursor=pointer]:
+                - generic [ref=f6e1029]:
+                  - img "Robot sprzątający czy odkurzacz pionowy?" [ref=f6e1030]
+                  - generic [ref=f6e1031]: Dom i AGD
+                - heading "Robot sprzątający czy odkurzacz pionowy?" [level=3] [ref=f6e1032]
+                - generic [ref=f6e1033]: Dzisiaj · 7 min czytania
+              - article [ref=f6e1034] [cursor=pointer]:
+                - generic [ref=f6e1035]:
+                  - img "Ekspres do kawy — jak wybrać do domu" [ref=f6e1036]
+                  - generic [ref=f6e1037]: Dom i AGD
+                - heading "Ekspres do kawy — jak wybrać do domu" [level=3] [ref=f6e1038]
+                - generic [ref=f6e1039]: Dzisiaj · 9 min czytania
+              - article [ref=f6e1040] [cursor=pointer]:
+                - generic [ref=f6e1041]:
+                  - 'img "Frytkownica beztłuszczowa: poradnik zakupowy" [ref=f6e1042]'
+                  - generic [ref=f6e1043]: Dom i AGD
+                - 'heading "Frytkownica beztłuszczowa: poradnik zakupowy" [level=3] [ref=f6e1044]'
+                - generic [ref=f6e1045]: Dzisiaj · 5 min czytania
+              - article [ref=f6e1046] [cursor=pointer]:
+                - generic [ref=f6e1047]:
+                  - img "Pielęgnacja z witaminą C — od czego zacząć" [ref=f6e1048]
+                  - generic [ref=f6e1049]: Zdrowie i uroda
+                - heading "Pielęgnacja z witaminą C — od czego zacząć" [level=3] [ref=f6e1050]
+                - generic [ref=f6e1051]: Dzisiaj · 6 min czytania
+              - article [ref=f6e1052] [cursor=pointer]:
+                - generic [ref=f6e1053]:
+                  - img "Rutyna skincare krok po kroku" [ref=f6e1054]
+                  - generic [ref=f6e1055]: Zdrowie i uroda
+                - heading "Rutyna skincare krok po kroku" [level=3] [ref=f6e1056]
+                - generic [ref=f6e1057]: Dzisiaj · 5 min czytania
+              - article [ref=f6e1058] [cursor=pointer]:
+                - generic [ref=f6e1059]:
+                  - 'img "Laptop do pracy zdalnej: na co zwrócić uwagę" [ref=f6e1060]'
+                  - generic [ref=f6e1061]: Poradniki zakupowe
+                - 'heading "Laptop do pracy zdalnej: na co zwrócić uwagę" [level=3] [ref=f6e1062]'
+                - generic [ref=f6e1063]: Dzisiaj · 10 min czytania
+              - article [ref=f6e1064] [cursor=pointer]:
+                - generic [ref=f6e1065]:
+                  - img "Raty 0% w Orange Market — jak to działa" [ref=f6e1066]
+                  - generic [ref=f6e1067]: Poradniki zakupowe
+                - heading "Raty 0% w Orange Market — jak to działa" [level=3] [ref=f6e1068]
+                - generic [ref=f6e1069]: Dzisiaj · 4 min czytania
+          - generic [ref=f6e1071]:
+            - generic [ref=f6e1072]:
+              - generic [ref=f6e1073]:
+                - paragraph [ref=f6e1074]: Smartfony
+                - button "Smartfony promocje" [ref=f6e1076] [cursor=pointer]
+                - button "Smartfony Samsung" [ref=f6e1078] [cursor=pointer]
+                - button "Smartfony Apple" [ref=f6e1080] [cursor=pointer]
+                - button "Smartfony Xiaomi" [ref=f6e1082] [cursor=pointer]
+                - generic:
+                  - button "Smartfony do 1000 zł"
+                - generic:
+                  - button "Wszystkie smartfony"
+              - generic [ref=f6e1083]:
+                - paragraph [ref=f6e1084]: Laptopy
+                - button "Laptopy do pracy" [ref=f6e1086] [cursor=pointer]
+                - button "Laptopy do nauki" [ref=f6e1088] [cursor=pointer]
+                - button "MacBooki Apple" [ref=f6e1090] [cursor=pointer]
+                - button "Laptopy gamingowe" [ref=f6e1092] [cursor=pointer]
+                - generic:
+                  - button "Ultrabooki"
+                - generic:
+                  - button "Laptopy 2 w 1"
+              - generic [ref=f6e1093]:
+                - paragraph [ref=f6e1094]: Słuchawki i audio
+                - button "Słuchawki bezprzewodowe" [ref=f6e1096] [cursor=pointer]
+                - button "Słuchawki TWS" [ref=f6e1098] [cursor=pointer]
+                - button "Słuchawki z ANC" [ref=f6e1100] [cursor=pointer]
+                - button "Soundbary" [ref=f6e1102] [cursor=pointer]
+                - generic:
+                  - button "Głośniki Bluetooth"
+                - generic:
+                  - button "Słuchawki dla dzieci"
+              - generic [ref=f6e1103]:
+                - paragraph [ref=f6e1104]: Smartwatche i AGD
+                - button "Apple Watch" [ref=f6e1106] [cursor=pointer]
+                - button "Samsung Galaxy Watch" [ref=f6e1108] [cursor=pointer]
+                - button "Opaski fitness" [ref=f6e1110] [cursor=pointer]
+                - button "Ekspresy do kawy" [ref=f6e1112] [cursor=pointer]
+                - generic:
+                  - button "Roboty sprzątające"
+                - generic:
+                  - button "Frytkownice beztłuszczowe"
+              - generic [ref=f6e1113]:
+                - paragraph [ref=f6e1114]: HOT Nowości
+                - button "Tablety i iPady" [ref=f6e1116] [cursor=pointer]
+                - button "Drony i kamery" [ref=f6e1118] [cursor=pointer]
+                - button "Gry i konsole" [ref=f6e1120] [cursor=pointer]
+                - button "Monitory do pracy" [ref=f6e1122] [cursor=pointer]
+                - generic:
+                  - button "Zestawy back to school"
+                - generic:
+                  - button "Outlet — okazje"
+            - button "Pokaż więcej" [ref=f6e1124] [cursor=pointer]
+          - generic [ref=f6e1128]:
+            - heading "Orange Market to tysiące produktów w jednym miejscu" [level=2] [ref=f6e1129]
+            - paragraph [ref=f6e1130]: Kupujesz u zweryfikowanych partnerów Orange — elektronikę, AGD, akcesoria i wiele więcej w cenach bez ukrytych kosztów.
+            - button "Zobacz więcej" [ref=f6e1131] [cursor=pointer]
+          - contentinfo [ref=f6e1132]:
+            - generic [ref=f6e1133]:
+              - generic [ref=f6e1134]:
+                - generic [ref=f6e1135]: Orange Market
+                - paragraph [ref=f6e1140]: Marketplace Orange Polska. Kupujesz u zweryfikowanych partnerów, płacisz bezpiecznie i możesz rozłożyć zakup na raty Orange.
+              - generic [ref=f6e1141]:
+                - paragraph [ref=f6e1142]: Zakupy
+                - list [ref=f6e1143]:
+                  - listitem [ref=f6e1144]:
+                    - link "Bestsellery" [ref=f6e1145] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1146]:
+                    - link "Promocje tygodnia" [ref=f6e1147] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1148]:
+                    - link "Raty Orange 0%" [ref=f6e1149] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1150]:
+                    - link "Karty podarunkowe" [ref=f6e1151] [cursor=pointer]:
+                      - /url: "#"
+              - generic [ref=f6e1152]:
+                - paragraph [ref=f6e1153]: Obsługa klienta
+                - list [ref=f6e1154]:
+                  - listitem [ref=f6e1155]:
+                    - link "Status zamówienia" [ref=f6e1156] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1157]:
+                    - link "Zwroty i reklamacje" [ref=f6e1158] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1159]:
+                    - link "Dostawa i płatności" [ref=f6e1160] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1161]:
+                    - link "Kontakt 24/7" [ref=f6e1162] [cursor=pointer]:
+                      - /url: "#"
+              - generic [ref=f6e1163]:
+                - paragraph [ref=f6e1164]: Orange
+                - list [ref=f6e1165]:
+                  - listitem [ref=f6e1166]:
+                    - link "O nas" [ref=f6e1167] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1168]:
+                    - link "Partnerzy marketplace" [ref=f6e1169] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1170]:
+                    - link "Regulamin" [ref=f6e1171] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1172]:
+                    - link "Polityka prywatności" [ref=f6e1173] [cursor=pointer]:
+                      - /url: "#"
+              - generic [ref=f6e1174]:
+                - paragraph [ref=f6e1175]: Dla partnerów
+                - list [ref=f6e1176]:
+                  - listitem [ref=f6e1177]:
+                    - link "Zostań sprzedawcą" [ref=f6e1178] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1179]:
+                    - link "Panel partnera" [ref=f6e1180] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1181]:
+                    - link "Standardy jakości" [ref=f6e1182] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1183]:
+                    - link "Reklama na Orange Market" [ref=f6e1184] [cursor=pointer]:
+                      - /url: "#"
+            - generic [ref=f6e1186]:
+              - generic [ref=f6e1187]: BLIK
+              - generic [ref=f6e1188]: Visa
+              - generic [ref=f6e1189]: Mastercard
+              - generic [ref=f6e1190]: Raty PayU
+              - generic [ref=f6e1191]: Przelew
+              - generic [ref=f6e1192]: PayPo
+              - generic [ref=f6e1193]: Google Pay
+              - generic [ref=f6e1194]: Apple Pay
+            - generic [ref=f6e1196]:
+              - paragraph [ref=f6e1197]: © 2026 Orange Polska S.A.
+              - generic [ref=f6e1198]:
+                - link "Regulamin" [ref=f6e1199] [cursor=pointer]:
+                  - /url: "#"
+                - link "Polityka prywatności" [ref=f6e1200] [cursor=pointer]:
+                  - /url: "#"
+                - link "Cookies" [ref=f6e1201] [cursor=pointer]:
+                  - /url: "#"
+  - generic:
+    - status
+    - group [ref=f1e69]:
+      - alert [ref=f1e71]
+      - alert [ref=f1e73]
+    - region "Consent Manager" [ref=f1e75]:
+      - generic [ref=f1e76]:
+        - text: This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. We use our own cookies and some from third parties. Only essential cookies are turned on by default.
+        - link "Cookies settings" [ref=f1e77]:
+          - /url: /consent-preferences/
+      - generic [ref=f1e78]:
+        - button "Do not allow cookies" [ref=f1e79]
+        - button "Allow all cookies" [ref=f1e80]
+      - button "Dismiss" [ref=f1e82]

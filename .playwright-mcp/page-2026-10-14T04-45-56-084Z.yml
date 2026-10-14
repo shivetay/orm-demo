@@ -1,0 +1,14 @@
+- generic [ref=e5]:
+  - link "Figma logo that can be used to navigate to homepage" [ref=e8] [cursor=pointer]:
+    - /url: /
+  - generic [ref=e13]:
+    - generic [ref=e18]: Password required
+    - generic [ref=e19]: You need a password to access the Make file
+    - generic [ref=e20]: "Prototyp UX/UI: Orange Market_Portal"
+    - generic [ref=e21]:
+      - textbox "Enter password" [active] [ref=e23]
+      - button "Continue" [ref=e25]
+      - generic [ref=e27]:
+        - text: Already have a Figma account?
+        - link "Log in" [ref=e28] [cursor=pointer]:
+          - /url: /login?cont=/make/fzBphnQpCIOYeuvqGPpVxW/Prototyp-UX-UI--Orange-Market_Portal?mode=null

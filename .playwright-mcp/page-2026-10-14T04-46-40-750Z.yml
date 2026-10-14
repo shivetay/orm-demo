@@ -1,0 +1,769 @@
+- generic [ref=f1e5]:
+  - generic [ref=f1e10]:
+    - status [ref=f1e12]
+    - generic [ref=f1e14]:
+      - generic [ref=f1e18]:
+        - status [ref=f1e19]:
+          - generic [ref=f1e20]: "Warning:"
+          - generic [ref=f1e21]: You’re viewing something built by another Figma user. Be careful when entering any personal information.
+        - link "Learn more" [ref=f1e22] [cursor=pointer]:
+          - /url: https://help.figma.com/hc/articles/31304412302231
+      - button "Dismiss" [ref=f1e24]
+    - generic [ref=f1e26]:
+      - generic [ref=f1e28]:
+        - generic [ref=f1e29]:
+          - button "Back to files" [ref=f1e30]
+          - link "AI, Learn more" [ref=f1e31]:
+            - /url: https://help.figma.com/hc/articles/23870272542231
+            - generic [ref=f1e32]: AI
+        - generic [ref=f1e34]:
+          - 'button "Prototyp UX/UI: Orange Market_Portal, file name" [ref=f1e35]': "Prototyp UX/UI: Orange Market_Portal"
+          - generic [ref=f1e36]: File name
+          - button "Edit file menu" [ref=f1e37]
+        - generic [ref=f1e38]:
+          - button "Help" [ref=f1e40]
+          - button "Sign up with email" [ref=f1e41]
+          - button "Continue with Google" [ref=f1e45]
+      - iframe [active] [ref=f1e66]:
+        - generic [ref=f6e3]:
+          - banner [ref=f6e4]:
+            - generic [ref=f6e5]:
+              - link "Orange Market — strona główna" [ref=f6e6] [cursor=pointer]:
+                - /url: /
+                - generic [ref=f6e11]: Orange Market
+              - generic [ref=f6e13]:
+                - textbox "Szukaj wśród milionów produktów..." [ref=f6e17]
+                - button "Szukaj" [ref=f6e18] [cursor=pointer]
+              - generic [ref=f6e19]:
+                - generic [ref=f6e20] [cursor=pointer]: Zaloguj się
+                - generic [ref=f6e24] [cursor=pointer]: Koszyk
+                - generic [ref=f6e28] [cursor=pointer]: Ulubione
+            - generic [ref=f6e32]:
+              - button "Produkty ▾" [ref=f6e1210] [cursor=pointer]:
+                - text: Produkty
+                - generic [ref=f6e1215]: ▾
+              - link "Szkolne okazje do -40%" [ref=f6e33] [cursor=pointer]:
+                - /url: "#"
+              - link "Market Days -50%" [ref=f6e34] [cursor=pointer]:
+                - /url: "#"
+              - link "Top 100 bestsellerów" [ref=f6e35] [cursor=pointer]:
+                - /url: "#"
+              - link "Sale" [ref=f6e36] [cursor=pointer]:
+                - /url: "#"
+              - link "Nowości" [ref=f6e37] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f6e1216]:
+            - generic [ref=f6e1217]:
+              - button "Strona główna" [ref=f6e1218] [cursor=pointer]
+              - generic [ref=f6e1219]:
+                - generic [ref=f6e1220]: /
+                - generic [ref=f6e1221]: Elektronika
+            - generic [ref=f6e1222]:
+              - heading "Elektronika" [level=1] [ref=f6e1223]
+              - paragraph [ref=f6e1224]:
+                - text: w kategorii Elektronika · Znaleziono
+                - strong [ref=f6e1225]: "19"
+                - text: produktów od zweryfikowanych partnerów Orange Market
+            - generic [ref=f6e1226]:
+              - generic [ref=f6e1227]:
+                - heading "Polecane produkty" [level=2] [ref=f6e1228]
+                - generic [ref=f6e1229]: Wybrane dla Ciebie
+              - generic [ref=f6e1230]:
+                - article [ref=f6e1231]:
+                  - generic [ref=f6e1232] [cursor=pointer]:
+                    - img "Apple iPhone 15 Pro 256GB Titanium Blue" [ref=f6e1233]
+                    - generic [ref=f6e1234]: "-9%"
+                  - generic "Płatna promocja sprzedawcy" [ref=f6e1236]:
+                    - generic [aria-hidden] [ref=f6e1237]: ◆
+                    - text: Sponsorowane
+                  - button "Apple iPhone 15 Pro 256GB Titanium Blue" [ref=f6e1238] [cursor=pointer]
+                  - generic [ref=f6e1239]:
+                    - generic "Ocena 4.8 na 5" [ref=f6e1240]
+                    - generic [ref=f6e1271]: "4.8"
+                  - generic [ref=f6e1272]:
+                    - generic [ref=f6e1273]:
+                      - generic [ref=f6e1274]: 4999,00 zł
+                      - generic [ref=f6e1275]: 5499,00 zł
+                    - button "Dodaj do koszyka" [ref=f6e1276] [cursor=pointer]
+                - article [ref=f6e1281]:
+                  - generic [ref=f6e1282] [cursor=pointer]:
+                    - img "JBL Tune 720BT Słuchawki nauszne Bluetooth" [ref=f6e1283]
+                    - generic [ref=f6e1284]: "-27%"
+                  - generic "Płatna promocja sprzedawcy" [ref=f6e1286]:
+                    - generic [aria-hidden] [ref=f6e1287]: ◆
+                    - text: Sponsorowane
+                  - button "JBL Tune 720BT Słuchawki nauszne Bluetooth" [ref=f6e1288] [cursor=pointer]
+                  - generic [ref=f6e1289]:
+                    - generic "Ocena 4.3 na 5" [ref=f6e1290]
+                    - generic [ref=f6e1321]: "4.3"
+                  - generic [ref=f6e1322]:
+                    - generic [ref=f6e1323]:
+                      - generic [ref=f6e1324]: 239,00 zł
+                      - generic [ref=f6e1325]: 329,00 zł
+                    - button "Dodaj do koszyka" [ref=f6e1326] [cursor=pointer]
+                - article [ref=f6e1331]:
+                  - generic [ref=f6e1332] [cursor=pointer]:
+                    - img "ASUS ROG Strix G16 Ryzen 9 / RTX 4070 / 32GB Laptop gamingowy" [ref=f6e1333]
+                    - generic [ref=f6e1334]: "-29%"
+                  - generic "Płatna promocja sprzedawcy" [ref=f6e1336]:
+                    - generic [aria-hidden] [ref=f6e1337]: ◆
+                    - text: Sponsorowane
+                  - button "ASUS ROG Strix G16 Ryzen 9 / RTX 4070 / 32GB Laptop gamingowy" [ref=f6e1338] [cursor=pointer]
+                  - generic [ref=f6e1339]:
+                    - generic "Ocena 4.8 na 5" [ref=f6e1340]
+                    - generic [ref=f6e1371]: "4.8"
+                  - generic [ref=f6e1372]:
+                    - generic [ref=f6e1373]:
+                      - generic [ref=f6e1374]: 4999,00 zł
+                      - generic [ref=f6e1375]: 6999,00 zł
+                    - button "Dodaj do koszyka" [ref=f6e1376] [cursor=pointer]
+                - article [ref=f6e1381]:
+                  - generic [ref=f6e1382] [cursor=pointer]:
+                    - img "Apple iPad 10.9\" Wi-Fi 128GB" [ref=f6e1383]
+                    - generic [ref=f6e1384]: "-14%"
+                  - generic "Płatna promocja sprzedawcy" [ref=f6e1386]:
+                    - generic [aria-hidden] [ref=f6e1387]: ◆
+                    - text: Sponsorowane
+                  - button "Apple iPad 10.9\" Wi-Fi 128GB" [ref=f6e1388] [cursor=pointer]
+                  - generic [ref=f6e1389]:
+                    - generic "Ocena 4.7 na 5" [ref=f6e1390]
+                    - generic [ref=f6e1421]: "4.7"
+                  - generic [ref=f6e1422]:
+                    - generic [ref=f6e1423]:
+                      - generic [ref=f6e1424]: 1799,00 zł
+                      - generic [ref=f6e1425]: 2099,00 zł
+                    - button "Dodaj do koszyka" [ref=f6e1426] [cursor=pointer]
+                - article [ref=f6e1431]:
+                  - generic [ref=f6e1432] [cursor=pointer]:
+                    - img "Samsung Galaxy Tab A9+ 10,9\" 128GB WiFi Grafitowy" [ref=f6e1433]
+                    - generic [ref=f6e1434]: "-40%"
+                  - generic "Płatna promocja sprzedawcy" [ref=f6e1436]:
+                    - generic [aria-hidden] [ref=f6e1437]: ◆
+                    - text: Sponsorowane
+                  - button "Samsung Galaxy Tab A9+ 10,9\" 128GB WiFi Grafitowy" [ref=f6e1438] [cursor=pointer]
+                  - generic [ref=f6e1439]:
+                    - generic "Ocena 4.5 na 5" [ref=f6e1440]
+                    - generic [ref=f6e1471]: "4.5"
+                  - generic [ref=f6e1472]:
+                    - generic [ref=f6e1473]:
+                      - generic [ref=f6e1474]: 899,00 zł
+                      - generic [ref=f6e1475]: 1499,00 zł
+                    - button "Dodaj do koszyka" [ref=f6e1476] [cursor=pointer]
+                - article [ref=f6e1481]:
+                  - generic [ref=f6e1482] [cursor=pointer]:
+                    - img "Dell P2422H 24\" Full HD Monitor biurowy" [ref=f6e1483]
+                    - generic [ref=f6e1484]: "-19%"
+                  - generic "Płatna promocja sprzedawcy" [ref=f6e1486]:
+                    - generic [aria-hidden] [ref=f6e1487]: ◆
+                    - text: Sponsorowane
+                  - button "Dell P2422H 24\" Full HD Monitor biurowy" [ref=f6e1488] [cursor=pointer]
+                  - generic [ref=f6e1489]:
+                    - generic "Ocena 4.5 na 5" [ref=f6e1490]
+                    - generic [ref=f6e1521]: "4.5"
+                  - generic [ref=f6e1522]:
+                    - generic [ref=f6e1523]:
+                      - generic [ref=f6e1524]: 649,00 zł
+                      - generic [ref=f6e1525]: 799,00 zł
+                    - button "Dodaj do koszyka" [ref=f6e1526] [cursor=pointer]
+                - article [ref=f6e1531]:
+                  - generic [ref=f6e1532] [cursor=pointer]:
+                    - img "Samsung Galaxy Watch 7 44mm Smartwatch Czarny" [ref=f6e1533]
+                    - generic [ref=f6e1534]: "-33%"
+                  - generic "Płatna promocja sprzedawcy" [ref=f6e1536]:
+                    - generic [aria-hidden] [ref=f6e1537]: ◆
+                    - text: Sponsorowane
+                  - button "Samsung Galaxy Watch 7 44mm Smartwatch Czarny" [ref=f6e1538] [cursor=pointer]
+                  - generic [ref=f6e1539]:
+                    - generic "Ocena 4.5 na 5" [ref=f6e1540]
+                    - generic [ref=f6e1571]: "4.5"
+                  - generic [ref=f6e1572]:
+                    - generic [ref=f6e1573]:
+                      - generic [ref=f6e1574]: 999,00 zł
+                      - generic [ref=f6e1575]: 1499,00 zł
+                    - button "Dodaj do koszyka" [ref=f6e1576] [cursor=pointer]
+                - article [ref=f6e1581]:
+                  - generic [ref=f6e1582] [cursor=pointer]:
+                    - img "Lenovo IdeaPad Slim 5 16\" Ryzen 7 / 16GB / 1TB" [ref=f6e1583]
+                    - generic [ref=f6e1584]: "-14%"
+                  - generic "Płatna promocja sprzedawcy" [ref=f6e1586]:
+                    - generic [aria-hidden] [ref=f6e1587]: ◆
+                    - text: Sponsorowane
+                  - button "Lenovo IdeaPad Slim 5 16\" Ryzen 7 / 16GB / 1TB" [ref=f6e1588] [cursor=pointer]
+                  - generic [ref=f6e1589]:
+                    - generic "Ocena 4.5 na 5" [ref=f6e1590]
+                    - generic [ref=f6e1621]: "4.5"
+                  - generic [ref=f6e1622]:
+                    - generic [ref=f6e1623]:
+                      - generic [ref=f6e1624]: 3199,00 zł
+                      - generic [ref=f6e1625]: 3699,00 zł
+                    - button "Dodaj do koszyka" [ref=f6e1626] [cursor=pointer]
+            - generic [ref=f6e1631]:
+              - complementary [ref=f6e1632]:
+                - generic [ref=f6e1633]: Elektronika
+                - button "Wszystkie" [ref=f6e1634] [cursor=pointer]
+                - button "Audio 4" [ref=f6e1636] [cursor=pointer]:
+                  - generic [ref=f6e1637]: Audio
+                  - generic [ref=f6e1638]: "4"
+                - button "Smartfony 3" [ref=f6e1639] [cursor=pointer]:
+                  - generic [ref=f6e1640]: Smartfony
+                  - generic [ref=f6e1641]: "3"
+                - button "Laptopy 3" [ref=f6e1642] [cursor=pointer]:
+                  - generic [ref=f6e1643]: Laptopy
+                  - generic [ref=f6e1644]: "3"
+                - button "Tablety 3" [ref=f6e1645] [cursor=pointer]:
+                  - generic [ref=f6e1646]: Tablety
+                  - generic [ref=f6e1647]: "3"
+                - button "Monitory 3" [ref=f6e1648] [cursor=pointer]:
+                  - generic [ref=f6e1649]: Monitory
+                  - generic [ref=f6e1650]: "3"
+                - button "Smartwatche 2" [ref=f6e1651] [cursor=pointer]:
+                  - generic [ref=f6e1652]: Smartwatche
+                  - generic [ref=f6e1653]: "2"
+                - button "Telewizory 1" [ref=f6e1654] [cursor=pointer]:
+                  - generic [ref=f6e1655]: Telewizory
+                  - generic [ref=f6e1656]: "1"
+                - link "Promocja":
+                  - /url: "#"
+                  - img "Promocja"
+              - generic [ref=f6e1657]:
+                - generic [ref=f6e1658]:
+                  - button "Sortuj" [ref=f6e1660] [cursor=pointer]
+                  - button "Marka" [ref=f6e1664] [cursor=pointer]
+                  - button "System" [ref=f6e1668] [cursor=pointer]
+                  - button "Ekran" [ref=f6e1672] [cursor=pointer]
+                  - button "RAM" [ref=f6e1676] [cursor=pointer]
+                  - button "Kolor" [ref=f6e1680] [cursor=pointer]
+                  - button "Łączność" [ref=f6e1684] [cursor=pointer]
+                  - button "Pamięć" [ref=f6e1688] [cursor=pointer]
+                  - button "Cena" [ref=f6e1692] [cursor=pointer]
+                  - button "Ocena" [ref=f6e1696] [cursor=pointer]
+                  - button "Sprzedawca" [ref=f6e1700] [cursor=pointer]
+                  - button "Dostawa już jutro" [ref=f6e1703] [cursor=pointer]
+                  - button "Tylko promocje" [ref=f6e1704] [cursor=pointer]
+                - generic [ref=f6e1705]:
+                  - button "Zmień widok listy" [ref=f6e1707] [cursor=pointer]
+                  - button [ref=f6e1720] [cursor=pointer]
+                  - generic [ref=f6e1723]:
+                    - button "Poprzednia strona" [disabled] [ref=f6e1724]
+                    - generic [ref=f6e1727]:
+                      - strong [ref=f6e1728]: "1"
+                      - generic [ref=f6e1729]: z 4
+                    - button "Następna strona" [ref=f6e1730] [cursor=pointer]
+                - generic [ref=f6e1733]:
+                  - article [ref=f6e1734] [cursor=pointer]:
+                    - generic [ref=f6e1735]:
+                      - img "Apple iPhone 15 Pro 256GB Titanium Blue" [ref=f6e1736]
+                      - generic [ref=f6e1737]: "-9%"
+                    - generic [ref=f6e1738]:
+                      - generic "Płatna promocja sprzedawcy" [ref=f6e1740]:
+                        - generic [aria-hidden] [ref=f6e1741]: ◆
+                        - text: Sponsorowane
+                      - generic [ref=f6e1742]:
+                        - heading "Apple iPhone 15 Pro 256GB Titanium Blue" [level=3] [ref=f6e1743]
+                        - button "Dodaj do ulubionych" [ref=f6e1744]
+                      - generic [ref=f6e1747]:
+                        - generic "Ocena 4.8 na 5" [ref=f6e1748]
+                        - generic [ref=f6e1779]: "4.8"
+                        - generic [ref=f6e1780]: (1284 opinii)
+                      - generic [ref=f6e1781]: "% Nawet 500,00 zł rabatu"
+                      - generic [ref=f6e1783]:
+                        - generic [ref=f6e1784]:
+                          - term [ref=f6e1785]: "Ekran:"
+                          - definition [ref=f6e1786]: 6,1" Super Retina XDR, 120 Hz
+                        - generic [ref=f6e1787]:
+                          - term [ref=f6e1788]: "Procesor:"
+                          - definition [ref=f6e1789]: Apple A17 Pro · 8 GB RAM
+                        - generic [ref=f6e1790]:
+                          - term [ref=f6e1791]: "Pamięć:"
+                          - definition [ref=f6e1792]: 256 GB, bez slotu microSD
+                        - generic [ref=f6e1793]:
+                          - term [ref=f6e1794]: "Aparat:"
+                          - definition [ref=f6e1795]: 48 Mpix OIS + 12 Mpix · 5G
+                      - button "Porównaj" [ref=f6e1796]
+                    - generic [ref=f6e1800]:
+                      - generic [ref=f6e1801]: 4999,00 zł
+                      - paragraph [ref=f6e1803]:
+                        - text: "Najniższa cena w ostatnich 30 dniach przed obniżką: 5499,00 zł"
+                        - generic [ref=f6e1804]: "-9%"
+                      - link "208,29 zł × 24 rat 0%" [ref=f6e1805]:
+                        - /url: https://www.payu.pl/raty
+                      - generic [ref=f6e1806]:
+                        - generic [ref=f6e1807]: Darmowa dostawa
+                        - generic [ref=f6e1808]:
+                          - text: "Najwcześniej u Ciebie:"
+                          - strong [ref=f6e1809]: jutro, 8 sierpnia
+                        - generic [ref=f6e1810]:
+                          - text: "Sprzedawca:"
+                          - strong [ref=f6e1811]: iSpot Apple Premium
+                      - generic [ref=f6e1812]:
+                        - button "Dodaj do koszyka"
+                  - article [ref=f6e1813] [cursor=pointer]:
+                    - generic [ref=f6e1814]:
+                      - img "Samsung Galaxy S24 Ultra 512GB Titanium Gray" [ref=f6e1815]
+                      - generic [ref=f6e1816]: "-16%"
+                    - generic [ref=f6e1817]:
+                      - generic [ref=f6e1818]:
+                        - heading "Samsung Galaxy S24 Ultra 512GB Titanium Gray" [level=3] [ref=f6e1819]
+                        - button "Dodaj do ulubionych" [ref=f6e1820]
+                      - generic [ref=f6e1823]:
+                        - generic "Ocena 4.7 na 5" [ref=f6e1824]
+                        - generic [ref=f6e1855]: "4.7"
+                        - generic [ref=f6e1856]: (2103 opinii)
+                      - generic [ref=f6e1857]: "% Nawet 700,00 zł rabatu"
+                      - generic [ref=f6e1859]:
+                        - generic [ref=f6e1860]:
+                          - term [ref=f6e1861]: "Ekran:"
+                          - definition [ref=f6e1862]: 6,8" Dynamic AMOLED 2X, 120 Hz
+                        - generic [ref=f6e1863]:
+                          - term [ref=f6e1864]: "Procesor:"
+                          - definition [ref=f6e1865]: Snapdragon 8 Gen 3 · 12 GB
+                        - generic [ref=f6e1866]:
+                          - term [ref=f6e1867]: "Pamięć:"
+                          - definition [ref=f6e1868]: 512 GB, bez slotu microSD
+                        - generic [ref=f6e1869]:
+                          - term [ref=f6e1870]: "Aparat:"
+                          - definition [ref=f6e1871]: 200 Mpix OIS · rysik S Pen
+                      - button "Porównaj" [ref=f6e1872]
+                    - generic [ref=f6e1876]:
+                      - generic [ref=f6e1877]: 3799,00 zł
+                      - paragraph [ref=f6e1879]:
+                        - text: "Najniższa cena w ostatnich 30 dniach przed obniżką: 4499,00 zł"
+                        - generic [ref=f6e1880]: "-16%"
+                      - link "158,29 zł × 24 rat 0%" [ref=f6e1881]:
+                        - /url: https://www.payu.pl/raty
+                      - generic [ref=f6e1882]:
+                        - generic [ref=f6e1883]:
+                          - text: "Najwcześniej u Ciebie:"
+                          - strong [ref=f6e1884]: poniedziałek, 11 sierpnia
+                        - generic [ref=f6e1885]:
+                          - text: "Sprzedawca:"
+                          - strong [ref=f6e1886]: Samsung Brand Store
+                      - generic [ref=f6e1887]:
+                        - button "Dodaj do koszyka"
+                  - article [ref=f6e1888] [cursor=pointer]:
+                    - generic [ref=f6e1889]:
+                      - img "Apple MacBook Pro 14\" M3 Pro 18GB / 512GB" [ref=f6e1890]
+                      - generic [ref=f6e1891]: "-10%"
+                    - generic [ref=f6e1892]:
+                      - generic [ref=f6e1893]:
+                        - heading "Apple MacBook Pro 14\" M3 Pro 18GB / 512GB" [level=3] [ref=f6e1894]
+                        - button "Dodaj do ulubionych" [ref=f6e1895]
+                      - generic [ref=f6e1898]:
+                        - generic "Ocena 4.9 na 5" [ref=f6e1899]
+                        - generic [ref=f6e1930]: "4.9"
+                        - generic [ref=f6e1931]: (642 opinii)
+                      - generic [ref=f6e1932]: "% Nawet 900,00 zł rabatu"
+                      - generic [ref=f6e1934]:
+                        - generic [ref=f6e1935]:
+                          - term [ref=f6e1936]: "Ekran:"
+                          - definition [ref=f6e1937]: 14,2" Liquid Retina XDR, 120 Hz
+                        - generic [ref=f6e1938]:
+                          - term [ref=f6e1939]: "Procesor:"
+                          - definition [ref=f6e1940]: Apple M3 Pro 11-core
+                        - generic [ref=f6e1941]:
+                          - term [ref=f6e1942]: "Pamięć:"
+                          - definition [ref=f6e1943]: 18 GB RAM · SSD 512 GB
+                        - generic [ref=f6e1944]:
+                          - term [ref=f6e1945]: "System:"
+                          - definition [ref=f6e1946]: macOS Sonoma · 18 h pracy
+                      - button "Porównaj" [ref=f6e1947]
+                    - generic [ref=f6e1951]:
+                      - generic [ref=f6e1952]: 8299,00 zł
+                      - paragraph [ref=f6e1954]:
+                        - text: "Najniższa cena w ostatnich 30 dniach przed obniżką: 9199,00 zł"
+                        - generic [ref=f6e1955]: "-10%"
+                      - link "345,79 zł × 24 rat 0%" [ref=f6e1956]:
+                        - /url: https://www.payu.pl/raty
+                      - generic [ref=f6e1957]:
+                        - generic [ref=f6e1958]: Darmowa dostawa
+                        - generic [ref=f6e1959]:
+                          - text: "Najwcześniej u Ciebie:"
+                          - strong [ref=f6e1960]: jutro, 8 sierpnia
+                        - generic [ref=f6e1961]:
+                          - text: "Sprzedawca:"
+                          - strong [ref=f6e1962]: Orange.pl
+                      - generic [ref=f6e1963]:
+                        - button "Dodaj do koszyka"
+                  - article [ref=f6e1964] [cursor=pointer]:
+                    - generic [ref=f6e1965]:
+                      - img "Lenovo IdeaPad Slim 5 16\" Ryzen 7 / 16GB / 1TB" [ref=f6e1966]
+                      - generic [ref=f6e1967]: "-14%"
+                    - generic [ref=f6e1968]:
+                      - generic "Płatna promocja sprzedawcy" [ref=f6e1970]:
+                        - generic [aria-hidden] [ref=f6e1971]: ◆
+                        - text: Sponsorowane
+                      - generic [ref=f6e1972]:
+                        - heading "Lenovo IdeaPad Slim 5 16\" Ryzen 7 / 16GB / 1TB" [level=3] [ref=f6e1973]
+                        - button "Dodaj do ulubionych" [ref=f6e1974]
+                      - generic [ref=f6e1977]:
+                        - generic "Ocena 4.5 na 5" [ref=f6e1978]
+                        - generic [ref=f6e2009]: "4.5"
+                        - generic [ref=f6e2010]: (418 opinii)
+                      - generic [ref=f6e2011]: "% Nawet 500,00 zł rabatu"
+                      - generic [ref=f6e2013]:
+                        - generic [ref=f6e2014]:
+                          - term [ref=f6e2015]: "Ekran:"
+                          - definition [ref=f6e2016]: 16" WUXGA IPS, 300 nit
+                        - generic [ref=f6e2017]:
+                          - term [ref=f6e2018]: "Procesor:"
+                          - definition [ref=f6e2019]: AMD Ryzen 7 7730U
+                        - generic [ref=f6e2020]:
+                          - term [ref=f6e2021]: "Pamięć:"
+                          - definition [ref=f6e2022]: 16 GB DDR4 · SSD 1 TB
+                        - generic [ref=f6e2023]:
+                          - term [ref=f6e2024]: "System:"
+                          - definition [ref=f6e2025]: Windows 11 Home
+                      - button "Porównaj" [ref=f6e2026]
+                    - generic [ref=f6e2030]:
+                      - generic [ref=f6e2031]: 3199,00 zł
+                      - paragraph [ref=f6e2033]:
+                        - text: "Najniższa cena w ostatnich 30 dniach przed obniżką: 3699,00 zł"
+                        - generic [ref=f6e2034]: "-14%"
+                      - link "133,29 zł × 24 rat 0%" [ref=f6e2035]:
+                        - /url: https://www.payu.pl/raty
+                      - generic [ref=f6e2036]:
+                        - generic [ref=f6e2037]:
+                          - text: "Najwcześniej u Ciebie:"
+                          - strong [ref=f6e2038]: piątek, 8 sierpnia
+                        - generic [ref=f6e2039]:
+                          - text: "Sprzedawca:"
+                          - strong [ref=f6e2040]: Lenovo Polska
+                      - generic [ref=f6e2041]:
+                        - button "Dodaj do koszyka"
+                  - article [ref=f6e2042] [cursor=pointer]:
+                    - generic [ref=f6e2043]:
+                      - img "Samsung 55\" QLED 4K QE55Q60D Smart TV" [ref=f6e2044]
+                      - generic [ref=f6e2045]: "-23%"
+                    - generic [ref=f6e2046]:
+                      - generic [ref=f6e2047]:
+                        - heading "Samsung 55\" QLED 4K QE55Q60D Smart TV" [level=3] [ref=f6e2048]
+                        - button "Dodaj do ulubionych" [ref=f6e2049]
+                      - generic [ref=f6e2052]:
+                        - generic "Ocena 4.6 na 5" [ref=f6e2053]
+                        - generic [ref=f6e2084]: "4.6"
+                        - generic [ref=f6e2085]: (934 opinii)
+                      - generic [ref=f6e2086]: "% Nawet 700,00 zł rabatu"
+                      - generic [ref=f6e2088]:
+                        - generic [ref=f6e2089]:
+                          - term [ref=f6e2090]: "Ekran:"
+                          - definition [ref=f6e2091]: 55" QLED 4K UHD
+                        - generic [ref=f6e2092]:
+                          - term [ref=f6e2093]: "Odświeżanie:"
+                          - definition [ref=f6e2094]: 50 Hz · Motion Xcelerator
+                        - generic [ref=f6e2095]:
+                          - term [ref=f6e2096]: "Procesor:"
+                          - definition [ref=f6e2097]: Quantum Processor Lite 4K
+                        - generic [ref=f6e2098]:
+                          - term [ref=f6e2099]: "System:"
+                          - definition [ref=f6e2100]: Tizen · HDR10+ · 3× HDMI
+                      - button "Porównaj" [ref=f6e2101]
+                    - generic [ref=f6e2105]:
+                      - generic [ref=f6e2106]: 2299,00 zł
+                      - paragraph [ref=f6e2108]:
+                        - text: "Najniższa cena w ostatnich 30 dniach przed obniżką: 2999,00 zł"
+                        - generic [ref=f6e2109]: "-23%"
+                      - link "95,79 zł × 24 rat 0%" [ref=f6e2110]:
+                        - /url: https://www.payu.pl/raty
+                      - generic [ref=f6e2111]:
+                        - generic [ref=f6e2112]:
+                          - text: "Najwcześniej u Ciebie:"
+                          - strong [ref=f6e2113]: wtorek, 12 sierpnia
+                        - generic [ref=f6e2114]:
+                          - text: "Sprzedawca:"
+                          - strong [ref=f6e2115]: Samsung Brand Store
+                      - generic [ref=f6e2116]:
+                        - button "Dodaj do koszyka"
+                  - article [ref=f6e2117] [cursor=pointer]:
+                    - generic [ref=f6e2118]:
+                      - img "Samsung Galaxy Z Fold 8 Ultra" [ref=f6e2119]
+                      - generic [ref=f6e2120]: "-22%"
+                    - generic [ref=f6e2121]:
+                      - generic [ref=f6e2122]:
+                        - heading "Samsung Galaxy Z Fold 8 Ultra" [level=3] [ref=f6e2123]
+                        - button "Dodaj do ulubionych" [ref=f6e2124]
+                      - generic [ref=f6e2127]:
+                        - generic "Ocena 4.8 na 5" [ref=f6e2128]
+                        - generic [ref=f6e2159]: "4.8"
+                        - generic [ref=f6e2160]: (3412 opinii)
+                      - generic [ref=f6e2161]: "% Nawet 400,00 zł rabatu"
+                      - generic [ref=f6e2163]:
+                        - generic [ref=f6e2164]:
+                          - term [ref=f6e2165]: "Redukcja szumów:"
+                          - definition [ref=f6e2166]: Adaptacyjne ANC · 8 mikrofonów
+                        - generic [ref=f6e2167]:
+                          - term [ref=f6e2168]: "Czas pracy:"
+                          - definition [ref=f6e2169]: Do 30 h · szybkie ładowanie
+                        - generic [ref=f6e2170]:
+                          - term [ref=f6e2171]: "Łączność:"
+                          - definition [ref=f6e2172]: Bluetooth 5.2 · LDAC · Multipoint
+                        - generic [ref=f6e2173]:
+                          - term [ref=f6e2174]: "Konstrukcja:"
+                          - definition [ref=f6e2175]: Nauszne, składane · 250 g
+                      - button "Porównaj" [ref=f6e2176]
+                    - generic [ref=f6e2180]:
+                      - generic [ref=f6e2181]: 1399,00 zł
+                      - paragraph [ref=f6e2183]:
+                        - text: "Najniższa cena w ostatnich 30 dniach przed obniżką: 1799,00 zł"
+                        - generic [ref=f6e2184]: "-22%"
+                      - link "58,29 zł × 24 rat 0%" [ref=f6e2185]:
+                        - /url: https://www.payu.pl/raty
+                      - generic [ref=f6e2186]:
+                        - generic [ref=f6e2187]: Darmowa dostawa
+                        - generic [ref=f6e2188]:
+                          - text: "Najwcześniej u Ciebie:"
+                          - strong [ref=f6e2189]: jutro, 8 sierpnia
+                        - generic [ref=f6e2190]:
+                          - text: "Sprzedawca:"
+                          - strong [ref=f6e2191]: Orange.pl
+                      - generic [ref=f6e2192]:
+                        - button "Dodaj do koszyka"
+                - generic [ref=f6e2193]:
+                  - button "1" [ref=f6e2194] [cursor=pointer]
+                  - button "2" [ref=f6e2195] [cursor=pointer]
+                  - button "3" [ref=f6e2196] [cursor=pointer]
+                  - button "4" [ref=f6e2197] [cursor=pointer]
+          - generic [ref=f6e976]:
+            - generic [ref=f6e977]:
+              - generic [ref=f6e978]: Newsletter Orange Market
+              - heading "Zapisz się i odbierz 10% rabatu" [level=2] [ref=f6e979]
+              - paragraph [ref=f6e980]: Bądź pierwszy z informacją o promocjach, nowościach i ekskluzywnych ofertach tylko dla subskrybentów.
+              - generic [ref=f6e981]:
+                - textbox "Twój e-mail" [ref=f6e982]
+                - button "Zapisz się" [ref=f6e983] [cursor=pointer]
+              - paragraph [ref=f6e984]:
+                - text: Potrzebujemy Twoich danych, aby wysłać newsletter. Administratorem danych jest Orange Polska S.A.
+                - link "Więcej" [ref=f6e985] [cursor=pointer]:
+                  - /url: "#"
+            - generic [ref=f6e986]:
+              - generic [ref=f6e991]:
+                - generic [ref=f6e992]: 10%
+                - generic [ref=f6e993]: rabatudla Ciebie
+              - generic [ref=f6e994]: Darmowa dostawa
+              - generic [ref=f6e995]: Raty 0%
+              - generic [ref=f6e996]: Oferty tylko dla subskrybentów
+          - generic [ref=f6e998]:
+            - generic [ref=f6e999]:
+              - heading "Artykuły i poradniki" [level=2] [ref=f6e1000]
+              - button "Zobacz wszystkie →" [ref=f6e1001] [cursor=pointer]
+            - tablist "Kategorie artykułów" [ref=f6e1002]:
+              - tab "Wszystkie" [selected] [ref=f6e1003] [cursor=pointer]
+              - tab "Smartfony" [ref=f6e1004] [cursor=pointer]
+              - tab "Foto i wideo" [ref=f6e1005] [cursor=pointer]
+              - tab "Dom i AGD" [ref=f6e1006] [cursor=pointer]
+              - tab "Zdrowie i uroda" [ref=f6e1007] [cursor=pointer]
+              - tab "Poradniki zakupowe" [ref=f6e1008] [cursor=pointer]
+            - generic [ref=f6e1009]:
+              - article [ref=f6e1010] [cursor=pointer]:
+                - generic [ref=f6e1011]:
+                  - img "Jak robić lepsze zdjęcia smartfonem" [ref=f6e1012]
+                  - generic [ref=f6e1013]: Foto i wideo
+                - heading "Jak robić lepsze zdjęcia smartfonem" [level=3] [ref=f6e1014]
+                - generic [ref=f6e1015]: Dzisiaj · 6 min czytania
+              - article [ref=f6e1016] [cursor=pointer]:
+                - generic [ref=f6e1017]:
+                  - img "Który smartfon do 2000 zł wybrać w 2026?" [ref=f6e1018]
+                  - generic [ref=f6e1019]: Smartfony
+                - heading "Który smartfon do 2000 zł wybrać w 2026?" [level=3] [ref=f6e1020]
+                - generic [ref=f6e1021]: Dzisiaj · 8 min czytania
+              - article [ref=f6e1022] [cursor=pointer]:
+                - generic [ref=f6e1023]:
+                  - 'img "Tryb nocny w telefonie: 5 trików" [ref=f6e1024]'
+                  - generic [ref=f6e1025]: Foto i wideo
+                - 'heading "Tryb nocny w telefonie: 5 trików" [level=3] [ref=f6e1026]'
+                - generic [ref=f6e1027]: Dzisiaj · 4 min czytania
+              - article [ref=f6e1028] [cursor=pointer]:
+                - generic [ref=f6e1029]:
+                  - img "Robot sprzątający czy odkurzacz pionowy?" [ref=f6e1030]
+                  - generic [ref=f6e1031]: Dom i AGD
+                - heading "Robot sprzątający czy odkurzacz pionowy?" [level=3] [ref=f6e1032]
+                - generic [ref=f6e1033]: Dzisiaj · 7 min czytania
+              - article [ref=f6e1034] [cursor=pointer]:
+                - generic [ref=f6e1035]:
+                  - img "Ekspres do kawy — jak wybrać do domu" [ref=f6e1036]
+                  - generic [ref=f6e1037]: Dom i AGD
+                - heading "Ekspres do kawy — jak wybrać do domu" [level=3] [ref=f6e1038]
+                - generic [ref=f6e1039]: Dzisiaj · 9 min czytania
+              - article [ref=f6e1040] [cursor=pointer]:
+                - generic [ref=f6e1041]:
+                  - 'img "Frytkownica beztłuszczowa: poradnik zakupowy" [ref=f6e1042]'
+                  - generic [ref=f6e1043]: Dom i AGD
+                - 'heading "Frytkownica beztłuszczowa: poradnik zakupowy" [level=3] [ref=f6e1044]'
+                - generic [ref=f6e1045]: Dzisiaj · 5 min czytania
+              - article [ref=f6e1046] [cursor=pointer]:
+                - generic [ref=f6e1047]:
+                  - img "Pielęgnacja z witaminą C — od czego zacząć" [ref=f6e1048]
+                  - generic [ref=f6e1049]: Zdrowie i uroda
+                - heading "Pielęgnacja z witaminą C — od czego zacząć" [level=3] [ref=f6e1050]
+                - generic [ref=f6e1051]: Dzisiaj · 6 min czytania
+              - article [ref=f6e1052] [cursor=pointer]:
+                - generic [ref=f6e1053]:
+                  - img "Rutyna skincare krok po kroku" [ref=f6e1054]
+                  - generic [ref=f6e1055]: Zdrowie i uroda
+                - heading "Rutyna skincare krok po kroku" [level=3] [ref=f6e1056]
+                - generic [ref=f6e1057]: Dzisiaj · 5 min czytania
+              - article [ref=f6e1058] [cursor=pointer]:
+                - generic [ref=f6e1059]:
+                  - 'img "Laptop do pracy zdalnej: na co zwrócić uwagę" [ref=f6e1060]'
+                  - generic [ref=f6e1061]: Poradniki zakupowe
+                - 'heading "Laptop do pracy zdalnej: na co zwrócić uwagę" [level=3] [ref=f6e1062]'
+                - generic [ref=f6e1063]: Dzisiaj · 10 min czytania
+              - article [ref=f6e1064] [cursor=pointer]:
+                - generic [ref=f6e1065]:
+                  - img "Raty 0% w Orange Market — jak to działa" [ref=f6e1066]
+                  - generic [ref=f6e1067]: Poradniki zakupowe
+                - heading "Raty 0% w Orange Market — jak to działa" [level=3] [ref=f6e1068]
+                - generic [ref=f6e1069]: Dzisiaj · 4 min czytania
+          - generic [ref=f6e1071]:
+            - generic [ref=f6e1072]:
+              - generic [ref=f6e1073]:
+                - paragraph [ref=f6e1074]: Smartfony
+                - button "Smartfony promocje" [ref=f6e1076] [cursor=pointer]
+                - button "Smartfony Samsung" [ref=f6e1078] [cursor=pointer]
+                - button "Smartfony Apple" [ref=f6e1080] [cursor=pointer]
+                - button "Smartfony Xiaomi" [ref=f6e1082] [cursor=pointer]
+                - generic:
+                  - button "Smartfony do 1000 zł"
+                - generic:
+                  - button "Wszystkie smartfony"
+              - generic [ref=f6e1083]:
+                - paragraph [ref=f6e1084]: Laptopy
+                - button "Laptopy do pracy" [ref=f6e1086] [cursor=pointer]
+                - button "Laptopy do nauki" [ref=f6e1088] [cursor=pointer]
+                - button "MacBooki Apple" [ref=f6e1090] [cursor=pointer]
+                - button "Laptopy gamingowe" [ref=f6e1092] [cursor=pointer]
+                - generic:
+                  - button "Ultrabooki"
+                - generic:
+                  - button "Laptopy 2 w 1"
+              - generic [ref=f6e1093]:
+                - paragraph [ref=f6e1094]: Słuchawki i audio
+                - button "Słuchawki bezprzewodowe" [ref=f6e1096] [cursor=pointer]
+                - button "Słuchawki TWS" [ref=f6e1098] [cursor=pointer]
+                - button "Słuchawki z ANC" [ref=f6e1100] [cursor=pointer]
+                - button "Soundbary" [ref=f6e1102] [cursor=pointer]
+                - generic:
+                  - button "Głośniki Bluetooth"
+                - generic:
+                  - button "Słuchawki dla dzieci"
+              - generic [ref=f6e1103]:
+                - paragraph [ref=f6e1104]: Smartwatche i AGD
+                - button "Apple Watch" [ref=f6e1106] [cursor=pointer]
+                - button "Samsung Galaxy Watch" [ref=f6e1108] [cursor=pointer]
+                - button "Opaski fitness" [ref=f6e1110] [cursor=pointer]
+                - button "Ekspresy do kawy" [ref=f6e1112] [cursor=pointer]
+                - generic:
+                  - button "Roboty sprzątające"
+                - generic:
+                  - button "Frytkownice beztłuszczowe"
+              - generic [ref=f6e1113]:
+                - paragraph [ref=f6e1114]: HOT Nowości
+                - button "Tablety i iPady" [ref=f6e1116] [cursor=pointer]
+                - button "Drony i kamery" [ref=f6e1118] [cursor=pointer]
+                - button "Gry i konsole" [ref=f6e1120] [cursor=pointer]
+                - button "Monitory do pracy" [ref=f6e1122] [cursor=pointer]
+                - generic:
+                  - button "Zestawy back to school"
+                - generic:
+                  - button "Outlet — okazje"
+            - button "Pokaż więcej" [ref=f6e1124] [cursor=pointer]
+          - generic [ref=f6e1128]:
+            - heading "Orange Market to tysiące produktów w jednym miejscu" [level=2] [ref=f6e1129]
+            - paragraph [ref=f6e1130]: Kupujesz u zweryfikowanych partnerów Orange — elektronikę, AGD, akcesoria i wiele więcej w cenach bez ukrytych kosztów.
+            - button "Zobacz więcej" [ref=f6e1131] [cursor=pointer]
+          - contentinfo [ref=f6e1132]:
+            - generic [ref=f6e1133]:
+              - generic [ref=f6e1134]:
+                - generic [ref=f6e1135]: Orange Market
+                - paragraph [ref=f6e1140]: Marketplace Orange Polska. Kupujesz u zweryfikowanych partnerów, płacisz bezpiecznie i możesz rozłożyć zakup na raty Orange.
+              - generic [ref=f6e1141]:
+                - paragraph [ref=f6e1142]: Zakupy
+                - list [ref=f6e1143]:
+                  - listitem [ref=f6e1144]:
+                    - link "Bestsellery" [ref=f6e1145] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1146]:
+                    - link "Promocje tygodnia" [ref=f6e1147] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1148]:
+                    - link "Raty Orange 0%" [ref=f6e1149] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1150]:
+                    - link "Karty podarunkowe" [ref=f6e1151] [cursor=pointer]:
+                      - /url: "#"
+              - generic [ref=f6e1152]:
+                - paragraph [ref=f6e1153]: Obsługa klienta
+                - list [ref=f6e1154]:
+                  - listitem [ref=f6e1155]:
+                    - link "Status zamówienia" [ref=f6e1156] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1157]:
+                    - link "Zwroty i reklamacje" [ref=f6e1158] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1159]:
+                    - link "Dostawa i płatności" [ref=f6e1160] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1161]:
+                    - link "Kontakt 24/7" [ref=f6e1162] [cursor=pointer]:
+                      - /url: "#"
+              - generic [ref=f6e1163]:
+                - paragraph [ref=f6e1164]: Orange
+                - list [ref=f6e1165]:
+                  - listitem [ref=f6e1166]:
+                    - link "O nas" [ref=f6e1167] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1168]:
+                    - link "Partnerzy marketplace" [ref=f6e1169] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1170]:
+                    - link "Regulamin" [ref=f6e1171] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1172]:
+                    - link "Polityka prywatności" [ref=f6e1173] [cursor=pointer]:
+                      - /url: "#"
+              - generic [ref=f6e1174]:
+                - paragraph [ref=f6e1175]: Dla partnerów
+                - list [ref=f6e1176]:
+                  - listitem [ref=f6e1177]:
+                    - link "Zostań sprzedawcą" [ref=f6e1178] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1179]:
+                    - link "Panel partnera" [ref=f6e1180] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1181]:
+                    - link "Standardy jakości" [ref=f6e1182] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f6e1183]:
+                    - link "Reklama na Orange Market" [ref=f6e1184] [cursor=pointer]:
+                      - /url: "#"
+            - generic [ref=f6e1186]:
+              - generic [ref=f6e1187]: BLIK
+              - generic [ref=f6e1188]: Visa
+              - generic [ref=f6e1189]: Mastercard
+              - generic [ref=f6e1190]: Raty PayU
+              - generic [ref=f6e1191]: Przelew
+              - generic [ref=f6e1192]: PayPo
+              - generic [ref=f6e1193]: Google Pay
+              - generic [ref=f6e1194]: Apple Pay
+            - generic [ref=f6e1196]:
+              - paragraph [ref=f6e1197]: © 2026 Orange Polska S.A.
+              - generic [ref=f6e1198]:
+                - link "Regulamin" [ref=f6e1199] [cursor=pointer]:
+                  - /url: "#"
+                - link "Polityka prywatności" [ref=f6e1200] [cursor=pointer]:
+                  - /url: "#"
+                - link "Cookies" [ref=f6e1201] [cursor=pointer]:
+                  - /url: "#"
+  - generic:
+    - status
+    - group [ref=f1e69]:
+      - alert [ref=f1e71]
+      - alert [ref=f1e73]
+    - region "Consent Manager" [ref=f1e75]:
+      - generic [ref=f1e76]:
+        - text: This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. We use our own cookies and some from third parties. Only essential cookies are turned on by default.
+        - link "Cookies settings" [ref=f1e77]:
+          - /url: /consent-preferences/
+      - generic [ref=f1e78]:
+        - button "Do not allow cookies" [ref=f1e79]
+        - button "Allow all cookies" [ref=f1e80]
+      - button "Dismiss" [ref=f1e82]

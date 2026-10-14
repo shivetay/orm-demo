@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <defs>
+    <clipPath id="header"><rect width="1440" height="138"/></clipPath>
+    <clipPath id="phone"><rect x="390" y="310" width="210" height="215" rx="12"/></clipPath>
+    <clipPath id="laptop"><rect x="390" y="610" width="210" height="215" rx="12"/></clipPath>
+  </defs>
+  <rect width="1440" height="900" fill="#f5f5f5"/>
+  <image href="figma-listing.png" width="1440" height="851" clip-path="url(#header)"/>
+  <text x="114" y="178" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#c44d00">Strona główna</text>
+  <text x="205" y="178" font-family="Arial, sans-serif" font-size="13" fill="#222">/ Wyniki wyszukiwania</text>
+  <text x="114" y="225" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#111">Wyniki dla „iphone”</text>
+  <text x="114" y="254" font-family="Arial, sans-serif" font-size="13" fill="#696969">Znaleziono 3 produkty od zweryfikowanych partnerów Orange Market</text>
+
+  <text x="114" y="312" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111">Wyniki wyszukiwania</text>
+  <text x="114" y="350" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#e36c0a">Wszystkie</text>
+  <text x="114" y="390" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#333">Smartfony</text>
+  <text x="300" y="390" font-family="Arial, sans-serif" font-size="12" fill="#777">2</text>
+  <text x="114" y="430" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#333">Akcesoria</text>
+  <text x="300" y="430" font-family="Arial, sans-serif" font-size="12" fill="#777">1</text>
+
+  <g font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#222">
+    <rect x="350" y="282" width="88" height="40" rx="20" fill="white" stroke="#d7d7d7"/><text x="374" y="307">Sortuj⌄</text>
+    <rect x="450" y="282" width="90" height="40" rx="20" fill="white" stroke="#d7d7d7"/><text x="474" y="307">Marka⌄</text>
+    <rect x="552" y="282" width="84" height="40" rx="20" fill="white" stroke="#d7d7d7"/><text x="576" y="307">Kolor⌄</text>
+    <rect x="648" y="282" width="82" height="40" rx="20" fill="white" stroke="#d7d7d7"/><text x="673" y="307">Cena⌄</text>
+    <rect x="742" y="282" width="88" height="40" rx="20" fill="white" stroke="#d7d7d7"/><text x="764" y="307">Ocena⌄</text>
+    <rect x="842" y="282" width="126" height="40" rx="20" fill="white" stroke="#d7d7d7"/><text x="864" y="307">Sprzedawca⌄</text>
+    <rect x="980" y="282" width="142" height="40" rx="20" fill="white" stroke="#d7d7d7"/><text x="1002" y="307">Dostawa już jutro</text>
+    <rect x="1134" y="282" width="120" height="40" rx="20" fill="white" stroke="#d7d7d7"/><text x="1155" y="307">Tylko promocje</text>
+  </g>
+
+  <rect x="350" y="340" width="970" height="250" rx="16" fill="white" stroke="#dedede"/>
+  <image href="figma-listing.png" x="262" y="-12" width="1440" height="851" clip-path="url(#phone)"/>
+  <rect x="612" y="362" width="44" height="25" rx="5" fill="#c44d00"/><text x="624" y="380" font-family="Arial" font-size="12" font-weight="700" fill="white">-9%</text>
+  <text x="640" y="420" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111">Apple iPhone 15 Pro 256GB Titanium Blue</text>
+  <text x="640" y="452" font-family="Arial, sans-serif" font-size="14" fill="#f5b400">★★★★★  4.8  (1284 opinii)</text>
+  <text x="640" y="495" font-family="Arial, sans-serif" font-size="14" fill="#555">Ekran 6,1” Super Retina XDR · Apple A17 Pro · 256 GB · 5G</text>
+  <text x="640" y="540" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#d90019">4999,00 zł</text>
+  <rect x="1110" y="498" width="170" height="48" rx="6" fill="#f26a00"/><text x="1138" y="528" font-family="Arial" font-size="14" font-weight="700" fill="white">Dodaj do koszyka</text>
+
+  <rect x="350" y="610" width="970" height="250" rx="16" fill="white" stroke="#dedede"/>
+  <image href="figma-listing.png" x="60" y="288" width="1440" height="851" clip-path="url(#laptop)"/>
+  <rect x="612" y="632" width="50" height="25" rx="5" fill="#c44d00"/><text x="623" y="650" font-family="Arial" font-size="12" font-weight="700" fill="white">-29%</text>
+  <text x="640" y="690" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111">ASUS ROG Strix G16 Ryzen 9 / RTX 4070</text>
+  <text x="640" y="722" font-family="Arial, sans-serif" font-size="14" fill="#f5b400">★★★★★  4.8  (694 opinii)</text>
+  <text x="640" y="765" font-family="Arial, sans-serif" font-size="14" fill="#555">16” 240 Hz · Ryzen 9 · 32 GB RAM · GeForce RTX 4070</text>
+  <text x="640" y="810" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#d90019">4999,00 zł</text>
+  <rect x="1110" y="768" width="170" height="48" rx="6" fill="#f26a00"/><text x="1138" y="798" font-family="Arial" font-size="14" font-weight="700" fill="white">Dodaj do koszyka</text>
+</svg>

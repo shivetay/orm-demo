@@ -1,0 +1,132 @@
+- generic [active] [ref=f12e1]:
+  - link "Przejdź do treści głównej" [ref=f12e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=f12e3]:
+    - banner [ref=f12e5]:
+      - navigation [ref=f12e6]:
+        - generic [ref=f12e9]:
+          - generic [ref=f12e10]:
+            - link "Back to Home" [ref=f12e11] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f12e18]:
+              - link "Produkty" [ref=f12e19] [cursor=pointer]:
+                - /url: /products
+              - button "Oferta Orange" [ref=f12e22] [cursor=pointer]
+              - button "Smartfony w Orange" [ref=f12e25] [cursor=pointer]
+              - generic [ref=f12e28]:
+                - link "Promo button 2" [ref=f12e30] [cursor=pointer]:
+                  - /url: aasdd
+                - link "Promo button 3" [ref=f12e33] [cursor=pointer]:
+                  - /url: lalaal
+          - generic [ref=f12e36]:
+            - button "Szukaj" [ref=f12e38] [cursor=pointer]
+            - button "Koszyk" [ref=f12e42] [cursor=pointer]
+            - link "Zaloguj się" [ref=f12e47] [cursor=pointer]:
+              - /url: /login?redirect=%2Frozwiazania-dla-biznesu%2Fpapier-ksero
+    - complementary "Widget prawy" [ref=f12e51]:
+      - link "Widget prawy" [ref=f12e52] [cursor=pointer]:
+        - /url: https://orm.ss-dev.pl/male-agd/thermomix-agd
+    - main [ref=f12e55]:
+      - generic [ref=f12e57]:
+        - navigation "Ścieżka nawigacji" [ref=f12e58]:
+          - list [ref=f12e59]:
+            - listitem [ref=f12e60]:
+              - link "Home" [ref=f12e61] [cursor=pointer]:
+                - /url: /
+              - generic [aria-hidden] [ref=f12e62]: /
+            - listitem [ref=f12e63]:
+              - link "Wszystkie kategorie" [ref=f12e64] [cursor=pointer]:
+                - /url: /products
+              - generic [aria-hidden] [ref=f12e65]: /
+            - listitem [ref=f12e66]:
+              - link "Rozwiązania dla biznesu" [ref=f12e67] [cursor=pointer]:
+                - /url: /rozwiazania-dla-biznesu
+              - generic [aria-hidden] [ref=f12e68]: /
+            - listitem [ref=f12e69]:
+              - generic "Papier ksero" [ref=f12e70]
+        - generic [ref=f12e72]:
+          - generic [ref=f12e74]:
+            - generic [ref=f12e76]:
+              - button [ref=f12e77] [cursor=pointer]:
+                - img "Papier ksero thumbnail 1" [ref=f12e78]
+              - button [ref=f12e79] [cursor=pointer]:
+                - img "Papier ksero thumbnail 2" [ref=f12e80]
+            - img "Papier ksero - 1" [ref=f12e82]
+          - generic [ref=f12e84]:
+            - heading "Papier ksero" [level=1] [ref=f12e87]
+            - generic [ref=f12e89]:
+              - generic [ref=f12e92]:
+                - img "Empty star" [ref=f12e93]
+                - img "Empty star" [ref=f12e95]
+                - img "Empty star" [ref=f12e97]
+                - img "Empty star" [ref=f12e99]
+                - img "Empty star" [ref=f12e101]
+              - generic [ref=f12e103]: Brak recenzji
+            - generic [ref=f12e105]:
+              - generic [ref=f12e106]: 90,00 zł
+              - generic [ref=f12e107]: 129,00 zł
+            - generic [ref=f12e109]:
+              - generic [ref=f12e110]:
+                - text: "Sprzedawany przez:"
+                - link "BlurifyQA-Vendor" [ref=f12e111] [cursor=pointer]:
+                  - /url: /vendors/BlurifyQA-Vendor
+              - generic [ref=f12e112]:
+                - generic [ref=f12e113]: "SKU:"
+                - text: SKU-QAVPW004-22
+              - generic [ref=f12e114]:
+                - generic [ref=f12e115]: "Dostępność:"
+                - text: Dostępny
+              - generic [ref=f12e116]: "W magazynie: 99987 szt."
+            - generic [ref=f12e117]:
+              - generic [ref=f12e118]: "Ilość:"
+              - generic [ref=f12e119]:
+                - button "Zmniejsz ilość" [disabled]: −
+                - spinbutton "Ilość" [ref=f12e120]: "1"
+                - button "Zwiększ ilość" [ref=f12e121] [cursor=pointer]: +
+            - button "Dodaj do koszyka" [ref=f12e122] [cursor=pointer]
+            - button "Poinformuj o przecenie" [ref=f12e123] [cursor=pointer]
+            - button "Dodaj do listy życzeń" [ref=f12e124] [cursor=pointer]
+          - generic [ref=f12e128]:
+            - generic [ref=f12e130]:
+              - button "Opis" [ref=f12e131] [cursor=pointer]
+              - button "Specyfikacja" [ref=f12e132] [cursor=pointer]
+              - button "Recenzje" [ref=f12e133] [cursor=pointer]
+            - generic [ref=f12e134]: PRODUKT ZOSTAŁ STWORZONY DO TESTÓW PLAYWRIGHT - TEST_PRODUCT_VENDOR_ORDER_ POLspeed - papier ksero A4. Jeden z najpopularniejszych papierów biurowych. Dzięki połączeniu wysokiej jakości z przystępną ceną, papier POLspeed od lat jest jednym z liderów rynku. Biały papier do drukarki, do ksero, pisania, rysowania, prac plastycznych oraz różnorakich zastosowań biurowych. Papier POLspeed to nowoczesny produkt, wytwarzany w oparciu o sprawdzone technologie.
+    - contentinfo [ref=f12e139]:
+      - generic [ref=f12e140]:
+        - generic [ref=f12e141]:
+          - region [ref=f12e142]:
+            - heading "Operator Platformy" [level=2] [ref=f12e143]
+            - generic [ref=f12e145]:
+              - paragraph [ref=f12e146]: Orange Polska S.A.
+              - generic [ref=f12e147]:
+                - generic [ref=f12e148]:
+                  - term [ref=f12e149]: "NIP:"
+                  - definition [ref=f12e150]: 526-02-50-995
+                - generic [ref=f12e151]:
+                  - term [ref=f12e152]: "REGON:"
+                  - definition [ref=f12e153]: "012100784"
+                - generic [ref=f12e154]:
+                  - term [ref=f12e155]: "KRS:"
+                  - definition [ref=f12e156]: "0000010681"
+          - generic [ref=f12e157]:
+            - navigation [ref=f12e158]:
+              - heading "Dokumenty" [level=2] [ref=f12e159]
+              - list [ref=f12e160]:
+                - listitem [ref=f12e161]:
+                  - link "Polityka prywatności" [ref=f12e162] [cursor=pointer]:
+                    - /url: /privacy-policy
+                - listitem [ref=f12e163]:
+                  - link "Regulamin" [ref=f12e164] [cursor=pointer]:
+                    - /url: /terms
+            - navigation [ref=f12e165]:
+              - heading "Pomoc" [level=2] [ref=f12e166]
+              - list [ref=f12e167]:
+                - listitem [ref=f12e168]:
+                  - link "Baza Wiedzy" [ref=f12e169] [cursor=pointer]:
+                    - /url: /faq
+        - separator [ref=f12e170]
+        - generic [ref=f12e171]:
+          - paragraph [ref=f12e172]: © 2026 Orange Polska S.A. Wszystkie prawa zastrzeżone.
+          - button "Zmień ustawienia cookies" [ref=f12e173] [cursor=pointer]
+  - alert [ref=f12e174]
