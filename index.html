@@ -5,66 +5,155 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Porównanie aktualnego Orange Market z makietą Figma Make." />
     <title>Orange Market — aktualny serwis / Figma</title>
-    <link rel="stylesheet" href="styles.css?v=screens-only-1" />
+    <link rel="stylesheet" href="styles.css?v=document-images-1" />
   </head>
   <body>
     <header class="site-header">
       <a class="wordmark" href="#homepage-carousel" aria-label="Orange Market — początek strony"><span class="wordmark-mark" aria-hidden="true"></span><span>Orange Market</span></a>
-      <nav class="chapter-nav" aria-label="Grupy ekranów"><a href="#homepage-carousel">Homepage</a><a href="#listing-navigation">Listing page</a><a href="#product-layout">Product page</a></nav>
+      <nav class="chapter-nav" aria-label="Grupy ekranów"><a href="#homepage-carousel">Homepage</a><a href="#listing-navigation">Listing page</a><a href="#product-layout">Product page</a><a href="#document">Dokument</a></nav>
       <p class="header-note"><span class="pulse"></span> Screen review</p>
     </header>
     <main id="top">
       <section id="homepage-carousel" class="screen-chapter">
-        <header class="chapter-heading"><div><p class="kicker">01 · Homepage</p><h2>Karuzela wraz z nawigacją</h2></div><p>Pełny pierwszy ekran: aktualne środowisko po prawej, makieta Figma Make po lewej.</p></header>
+        <header class="chapter-heading"><div><p class="kicker">01 · Homepage</p><h2>Hero wraz z nawigacją</h2></div><p>Przykład zmiany pierwszego ekranu: nowy nagłówek, wyszukiwarka, menu kategorii i główna karuzela.</p></header>
         <div class="compare-shell" data-compare style="--split:50%"><div class="compare-viewport">
-          <img class="compare-image compare-before compare-current-tall" src="assets/screens/current-home.png" alt="Aktualny homepage Orange Market — nawigacja i karuzela" /><img class="compare-image compare-after" src="assets/design/figma-home.png" alt="Makieta Figma homepage — nawigacja i karuzela" />
-          <div class="side-label side-label-after">Makieta · Figma</div><div class="side-label side-label-before">Aktualne · DEV</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj nawigację i karuzelę homepage" />
-        </div><p class="compare-caption"><span>Aktualne · orm.ss-dev.pl</span><span>Przesuń suwak</span><span>Makieta · Figma Make</span></p></div>
+          <img class="compare-image compare-before" src="assets/examples/homepage-hero-current.png" alt="Aktualny homepage Orange Market — nawigacja i główna karuzela" /><img class="compare-image compare-after" src="assets/examples/homepage-hero-target.png" alt="Docelowy homepage Orange Market — wyszukiwarka, kategorie i główna karuzela" />
+          <div class="side-label side-label-after">Docelowy układ</div><div class="side-label side-label-before">Aktualny układ</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj aktualny i docelowy hero homepage" />
+        </div><p class="compare-caption"><span>Docelowy homepage</span><span>Przesuń suwak</span><span>Aktualny homepage</span></p></div>
       </section>
       <section id="homepage-promos" class="screen-chapter chapter-dark">
-        <header class="chapter-heading"><div><p class="kicker">02 · Homepage</p><h2>Nowe karuzele promocyjne</h2></div><p>Osobny ekran pokazuje zamianę karuzeli produktowej na skróty do promocji.</p></header>
+        <header class="chapter-heading"><div><p class="kicker">02 · Homepage</p><h2>Sekcje promocyjne i produktowe</h2></div><p>Przykład zmiany sposobu prezentacji promocji: od dużych kafli kampanii do szybkich skrótów i modułów produktowych.</p></header>
         <div class="compare-shell" data-compare style="--split:50%"><div class="compare-viewport">
-          <img class="compare-image compare-before compare-current-promo" src="assets/screens/current-home.png" alt="Aktualna karuzela produktowa na homepage" /><img class="compare-image compare-after compare-figma-promo" src="assets/design/figma-home.png" alt="Nowe karuzele promocyjne w makiecie Figma" />
-          <div class="side-label side-label-after">Makieta · Figma</div><div class="side-label side-label-before">Aktualne · DEV</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj karuzele homepage" />
-        </div><p class="compare-caption"><span>Karuzela produktowa</span><span>Przesuń suwak</span><span>Karuzele promocyjne</span></p></div>
+          <img class="compare-image compare-before" src="assets/examples/homepage-promos-current.png" alt="Aktualne duże kafle promocyjne na homepage" /><img class="compare-image compare-after" src="assets/examples/homepage-promos-target.png" alt="Docelowe skróty promocyjne i karuzele produktowe na homepage" />
+          <div class="side-label side-label-after">Docelowy układ</div><div class="side-label side-label-before">Aktualny układ</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj aktualne i docelowe sekcje promocyjne homepage" />
+        </div><p class="compare-caption"><span>Docelowe skróty i produkty</span><span>Przesuń suwak</span><span>Aktualne promocje</span></p></div>
       </section>
       <section id="listing-navigation" class="screen-chapter">
-        <header class="chapter-heading"><div><p class="kicker">03 · Listing page</p><h2>Zmiana w górnej nawigacji</h2></div><p>Nowy pasek wyszukiwania i menu kategorii pokazane w kontekście pełnego listingu.</p></header>
+        <header class="chapter-heading"><div><p class="kicker">03 · Listing page</p><h2>Góra listy: rekomendacje i filtry</h2></div><p>Przykład górnej części listingu: karuzela polecanych produktów oraz szybszy dostęp do najważniejszych filtrów.</p></header>
         <div class="compare-shell" data-compare style="--split:50%"><div class="compare-viewport">
-          <img class="compare-image compare-before compare-current-tall" src="assets/screens/current-listing.png" alt="Aktualny listing — górna nawigacja" /><img class="compare-image compare-after" src="assets/design/figma-listing.png" alt="Makieta Figma listing — nowa górna nawigacja" />
-          <div class="side-label side-label-after">Makieta · Figma</div><div class="side-label side-label-before">Aktualne · DEV</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj górną nawigację listingu" />
-        </div><p class="compare-caption"><span>Aktualne · orm.ss-dev.pl</span><span>Przesuń suwak</span><span>Makieta · Figma Make</span></p></div>
+          <img class="compare-image compare-before" src="assets/examples/listing-top-current.png" alt="Aktualna góra listingu z rozwiniętym formularzem filtrów" /><img class="compare-image compare-after" src="assets/examples/listing-top-target.png" alt="Docelowa góra listingu z karuzelą polecanych produktów i filtrami" />
+          <div class="side-label side-label-after">Docelowy układ</div><div class="side-label side-label-before">Aktualny układ</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj górę listingu z karuzelą i filtrami" />
+        </div><p class="compare-caption"><span>Karuzela i filtry docelowe</span><span>Przesuń suwak</span><span>Aktualne filtry</span></p></div>
       </section>
-      <section id="listing-sidebar" class="screen-chapter chapter-dark">
-        <header class="chapter-heading"><div><p class="kicker">04 · Listing page</p><h2>Zmiana w menu bocznym</h2></div><p>Oddzielny ekran dla taksonomii, kategorii oraz filtrów bocznych.</p></header>
+      <section id="listing-products" class="screen-chapter chapter-dark">
+        <header class="chapter-heading"><div><p class="kicker">04 · Listing page</p><h2>Właściwa lista produktów</h2></div><p>Przykład wyników poniżej filtrów: docelowy układ listy eksponuje parametry, ocenę, dostawę, sprzedawcę i cenę.</p></header>
         <div class="compare-shell" data-compare style="--split:50%"><div class="compare-viewport">
-          <img class="compare-image compare-before compare-current-tall" src="assets/screens/current-listing.png" alt="Aktualne menu boczne listingu" /><img class="compare-image compare-after" src="assets/design/figma-listing.png" alt="Menu boczne listingu w makiecie Figma" />
-          <div class="side-label side-label-after">Makieta · Figma</div><div class="side-label side-label-before">Aktualne · DEV</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="34" aria-label="Porównaj menu boczne listingu" />
-        </div><p class="compare-caption"><span>Aktualne menu boczne</span><span>Przesuń suwak</span><span>Nowy układ filtrów</span></p></div>
+          <img class="compare-image compare-before" src="assets/examples/listing-products-current.png" alt="Aktualny listing w formie siatki kart produktowych" /><img class="compare-image compare-after" src="assets/examples/listing-products-target.png" alt="Docelowy listing w formie rozbudowanej listy produktów" />
+          <div class="side-label side-label-after">Docelowy układ</div><div class="side-label side-label-before">Aktualny układ</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj aktualną i docelową listę produktów" />
+        </div><p class="compare-caption"><span>Docelowa lista produktów</span><span>Przesuń suwak</span><span>Aktualna siatka produktów</span></p></div>
       </section>
-      <section id="listing-products" class="screen-chapter">
-        <header class="chapter-heading"><div><p class="kicker">05 · Listing page</p><h2>Lista i karta produktu</h2></div><p>Właściwe wyniki wyszukiwania. Moduł „Polecane produkty” nie zastępuje listy.</p></header>
+      <section id="product-layout" class="screen-chapter">
+        <header class="chapter-heading"><div><p class="kicker">05 · Product page</p><h2>Karta produktu</h2></div><p>Przykład pierwszego ekranu PDP: galeria, najważniejsze informacje, cena, dostawa, zakup i dane sprzedawcy.</p></header>
         <div class="compare-shell" data-compare style="--split:50%"><div class="compare-viewport">
-          <img class="compare-image compare-before compare-current-tall" src="assets/screens/current-listing.png" alt="Aktualna lista i karta produktu" /><img class="compare-image compare-after" src="assets/design/figma-listing-products.svg" alt="Lista wyników i nowe karty produktów z makiety Figma" />
-          <div class="side-label side-label-after">Makieta · Figma</div><div class="side-label side-label-before">Aktualne · DEV</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj listę i kartę produktu" />
-        </div><p class="compare-caption"><span>Aktualne karty</span><span>Przesuń suwak</span><span>Lista produktów · Figma</span></p></div>
+          <img class="compare-image compare-before" src="assets/examples/product-page-current.png" alt="Aktualna karta produktu z galerią i panelem zakupu" /><img class="compare-image compare-after" src="assets/design/figma-product.png" alt="Docelowa karta produktu z rozbudowanymi informacjami i panelem zakupu" />
+          <div class="side-label side-label-after">Docelowy układ</div><div class="side-label side-label-before">Aktualny układ</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj aktualną i docelową kartę produktu" />
+        </div><p class="compare-caption"><span>Docelowa karta produktu</span><span>Przesuń suwak</span><span>Aktualna karta produktu</span></p></div>
       </section>
-      <section id="product-layout" class="screen-chapter chapter-dark">
-        <header class="chapter-heading"><div><p class="kicker">06 · Product page</p><h2>Zmiana układu wizualnego</h2></div><p>Pełny pierwszy ekran karty produktu: galeria, informacje, zakup i sprzedawca.</p></header>
-        <div class="compare-shell" data-compare style="--split:50%"><div class="compare-viewport">
-          <img class="compare-image compare-before" src="assets/screens/current-product.png" alt="Aktualna karta produktu" /><img class="compare-image compare-after" src="assets/design/figma-product.png" alt="Nowy układ karty produktu w makiecie Figma" />
-          <div class="side-label side-label-after">Makieta · Figma</div><div class="side-label side-label-before">Aktualne · DEV</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj układ karty produktu" />
-        </div><p class="compare-caption"><span>Aktualne · orm.ss-dev.pl</span><span>Przesuń suwak</span><span>Makieta · Figma Make</span></p></div>
-      </section>
-      <section id="product-document" class="screen-chapter">
-        <header class="chapter-heading"><div><p class="kicker">07 · Product page</p><h2>Zmiany dostarczone w dokumencie</h2></div><p>Osobne porównanie wariantu po audycie, bez mieszania go z głównym ekranem Figma.</p></header>
-        <div class="compare-shell" data-compare style="--split:50%"><div class="compare-viewport">
-          <img class="compare-image compare-before" src="assets/screens/current-product.png" alt="Aktualna karta produktu" /><img class="compare-image compare-after" src="assets/document-screens/image8.png" alt="Karta produktu ze zmianami z dokumentu po audycie" />
-          <div class="side-label side-label-after">Po audycie · dokument</div><div class="side-label side-label-before">Aktualne · DEV</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj kartę produktu ze zmianami z dokumentu" />
-        </div><p class="compare-caption"><span>Aktualne · orm.ss-dev.pl</span><span>Przesuń suwak</span><span>Dokument po audycie</span></p></div>
+      <section id="document" class="document-chapter screen-chapter">
+        <header class="document-heading">
+          <div>
+            <p class="kicker">06 · Dokument po audycie UX/UI</p>
+            <h1>Zakres rekomendowanych zmian</h1>
+          </div>
+          <p class="document-lead">Uporządkowany indeks informacji z przekazanego dokumentu. Poniższe punkty opisują rekomendacje audytowe — nie oznaczają statusu ich wdrożenia.</p>
+        </header>
+
+        <div class="document-grid">
+          <article class="document-card">
+            <div class="document-card-heading"><span>01</span><div><p>Homepage i treści</p><h2>Sprzedaż, nawigacja i content</h2></div></div>
+            <ol class="recommendation-list">
+              <li value="1">Pozostawić obecną pętlę przejść między domenami bez zmian.</li>
+              <li value="2">Przeprojektować homepage tak, aby mocniej wspierał sprzedaż i szybkie dotarcie do oferty.</li>
+              <li value="8">Ujednolicić sposób działania kategorii w menu — elementy powinny zachowywać się przewidywalnie.</li>
+              <li value="9">Poprawić zaznaczenie skrótów kategorii, aby aktywny wybór był jednoznaczny.</li>
+              <li value="10">Dodać na homepage widoczne wejście do Bazy wiedzy.</li>
+              <li value="11">W Bazie wiedzy ograniczyć zbyt długie opisy i poprawić skanowalność treści.</li>
+              <li value="12">Usunąć techniczne oznaczenia literowe z sekcji pytań i odpowiedzi.</li>
+              <li value="13">Całe bannery powinny być klikalne; dodatkowy przycisk „Sprawdź” jest zbędny.</li>
+              <li value="14">Usunąć kafle „Szczegóły produktu”, które dublują informacje.</li>
+              <li value="15">Rozbudować stopkę o pełniejszą nawigację i najważniejsze informacje.</li>
+              <li value="16">Uspójnić zachowanie wyszukiwarki oraz sposób prezentacji wyników.</li>
+            </ol>
+          </article>
+
+          <article class="document-card">
+            <div class="document-card-heading"><span>02</span><div><p>Konto i logowanie</p><h2>Prostsza ścieżka wejścia</h2></div></div>
+            <ol class="recommendation-list">
+              <li value="3">Poprawić komunikaty i nazewnictwo w procesie logowania.</li>
+              <li value="4">Doprecyzować przebieg i komunikację mechanizmu „Sprawdzone przez Orange”.</li>
+              <li value="5">Usunąć podwójną ramkę widoczną w formularzu logowania.</li>
+              <li value="6">Wyraźnie rozdzielić rejestrację konta prywatnego i firmowego.</li>
+              <li value="7">Uwzględnić pole PESEL we właściwym wariancie procesu.</li>
+            </ol>
+          </article>
+
+          <article id="document-listing" class="document-card">
+            <div class="document-card-heading"><span>03</span><div><p>Listing page</p><h2>Filtry i przestrzeń wyników</h2></div></div>
+            <div class="document-card-body">
+              <a class="audit-shot" href="assets/document-screens/image7.png" target="_blank" rel="noreferrer" aria-label="Otwórz pełny zrzut listingu z dokumentu">
+                <figure><img src="assets/document-screens/image7.png" alt="Zrzut listingu zamieszczony w dokumencie po audycie" loading="lazy" /><figcaption><span>Widok z dokumentu</span><strong>Punkty 17–19 · listing i filtry</strong></figcaption></figure>
+              </a>
+              <ol class="recommendation-list">
+                <li value="17">Lepiej wykorzystać wolną przestrzeń na stronie wyników produktów.</li>
+                <li value="18">Traktować „Ukryj filtry” jako akcję drugorzędną; dodać czytelną walidację i komunikaty błędów filtrów.</li>
+                <li value="19">Usunąć podwójne przewijanie i pozostawić jeden naturalny scroll strony.</li>
+              </ol>
+            </div>
+          </article>
+
+          <article id="document-product" class="document-card">
+            <div class="document-card-heading"><span>04</span><div><p>Product page</p><h2>Jedna, czytelna karta produktu</h2></div></div>
+            <div class="document-card-body">
+              <a class="audit-shot" href="assets/document-screens/image8.png" target="_blank" rel="noreferrer" aria-label="Otwórz pełny zrzut karty produktu z dokumentu">
+                <figure><img src="assets/document-screens/image8.png" alt="Zrzut karty produktu zamieszczony w dokumencie po audycie" loading="lazy" /><figcaption><span>Widok z dokumentu</span><strong>Punkty 20–27 · karta produktu</strong></figcaption></figure>
+              </a>
+              <ol class="recommendation-list">
+                <li value="20">Ukrywać sekcję opinii, kiedy produkt nie ma jeszcze żadnych ocen.</li>
+                <li value="21">Podnieść kontrast elementów interfejsu zgodnie z wymaganiami dostępności WCAG.</li>
+                <li value="22">Ułożyć kartę produktu w jednym, ciągłym przewijaniu.</li>
+                <li value="23">Użyć jednoznacznej ikony serca do dodawania produktu do ulubionych.</li>
+                <li value="24">Pozwolić zapisać alert cenowy e-mailem bez obowiązkowego logowania.</li>
+                <li value="25">Poprawić kontrast i czytelność widgetu ratalnego.</li>
+                <li value="26">Na mobile nie prezentować opisu, specyfikacji i opinii w przewijaniu poziomym.</li>
+                <li value="27">Pole ilości produktu powinno odrzucać znaki specjalne; dalsze zmiany wymagają osobnej decyzji.</li>
+              </ol>
+            </div>
+          </article>
+
+          <article id="document-checkout" class="document-card document-card-wide">
+            <div class="document-card-heading"><span>05</span><div><p>Koszyk i checkout</p><h2>Informacja zwrotna i krótszy zakup</h2></div></div>
+            <div class="checkout-story">
+              <ol class="recommendation-list checkout-list">
+                <li value="28">Po dodaniu produktu pokazywać potwierdzenie w minikoszyku, a nie jako komunikat na górze strony.</li>
+                <li value="29">Uspójnić wyrównanie koszyka i hierarchię przycisków; liczniki mają pozostawać zsynchronizowane, a zapis ilości pojawiać się dopiero po zmianie.</li>
+                <li value="30">Stosować jeden adres dostawy dla wszystkich sprzedawców, pozostawiając wybór metody dostawy osobno dla każdego z nich.</li>
+                <li value="31">Usunąć powtarzające się nagłówki w krokach dostawy i płatności.</li>
+                <li value="32">Prezentować metody płatności w dwóch czytelnych kolumnach.</li>
+                <li value="33">Nazwę końcowego kroku zmienić z „Zakończono” na „Podsumowanie”.</li>
+                <li value="34">Zweryfikować biznesowo ścieżkę powrotu po nieudanej płatności i zapewnić użytkownikowi jasny dalszy krok.</li>
+              </ol>
+              <div class="audit-gallery" aria-label="Zrzuty koszyka i checkoutu z dokumentu">
+                <a class="audit-shot" href="assets/document-screens/image3.png" target="_blank" rel="noreferrer"><figure><img src="assets/document-screens/image3.png" alt="Minikoszyk po dodaniu produktu" loading="lazy" /><figcaption><span>Punkt 28</span><strong>Minikoszyk i potwierdzenie</strong></figcaption></figure></a>
+                <a class="audit-shot" href="assets/document-screens/image5.png" target="_blank" rel="noreferrer"><figure><img src="assets/document-screens/image5.png" alt="Widok pełnego koszyka" loading="lazy" /><figcaption><span>Punkt 29</span><strong>Pełny koszyk</strong></figcaption></figure></a>
+                <a class="audit-shot" href="assets/document-screens/image1.png" target="_blank" rel="noreferrer"><figure><img src="assets/document-screens/image1.png" alt="Krok wyboru sposobu dostawy" loading="lazy" /><figcaption><span>Punkty 30–31</span><strong>Dostawa</strong></figcaption></figure></a>
+                <a class="audit-shot" href="assets/document-screens/image6.png" target="_blank" rel="noreferrer"><figure><img src="assets/document-screens/image6.png" alt="Formularz adresu dostawy" loading="lazy" /><figcaption><span>Punkt 30</span><strong>Jeden adres dostawy</strong></figcaption></figure></a>
+                <a class="audit-shot" href="assets/document-screens/image4.png" target="_blank" rel="noreferrer"><figure><img src="assets/document-screens/image4.png" alt="Krok wyboru metody płatności" loading="lazy" /><figcaption><span>Punkt 32</span><strong>Metody płatności</strong></figcaption></figure></a>
+                <a class="audit-shot" href="assets/document-screens/image2.png" target="_blank" rel="noreferrer"><figure><img src="assets/document-screens/image2.png" alt="Ekran podsumowania zamówienia" loading="lazy" /><figcaption><span>Punkty 33–34</span><strong>Podsumowanie</strong></figcaption></figure></a>
+              </div>
+            </div>
+          </article>
+
+          <article class="document-card document-card-accent">
+            <div class="document-card-heading"><span>06</span><div><p>Standard wspólny</p><h2>Spójność komunikatów</h2></div></div>
+            <ol class="recommendation-list">
+              <li value="35">Ujednolicić treść, ton i sposób prezentacji komunikatów błędów w całym serwisie.</li>
+            </ol>
+            <p class="document-note">Rekomendacja dotycząca kontrastu (punkt 21) jest przekrojowa i powinna być stosowana również poza kartą produktu.</p>
+          </article>
+        </div>
       </section>
       <footer class="sources-footer"><div><p class="kicker">Materiał źródłowy</p><p>Zrzuty uporządkowane na podstawie makiety Figma Make, aktualnego środowiska DEV i dokumentu po audycie.</p></div><div class="source-links"><a href="https://www.figma.com/make/fzBphnQpCIOYeuvqGPpVxW/Prototyp-UX-UI--Orange-Market_Portal?code-node-id=0-6&p=f&t=8RFJrkwX5IIcxQub-0&fullscreen=1" target="_blank" rel="noreferrer">Makieta Figma Make</a><a href="https://orm.ss-dev.pl/" target="_blank" rel="noreferrer">Aktualny DEV</a></div></footer>
     </main>
-    <script src="app.js?v=screens-only-1"></script>
+    <script src="app.js?v=document-images-1"></script>
   </body>
 </html>

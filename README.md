@@ -5,7 +5,7 @@ Prosty landing HTML/CSS/JS zebrane w jednym miejscu:
 - screeny z **orm.ss-dev.pl**
 - nowy design z **Figma Make**
 - propozycje z dokumentu + MR !770
-- trzy pełnoekranowe porównania: homepage, listing i karta produktu
+- pięć pełnoekranowych porównań: hero i promocje homepage, góra i lista produktów na listingu oraz karta produktu
 - własny suwak porównawczy + punkty opisowe na screenach (hover / klik)
 
 ## Uruchomienie
@@ -23,3 +23,4 @@ Otwórz [http://localhost:5173](http://localhost:5173).
 - `app.js` — obsługa suwaków, punktów i aktywnej sekcji
 - `assets/screens/` — aktualne screeny DEV 1440×900
 - `assets/design/` — screeny z Figma Make
+- `assets/examples/` — sparowane przykłady aktualnego i docelowego układu użyte w prezentacji

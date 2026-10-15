@@ -71,9 +71,7 @@ const sectionObserver = new IntersectionObserver(
 
     const sectionGroups = {
       "homepage-promos": "homepage-carousel",
-      "listing-sidebar": "listing-navigation",
       "listing-products": "listing-navigation",
-      "product-document": "product-layout",
     };
     const activeId = sectionGroups[visible.target.id] || visible.target.id;
 
@@ -81,7 +79,7 @@ const sectionObserver = new IntersectionObserver(
       link.classList.toggle("is-active", link.getAttribute("href") === `#${activeId}`);
     });
   },
-  { threshold: [0.3, 0.55, 0.8] },
+  { threshold: [0.05, 0.15, 0.3, 0.55, 0.8] },
 );
 
 document.querySelectorAll(".screen-chapter").forEach((section) => sectionObserver.observe(section));
