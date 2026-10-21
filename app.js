@@ -65,7 +65,7 @@ const sectionObserver = new IntersectionObserver(
   (entries) => {
     const visible = entries
       .filter((entry) => entry.isIntersecting)
-      .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+      .sort((a, b) => Math.abs(a.boundingClientRect.top) - Math.abs(b.boundingClientRect.top))[0];
 
     if (!visible) return;
 
@@ -79,7 +79,7 @@ const sectionObserver = new IntersectionObserver(
       link.classList.toggle("is-active", link.getAttribute("href") === `#${activeId}`);
     });
   },
-  { threshold: [0.05, 0.15, 0.3, 0.55, 0.8] },
+  { rootMargin: "-68px 0px -70% 0px", threshold: 0 },
 );
 
 document.querySelectorAll(".screen-chapter").forEach((section) => sectionObserver.observe(section));

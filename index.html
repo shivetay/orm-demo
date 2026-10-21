@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Porównanie aktualnego Orange Market z makietą Figma Make." />
     <title>Orange Market — aktualny serwis / Figma</title>
-    <link rel="stylesheet" href="styles.css?v=document-images-1" />
+    <link rel="stylesheet" href="styles.css?v=analytics-1" />
   </head>
   <body>
     <header class="site-header">
       <a class="wordmark" href="#homepage-carousel" aria-label="Orange Market — początek strony"><span class="wordmark-mark" aria-hidden="true"></span><span>Orange Market</span></a>
-      <nav class="chapter-nav" aria-label="Grupy ekranów"><a href="#homepage-carousel">Homepage</a><a href="#listing-navigation">Listing page</a><a href="#product-layout">Product page</a><a href="#document">Dokument</a></nav>
+      <nav class="chapter-nav" aria-label="Grupy ekranów"><a href="#homepage-carousel">Homepage</a><a href="#listing-navigation">Listing page</a><a href="#product-layout">Product page</a><a href="#document">Dokument</a><a href="#analytics">Analityka</a></nav>
       <p class="header-note"><span class="pulse"></span> Screen review</p>
     </header>
     <main id="top">
@@ -152,6 +152,157 @@
           </article>
         </div>
       </section>
+      <section id="analytics" class="analytics-chapter screen-chapter">
+        <header class="analytics-heading">
+          <div>
+            <p class="kicker">07 · Analityka ekranów</p>
+            <h1>Mobile i Web / Desktop</h1>
+          </div>
+          <p>Dane o użytkownikach, sesjach i najczęstszych rozdzielczościach wraz z zakresem minimalnym i maksymalnym dla każdego kanału.</p>
+        </header>
+
+        <div class="analytics-overview" aria-label="Podsumowanie kanałów">
+          <article class="channel-summary channel-summary-mobile">
+            <p class="analytics-eyebrow">Kanał Mobile</p>
+            <div class="metric-pair"><div><strong>2 548 633</strong><span>unikalnych użytkowników</span></div><div><strong>8 102 895</strong><span>sesji</span></div></div>
+            <p class="trend trend-up">+8,7% użytkowników vs 3-tygodniowa mediana baseline</p>
+            <div class="range-grid">
+              <div><span>Min. ekran</span><strong>360 × 780 px</strong></div>
+              <div><span>Maks. ekran</span><strong>440 × 956 px</strong></div>
+              <div><span>Zakres szerokości</span><strong>360–440 px</strong></div>
+              <div><span>Zakres wysokości</span><strong>780–956 px</strong></div>
+            </div>
+          </article>
+          <article class="channel-summary channel-summary-web">
+            <p class="analytics-eyebrow">Kanał Web / Desktop</p>
+            <div class="metric-pair"><div><strong>622 772</strong><span>unikalnych użytkowników</span></div><div><strong>1 238 205</strong><span>sesji</span></div></div>
+            <p class="trend trend-up">+3,1% użytkowników vs baseline</p>
+            <div class="range-grid">
+              <div><span>Min. ekran</span><strong>1280 × 720 px</strong></div>
+              <div><span>Maks. ekran</span><strong>2560 × 1440 px</strong></div>
+              <div><span>Zakres szerokości</span><strong>1280–2560 px</strong></div>
+              <div><span>Zakres wysokości</span><strong>720–1440 px</strong></div>
+            </div>
+          </article>
+        </div>
+
+        <article class="analytics-panel" id="analytics-mobile">
+          <header class="analytics-panel-heading"><div><p class="analytics-eyebrow">01 · Mobile</p><h2>Najpopularniejsze ekrany mobilne</h2></div><p>Wykres pokazuje liczbę użytkowników dla Top 10 rozdzielczości.</p></header>
+          <figure class="screen-chart" aria-labelledby="mobile-chart-caption">
+            <figcaption id="mobile-chart-caption">Użytkownicy według rozdzielczości — Mobile</figcaption>
+            <div class="chart-row"><span>393 × 852</span><div><i style="--bar:100%"></i></div><strong>412 228</strong></div>
+            <div class="chart-row"><span>390 × 844</span><div><i style="--bar:88.6%"></i></div><strong>365 240</strong></div>
+            <div class="chart-row"><span>402 × 874</span><div><i style="--bar:80.5%"></i></div><strong>331 751</strong></div>
+            <div class="chart-row"><span>384 × 832</span><div><i style="--bar:58.2%"></i></div><strong>240 121</strong></div>
+            <div class="chart-row"><span>440 × 956</span><div><i style="--bar:39.5%"></i></div><strong>162 623</strong></div>
+            <div class="chart-row"><span>360 × 780</span><div><i style="--bar:33.5%"></i></div><strong>138 031</strong></div>
+            <div class="chart-row"><span>430 × 932</span><div><i style="--bar:31.9%"></i></div><strong>131 568</strong></div>
+            <div class="chart-row"><span>392 × 825</span><div><i style="--bar:31.7%"></i></div><strong>130 706</strong></div>
+            <div class="chart-row"><span>360 × 800</span><div><i style="--bar:25.8%"></i></div><strong>106 132</strong></div>
+            <div class="chart-row"><span>375 × 812</span><div><i style="--bar:23.9%"></i></div><strong>98 329</strong></div>
+          </figure>
+
+          <div class="analytics-table-wrap">
+            <table class="analytics-table">
+              <caption>Top 10 rozdzielczości ekranu — Mobile</caption>
+              <thead><tr><th>Rozdzielczość</th><th>Użytkownicy</th><th>Δ vs mediana</th><th>Sesje</th><th>Główny profil urządzeń</th></tr></thead>
+              <tbody>
+                <tr><td>393 × 852</td><td>412 228</td><td class="positive">+19,6%</td><td>1 302 271</td><td>iPhone 14 Pro, 15, 15 Pro, 16</td></tr>
+                <tr><td>390 × 844</td><td>365 240</td><td class="positive">+13,1%</td><td>1 152 757</td><td>iPhone 12, 13, 14</td></tr>
+                <tr><td>402 × 874</td><td>331 751</td><td class="positive">+31,0%</td><td>1 147 409</td><td>iPhone 16 Pro, nowsze flagowce</td></tr>
+                <tr><td>384 × 832</td><td>240 121</td><td>−0,5%</td><td>628 432</td><td>Samsung Galaxy S / seria A, Android</td></tr>
+                <tr><td>440 × 956</td><td>162 623</td><td class="positive">+28,9%</td><td>605 561</td><td>iPhone 16 Pro Max</td></tr>
+                <tr><td>360 × 780</td><td>138 031</td><td>−1,4%</td><td>402 670</td><td>Samsung Galaxy A5x / S2x</td></tr>
+                <tr><td>430 × 932</td><td>131 568</td><td class="positive">+16,0%</td><td>460 750</td><td>iPhone 14 Pro Max, 15 Plus/Pro Max</td></tr>
+                <tr><td>392 × 825</td><td>130 706</td><td>−8,5%</td><td>594 904</td><td>Xiaomi / Redmi, nowsze Androidy</td></tr>
+                <tr><td>360 × 800</td><td>106 132</td><td>−6,5%</td><td>251 354</td><td>Samsung — budżetowe / średnia półka</td></tr>
+                <tr><td>375 × 812</td><td>98 329</td><td class="positive">+10,7%</td><td>308 327</td><td>iPhone X, XS, 11 Pro, 12 mini, 13 mini</td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="analytics-table-wrap">
+            <table class="analytics-table">
+              <caption>Top modele urządzeń mobilnych</caption>
+              <thead><tr><th>Model urządzenia</th><th>Użytkownicy</th><th>Sesje</th><th>Typowa rozdzielczość</th></tr></thead>
+              <tbody>
+                <tr><td>Generic Android Mobile*</td><td>914 098</td><td>2 582 139</td><td>384×832, 360×800, 392×825</td></tr>
+                <tr><td>iPhone — ogólnie</td><td>457 033</td><td>778 011</td><td>393×852, 390×844</td></tr>
+                <tr><td>iPhone 13</td><td>105 325</td><td>406 076</td><td>390×844</td></tr>
+                <tr><td>iPhone 16 Pro</td><td>98 330</td><td>352 826</td><td>402×874</td></tr>
+                <tr><td>iPhone 15</td><td>97 287</td><td>374 527</td><td>393×852</td></tr>
+                <tr><td>iPhone 15 Pro</td><td>85 165</td><td>291 352</td><td>393×852</td></tr>
+                <tr><td>iPhone 18,1</td><td>82 402</td><td>357 730</td><td>402×874</td></tr>
+                <tr><td>iPhone 16</td><td>74 248</td><td>283 873</td><td>393×852</td></tr>
+                <tr><td>iPhone 14</td><td>68 353</td><td>254 319</td><td>390×844</td></tr>
+                <tr><td>Samsung Galaxy A56 (SM-A566B)</td><td>50 891</td><td>261 345</td><td>384×832</td></tr>
+                <tr><td>Samsung Galaxy A55 (SM-A556B)</td><td>47 052</td><td>233 022</td><td>384×832</td></tr>
+                <tr><td>Samsung Galaxy S25 Ultra (SM-S938B)</td><td>43 839</td><td>218 758</td><td>384×832</td></tr>
+                <tr><td>Samsung Galaxy S24 Ultra (SM-S928B)</td><td>41 721</td><td>202 913</td><td>384×832</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="analytics-footnote">* Część przeglądarek Android raportuje generyczny identyfikator urządzenia ze względów prywatnościowych. Zakres modeli: <strong>41 721–914 098 użytkowników</strong> i <strong>202 913–2 582 139 sesji</strong>.</p>
+        </article>
+
+        <article class="analytics-panel" id="analytics-web">
+          <header class="analytics-panel-heading"><div><p class="analytics-eyebrow">02 · Web / Desktop</p><h2>Najpopularniejsze ekrany desktopowe</h2></div><p>Wykres pokazuje liczbę użytkowników dla Top 10 rozdzielczości.</p></header>
+          <figure class="screen-chart screen-chart-web" aria-labelledby="web-chart-caption">
+            <figcaption id="web-chart-caption">Użytkownicy według rozdzielczości — Web / Desktop</figcaption>
+            <div class="chart-row"><span>1920 × 1080</span><div><i style="--bar:100%"></i></div><strong>182 550</strong></div>
+            <div class="chart-row"><span>1536 × 864</span><div><i style="--bar:72.6%"></i></div><strong>132 598</strong></div>
+            <div class="chart-row"><span>1366 × 768</span><div><i style="--bar:26.1%"></i></div><strong>47 696</strong></div>
+            <div class="chart-row"><span>1280 × 720</span><div><i style="--bar:19%"></i></div><strong>34 690</strong></div>
+            <div class="chart-row"><span>2560 × 1440</span><div><i style="--bar:15.2%"></i></div><strong>27 792</strong></div>
+            <div class="chart-row"><span>1536 × 960</span><div><i style="--bar:11.3%"></i></div><strong>20 653</strong></div>
+            <div class="chart-row"><span>1440 × 900</span><div><i style="--bar:10.5%"></i></div><strong>19 153</strong></div>
+            <div class="chart-row"><span>1600 × 900</span><div><i style="--bar:9.7%"></i></div><strong>17 719</strong></div>
+            <div class="chart-row"><span>1920 × 1200</span><div><i style="--bar:7.9%"></i></div><strong>14 418</strong></div>
+            <div class="chart-row"><span>1280 × 800</span><div><i style="--bar:7.3%"></i></div><strong>13 401</strong></div>
+          </figure>
+
+          <div class="analytics-table-wrap">
+            <table class="analytics-table">
+              <caption>Top 10 rozdzielczości ekranu — Web / Desktop</caption>
+              <thead><tr><th>Rozdzielczość</th><th>Użytkownicy</th><th>Δ vs mediana</th><th>Sesje</th><th>Typowy format ekranu</th></tr></thead>
+              <tbody>
+                <tr><td>1920 × 1080</td><td>182 550</td><td class="positive">+3,6%</td><td>341 821</td><td>Full HD — monitory standardowe / laptopy</td></tr>
+                <tr><td>1536 × 864</td><td>132 598</td><td class="positive">+1,6%</td><td>252 664</td><td>FHD z domyślnym skalowaniem 125% w Windows</td></tr>
+                <tr><td>1366 × 768</td><td>47 696</td><td>−0,4%</td><td>87 648</td><td>Standardowe matryce laptopowe HD</td></tr>
+                <tr><td>1280 × 720</td><td>34 690</td><td class="positive">+0,2%</td><td>67 569</td><td>Format HD / laptopy ze skalowaniem</td></tr>
+                <tr><td>2560 × 1440</td><td>27 792</td><td class="positive">+8,9%</td><td>55 599</td><td>QHD / 2K monitory zewnętrzne</td></tr>
+                <tr><td>1536 × 960</td><td>20 653</td><td class="positive">+12,2%</td><td>38 481</td><td>Laptopy 16:10 ze skalowaniem</td></tr>
+                <tr><td>1440 × 900</td><td>19 153</td><td class="positive">+3,8%</td><td>36 627</td><td>MacBook Air / starsze matryce 16:10</td></tr>
+                <tr><td>1600 × 900</td><td>17 719</td><td class="positive">+0,3%</td><td>33 768</td><td>Monitory panoramiczne HD+</td></tr>
+                <tr><td>1920 × 1200</td><td>14 418</td><td class="positive">+7,2%</td><td>27 228</td><td>Monitory i laptopy biznesowe 16:10</td></tr>
+                <tr><td>1280 × 800</td><td>13 401</td><td class="positive">+9,1%</td><td>25 851</td><td>Starsze laptopy / ekrany 16:10</td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="analytics-table-wrap">
+            <table class="analytics-table">
+              <caption>Podział systemowo-sprzętowy — Web</caption>
+              <thead><tr><th>Kategoria urządzeń / System</th><th>Użytkownicy</th><th>Udział w Web</th><th>Sesje</th><th>Najpopularniejsza rozdzielczość</th></tr></thead>
+              <tbody>
+                <tr><td>PC / Desktop (Windows / Linux)</td><td>559 965</td><td>89,9%</td><td>1 109 653</td><td>1920×1080 oraz 1536×864</td></tr>
+                <tr><td>Apple Mac / MacBook</td><td>63 715</td><td>10,2%</td><td>127 745</td><td>1440×900, 1470×956, 1512×982</td></tr>
+                <tr><td>Inne — Smart TV / konsole</td><td>~460</td><td>&lt;0,1%</td><td>630</td><td>1920×1080</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="analytics-footnote">Zakres kategorii systemowo-sprzętowych: <strong>~460–559 965 użytkowników</strong> i <strong>630–1 109 653 sesji</strong>.</p>
+        </article>
+
+        <aside class="analytics-insights" aria-labelledby="insights-title">
+          <p class="analytics-eyebrow">Kluczowe wnioski projektowe · UX / RWD</p>
+          <h2 id="insights-title">Projektuj najpierw dla faktycznych punktów ciężkości</h2>
+          <div>
+            <p><strong>Mobile.</strong> Prawie 45% użytkowników mobilnych korzysta z ekranów o logicznej szerokości 390–402 px. Drugą najliczniejszą grupą są Androidy o szerokości 360–384 px.</p>
+            <p><strong>Web / Desktop.</strong> Ponad 50% użytkowników desktopowych widzi serwis przy szerokości logicznej 1920 px lub 1536 px.</p>
+          </div>
+        </aside>
+      </section>
       <footer class="sources-footer">
         <div>
           <p class="kicker">Materiał źródłowy</p>
@@ -164,6 +315,6 @@
         </div>
       </footer>
     </main>
-    <script src="app.js?v=document-images-1"></script>
+    <script src="app.js?v=analytics-2"></script>
   </body>
 </html>
