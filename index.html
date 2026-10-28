@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Porównanie aktualnego Orange Market z makietą Figma Make." />
     <title>Orange Market — aktualny serwis / Figma</title>
-    <link rel="stylesheet" href="styles.css?v=analytics-1" />
+    <link rel="stylesheet" href="styles.css?v=listing-nav-2" />
   </head>
   <body>
     <header class="site-header">
       <a class="wordmark" href="#homepage-carousel" aria-label="Orange Market — początek strony"><span class="wordmark-mark" aria-hidden="true"></span><span>Orange Market</span></a>
-      <nav class="chapter-nav" aria-label="Grupy ekranów"><a href="#homepage-carousel">Homepage</a><a href="#listing-navigation">Listing page</a><a href="#product-layout">Product page</a><a href="#document">Dokument</a><a href="#analytics">Analityka</a></nav>
+      <nav class="chapter-nav" aria-label="Grupy ekranów"><a href="#homepage-carousel">Homepage</a><a href="#listing-navigation">Listing page</a><a href="#product-layout">Product page</a><a href="#document">Dokument</a><a href="#analytics">Analityka</a><a href="#decisions">Ustalenia</a></nav>
       <p class="header-note"><span class="pulse"></span> Screen review</p>
     </header>
     <main id="top">
@@ -29,18 +29,44 @@
         </div><p class="compare-caption"><span>Docelowe skróty i produkty</span><span>Przesuń suwak</span><span>Aktualne promocje</span></p></div>
       </section>
       <section id="listing-navigation" class="screen-chapter">
-        <header class="chapter-heading"><div><p class="kicker">03 · Listing page</p><h2>Góra listy: rekomendacje i filtry</h2></div><p>Przykład górnej części listingu: karuzela polecanych produktów oraz szybszy dostęp do najważniejszych filtrów.</p></header>
+        <header class="chapter-heading"><div><p class="kicker">03 · Listing page</p><h2>Nawigacja na liście produktów</h2></div><p>Porównanie pełnych ekranów pokazuje zmianę globalnego nagłówka, wejścia do kategorii, menu kampanii oraz nawigacji wewnątrz listingu.</p></header>
         <div class="compare-shell" data-compare style="--split:50%"><div class="compare-viewport">
-          <img class="compare-image compare-before" src="assets/examples/listing-top-current.png" alt="Aktualna góra listingu z rozwiniętym formularzem filtrów" /><img class="compare-image compare-after" src="assets/examples/listing-top-target.png" alt="Docelowa góra listingu z karuzelą polecanych produktów i filtrami" />
-          <div class="side-label side-label-after">Docelowy układ</div><div class="side-label side-label-before">Aktualny układ</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj górę listingu z karuzelą i filtrami" />
-        </div><p class="compare-caption"><span>Karuzela i filtry docelowe</span><span>Przesuń suwak</span><span>Aktualne filtry</span></p></div>
+          <img class="compare-image compare-before" src="assets/examples/listing-top-current.png" alt="Aktualna nawigacja i góra listy produktów Orange Market" /><img class="compare-image compare-after" src="assets/examples/listing-top-target.png" alt="Docelowa nawigacja i góra listy produktów z makiety Figma" />
+          <div class="side-label side-label-after">Makieta Figma</div><div class="side-label side-label-before">Aktualny serwis</div>
+          <button class="hotspot" type="button" data-side="target" data-x="11" style="--x:11%;--y:10%" aria-label="Punkt 1 — wejście do wszystkich produktów"><span>1</span><span class="hotspot-card"><strong>Jedno wejście do produktów</strong>Wyraźny przycisk „Produkty” porządkuje dostęp do kategorii i odróżnia go od linków kampanijnych.<small>Decyzja zaakceptowana</small></span></button>
+          <button class="hotspot" type="button" data-side="target" data-x="35" style="--x:35%;--y:10%" aria-label="Punkt 2 — menu kampanii"><span>2</span><span class="hotspot-card"><strong>Menu kampanii</strong>Promocje, bestsellery i nowości pozostają w górnym menu jako szybkie ścieżki niezależne od drzewa kategorii.<small>Kierunek zaakceptowany</small></span></button>
+          <button class="hotspot" type="button" data-side="current" data-x="84" style="--x:84%;--y:9%" aria-label="Punkt 4 — obecny nagłówek"><span>4</span><span class="hotspot-card hotspot-card-left"><strong>Obecny nagłówek</strong>Aktualne menu miesza wejścia produktowe, ofertę Orange i elementy wizerunkowe. Nowy układ rozdziela te funkcje.<small>Stan obecny</small></span></button>
+          <div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj aktualną i docelową nawigację listy produktów" />
+        </div><p class="compare-caption"><span>Docelowa nawigacja listingu</span><span>Przesuń suwak</span><span>Aktualna nawigacja listingu</span></p></div>
+
+        <aside class="listing-decisions" aria-labelledby="listing-decisions-title">
+          <header><p class="kicker">Podjęte decyzje</p><h3 id="listing-decisions-title">Globalny nagłówek listingu</h3></header>
+          <div class="listing-decision-grid listing-decision-grid-compact">
+            <article><span class="listing-decision-status is-approved">Zaakceptowane</span><h4>Nowy kierunek nawigacji</h4><p>Przyjęto nagłówek z wyszukiwarką, osobnym wejściem „Produkty” oraz skrótami do promocji, bestsellerów i nowości.</p></article>
+            <article><span class="listing-decision-status is-later">Dalszy etap</span><h4>Zaawansowane wyszukiwanie</h4><p>Podstawowa wyszukiwarka jest w bieżącym zakresie. Rozbudowane podpowiedzi i mechanizmy wyszukiwania pozostają na kolejny etap.</p></article>
+          </div>
+        </aside>
       </section>
       <section id="listing-products" class="screen-chapter chapter-dark">
         <header class="chapter-heading"><div><p class="kicker">04 · Listing page</p><h2>Właściwa lista produktów</h2></div><p>Przykład wyników poniżej filtrów: docelowy układ listy eksponuje parametry, ocenę, dostawę, sprzedawcę i cenę.</p></header>
         <div class="compare-shell" data-compare style="--split:50%"><div class="compare-viewport">
           <img class="compare-image compare-before" src="assets/examples/listing-products-current.png" alt="Aktualny listing w formie siatki kart produktowych" /><img class="compare-image compare-after" src="assets/examples/listing-products-target.png" alt="Docelowy listing w formie rozbudowanej listy produktów" />
-          <div class="side-label side-label-after">Docelowy układ</div><div class="side-label side-label-before">Aktualny układ</div><div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj aktualną i docelową listę produktów" />
+          <div class="side-label side-label-after">Docelowy układ</div><div class="side-label side-label-before">Aktualny układ</div>
+          <button class="hotspot" type="button" data-side="target" data-x="10" style="--x:10%;--y:30%" aria-label="Punkt 1 — nawigacja kategorii"><span>1</span><span class="hotspot-card"><strong>Kategorie sąsiadujące</strong>Lista po lewej pozwala przechodzić między kategoriami powiązanymi bez powrotu do głównego drzewa produktów.<small>Decyzja zaakceptowana</small></span></button>
+          <button class="hotspot" type="button" data-side="target" data-x="28" style="--x:28%;--y:25%" aria-label="Punkt 2 — filtry kategorii"><span>2</span><span class="hotspot-card"><strong>Filtry według kategorii</strong>Zestaw filtrów ma wynikać z parametrów konkretnego asortymentu, np. klasy energetycznej lub pojemności dla AGD.<small>Decyzja zaakceptowana</small></span></button>
+          <button class="hotspot" type="button" data-side="target" data-x="38" style="--x:38%;--y:40%" aria-label="Punkt 3 — usunięcie łączenia podobnych produktów"><span>3</span><span class="hotspot-card"><strong>Element do usunięcia</strong>Widoczny na makiecie przełącznik „Połącz podobne produkty” nie powinien znaleźć się w finalnym rozwiązaniu.<small>Decyzja zaakceptowana</small></span></button>
+          <button class="hotspot" type="button" data-side="current" data-x="18" style="--x:18%;--y:35%" aria-label="Punkt 4 — aktualne kategorie"><span>4</span><span class="hotspot-card"><strong>Aktualna lista kategorii</strong>Kierunek bocznej nawigacji zostaje zachowany, ale lista powinna prezentować kategorie właściwe dla aktualnego kontekstu.<small>Do uporządkowania</small></span></button>
+          <button class="hotspot" type="button" data-side="current" data-x="31" style="--x:31%;--y:45%" aria-label="Punkt 5 — aktualny dostęp do filtrów"><span>5</span><span class="hotspot-card"><strong>Aktualne filtry</strong>Jedno ogólne wejście „Filtry” zostaje zastąpione szybszym zestawem filtrów kontekstowych widocznych nad wynikami.<small>Zmiana zaakceptowana</small></span></button>
+          <div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj aktualną i docelową listę produktów" />
         </div><p class="compare-caption"><span>Docelowa lista produktów</span><span>Przesuń suwak</span><span>Aktualna siatka produktów</span></p></div>
+        <aside class="listing-decisions listing-decisions-on-dark" aria-labelledby="listing-category-decisions-title">
+          <header><p class="kicker">Podjęte decyzje</p><h3 id="listing-category-decisions-title">Kategorie, filtry i sortowanie</h3></header>
+          <div class="listing-decision-grid listing-decision-grid-three">
+            <article><span class="listing-decision-status is-approved">Zaakceptowane</span><h4>Kategorie sąsiadujące</h4><p>Użytkownik otrzyma dostęp do kategorii powiązanych bez konieczności wracania do głównego drzewa produktów.</p></article>
+            <article><span class="listing-decision-status is-approved">Zaakceptowane</span><h4>Filtry według kategorii</h4><p>Lista filtrów ma wynikać z typu asortymentu. Przełącznik „Połącz podobne produkty” zostaje usunięty.</p></article>
+            <article><span class="listing-decision-status is-pending">Decyzja biznesowa</span><h4>Sortowanie „Najtrafniejsze”</h4><p>Przed wdrożeniem trzeba określić algorytm kolejności oraz wpływ produktów sponsorowanych na wyniki.</p></article>
+          </div>
+        </aside>
       </section>
       <section id="product-layout" class="screen-chapter">
         <header class="chapter-heading"><div><p class="kicker">05 · Product page</p><h2>Karta produktu</h2></div><p>Przykład pierwszego ekranu PDP: galeria, najważniejsze informacje, cena, dostawa, zakup i dane sprzedawcy.</p></header>
@@ -303,6 +329,73 @@
           </div>
         </aside>
       </section>
+      <section id="decisions" class="decisions-chapter screen-chapter">
+        <header class="decisions-heading">
+          <div>
+            <p class="kicker">08 · Ustalenia biznesowe</p>
+            <h1>Decyzje i zakres wdrożenia</h1>
+          </div>
+          <p>Uporządkowane ustalenia po analizie audytu, makiety i obecnego serwisu. Status wskazuje, co jest zaakceptowane, konfigurowalne lub wymaga dalszej decyzji.</p>
+        </header>
+
+        <div class="decision-summary" aria-label="Podsumowanie ustaleń">
+          <div><strong>4</strong><span>zaakceptowane kierunki</span></div>
+          <div><strong>4</strong><span>elementy konfigurowalne</span></div>
+          <div><strong>7</strong><span>tematów do analizy lub kolejnego etapu</span></div>
+        </div>
+
+        <div class="decision-groups">
+          <article class="decision-group decision-group-accepted">
+            <header><p>Grupa A</p><h2>Zaakceptowane kierunki</h2></header>
+            <ol class="decision-list">
+              <li value="1"><div><h3>Stopka</h3><span class="decision-status">Zaakceptowane · CMS</span></div><p>Obecny kierunek stopki zostaje zachowany. Treści i odnośniki powinny być edytowalne w CMS, a ewentualna rozbudowa liczby kolumn i sekcji zostanie dopasowana do potrzeb biznesowych.</p></li>
+              <li value="3"><div><h3>Sekcja „Czym jest Orange Market”</h3><span class="decision-status">Widoczne · zaakceptowane</span></div><p>Sekcja powinna wyjaśniać model marketplace, rolę Orange i partnerów, zasady zakupu oraz odpowiedzialność sprzedawcy. Jej głównym celem jest zwiększenie zaufania użytkownika.</p></li>
+              <li value="11"><div><h3>Baner główny</h3><span class="decision-status">Zaakceptowane</span></div><p>Na urządzeniach mobilnych baner powinien obsługiwać gest przesuwania. Strzałki pozostają jako dodatkowa, czytelna nawigacja. Oferty partnerów należy jednoznacznie oznaczać.</p></li>
+              <li value="13"><div><h3>Nawigacja i listing</h3><span class="decision-status">Zaakceptowane</span></div><p>Zaakceptowano kierunek nawigacji i prezentację kategorii sąsiadujących. Filtry powinny być dopasowane do kategorii, a przełącznik „Połącz podobne produkty” należy usunąć.</p></li>
+            </ol>
+          </article>
+
+          <article class="decision-group decision-group-configurable">
+            <header><p>Grupa B</p><h2>CMS i feature flags</h2></header>
+            <ol class="decision-list">
+              <li value="5"><div><h3>Rabaty na usługi Orange</h3><span class="decision-status">Ukryte na start</span></div><p>Komponent może zostać przygotowany w ramach wdrożenia, ale początkowo pozostanie ukryty. Powinien dać się aktywować bez przebudowy strony.</p></li>
+              <li value="6"><div><h3>Kody rabatowe</h3><span class="decision-status">Konfigurowalne</span></div><p>Sekcja jest uwzględniona w wycenie i może być włączana wyłącznie przy aktywnych promocjach. Kodów nie należy umieszczać w kółkach nawigacyjnych.</p></li>
+              <li value="7"><div><h3>Sezonowe sekcje i promocje</h3><span class="decision-status">CMS · opcjonalne</span></div><p>Sezonowość pozostaje częścią koncepcji. Sekcje powinny być publikowane, ukrywane i aktualizowane w CMS, łącznie z grafikami oraz nagłówkami.</p></li>
+              <li value="9"><div><h3>Hity dnia i tygodnia</h3><span class="decision-status">Konfigurowalne</span></div><p>Należy zachować możliwość promowania produktów bez obowiązkowego licznika czasu i liczby sztuk. CTA nie są rekomendowane na stronie głównej; na listingu mogą być stale widoczne.</p></li>
+            </ol>
+          </article>
+
+          <article class="decision-group decision-group-analysis">
+            <header><p>Grupa C</p><h2>Analiza i kolejny etap</h2></header>
+            <ol class="decision-list">
+              <li value="2"><div><h3>Newsletter</h3><span class="decision-status">Do analizy</span></div><p>Newsletter pozostaje poza bieżącym zakresem. Decyzja o wdrożeniu wymaga analizy kosztów, integracji, zgód marketingowych i możliwości technicznych.</p></li>
+              <li value="4"><div><h3>Przekierowania do sklepu Orange</h3><span class="decision-status">Weryfikacja techniczna</span></div><p>Linki prowadzące poza Orange Market powinny jasno informować o przejściu do sklepu Orange. Preferowane jest otwieranie ich w nowej karcie lub oknie.</p></li>
+              <li value="8"><div><h3>Ostatnio oglądane</h3><span class="decision-status">Kolejny etap</span></div><p>Funkcja nie jest odrzucona, ale wymaga przygotowania mechanizmu śledzenia produktów i zostaje przeniesiona do kolejnego etapu.</p></li>
+              <li value="10"><div><h3>Porównywarka i ulubione</h3><span class="decision-status">Do analizy</span></div><p>Obie funkcje wymagają osobnych widoków oraz analizy zachowania użytkownika. Porównywarka ma niższy priorytet niż ulubione.</p></li>
+              <li value="12"><div><h3>Wyszukiwarka</h3><span class="decision-status">Podstawowa teraz</span></div><p>Podstawowa wersja jest uwzględniona w wycenie. Zaawansowane podpowiedzi i dodatkowe mechanizmy wyszukiwania są planowane na dalszy etap.</p></li>
+              <li value="14"><div><h3>Sortowanie „Najtrafniejsze”</h3><span class="decision-status">Decyzja biznesowa</span></div><p>Wymaga określenia zasad działania, w tym ewentualnego wpływu promocji sponsorowanych na kolejność wyników.</p></li>
+              <li value="15"><div><h3>Element PayU na karcie produktu</h3><span class="decision-status">Zależność zewnętrzna</span></div><p>Zakres i forma prezentacji zależą od rozwiązania udostępnionego przez dostawcę oraz możliwości integracji.</p></li>
+            </ol>
+          </article>
+        </div>
+
+        <article class="footer-comparison" aria-labelledby="footer-comparison-title">
+          <header class="footer-comparison-heading">
+            <div><p class="decisions-eyebrow">Porównanie stopki</p><h2 id="footer-comparison-title">Obecny serwis i kierunek z makiety</h2></div>
+            <p>Oba zrzuty pokazują pełny, jednakowy viewport 1440 × 812 CSS px (zapis Retina 2880 × 1624 px). Obrazy są dopasowane bez kadrowania.</p>
+          </header>
+          <div class="compare-shell compare-shell-footer" data-compare style="--split:50%"><div class="compare-viewport compare-viewport-footer">
+            <img class="compare-image compare-before" src="assets/decisions/footer-current.webp" alt="Aktualna stopka Orange Market w pełnym widoku 1440 na 812 pikseli CSS" />
+            <img class="compare-image compare-after" src="assets/decisions/footer-figma.webp" alt="Stopka z makiety Figma Make w pełnym widoku 1440 na 812 pikseli CSS" />
+            <div class="side-label side-label-after">Makieta Figma</div><div class="side-label side-label-before">Aktualny serwis</div>
+            <button class="hotspot" type="button" data-side="target" data-x="28" style="--x:28%;--y:37%" aria-label="Punkt 1 — sekcja wyjaśniająca"><span>1</span><span class="hotspot-card"><strong>Sekcja wyjaśniająca</strong>Makieta eksponuje rolę zweryfikowanych partnerów przed stopką. Sekcja powinna pozostać widoczna i budować zaufanie.<small>Ustalenie 3</small></span></button>
+            <button class="hotspot" type="button" data-side="target" data-x="47" style="--x:47%;--y:66%" aria-label="Punkt 2 — treści zarządzane w CMS"><span>2</span><span class="hotspot-card"><strong>Treści w CMS</strong>Kolumny, nazwy sekcji i odnośniki powinny być edytowalne bez wdrożenia kodu.<small>Ustalenie 1</small></span></button>
+            <button class="hotspot" type="button" data-side="target" data-x="75" style="--x:75%;--y:68%" aria-label="Punkt 3 — rozwój zależny od potrzeb biznesowych"><span>3</span><span class="hotspot-card hotspot-card-left"><strong>Rozbudowa stopki</strong>Makieta pokazuje możliwy szerszy wariant. Liczbę kolumn i sekcji należy dopasować do realnych potrzeb biznesowych.<small>Ustalenie 1</small></span></button>
+            <button class="hotspot" type="button" data-side="current" data-x="75" style="--x:75%;--y:78%" aria-label="Punkt 4 — komunikacja przekierowań"><span>4</span><span class="hotspot-card hotspot-card-left hotspot-card-up"><strong>Przekierowania zewnętrzne</strong>Link prowadzący do sklepu Orange powinien informować o zmianie serwisu i — po potwierdzeniu technicznym — otwierać się w nowej karcie.<small>Ustalenie 4</small></span></button>
+            <div class="compare-divider" aria-hidden="true"><span class="divider-handle">↔</span></div><input class="compare-range" type="range" min="0" max="100" value="50" aria-label="Porównaj aktualną stopkę Orange Market i makietę Figma" />
+          </div><p class="compare-caption"><span>Makieta Figma</span><span>Przesuń suwak</span><span>Aktualny Orange Market</span></p></div>
+        </article>
+      </section>
       <footer class="sources-footer">
         <div>
           <p class="kicker">Materiał źródłowy</p>
@@ -315,6 +408,6 @@
         </div>
       </footer>
     </main>
-    <script src="app.js?v=analytics-2"></script>
+    <script src="app.js?v=decisions-1"></script>
   </body>
 </html>

@@ -1,6 +1,21 @@
 document.querySelectorAll("[data-compare]").forEach((shell) => {
   const range = shell.querySelector(".compare-range");
-  const updateSplit = () => shell.style.setProperty("--split", `${range.value}%`);
+  const updateSplit = () => {
+    const split = Number(range.value);
+    shell.style.setProperty("--split", `${split}%`);
+
+    shell.querySelectorAll(".hotspot[data-side]").forEach((hotspot) => {
+      const x = Number(hotspot.dataset.x);
+      const isTargetVisible = hotspot.dataset.side === "target" && x <= split;
+      const isCurrentVisible = hotspot.dataset.side === "current" && x >= split;
+      const isVisible = isTargetVisible || isCurrentVisible;
+
+      hotspot.classList.toggle("is-hidden-by-split", !isVisible);
+      hotspot.setAttribute("aria-hidden", String(!isVisible));
+      hotspot.tabIndex = isVisible ? 0 : -1;
+      if (!isVisible) hotspot.classList.remove("is-open");
+    });
+  };
   range.addEventListener("input", updateSplit);
   updateSplit();
 });
